@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-25",
+  "scope": "127 final V3 candidate source files, including scan summaries; no self-hashes stored in this summary",
+  "file_count": 127,
+  "findings": [],
+  "non_utf8_files": [],
+  "limits": "Pattern matching only. No legal clearance, no unreachable Git objects, no proof against all secrets or personal information."
+}
