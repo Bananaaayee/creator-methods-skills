@@ -234,15 +234,15 @@
         "path": "docs/使用指南.md"
       },
       {
-        "han_characters": 779,
+        "han_characters": 829,
         "path": "docs/公开范围与安全检查.md"
       },
       {
-        "han_characters": 77,
+        "han_characters": 921,
         "path": "docs/发行状态.md"
       },
       {
-        "han_characters": 1595,
+        "han_characters": 1262,
         "path": "docs/发行验证记录.md"
       },
       {
@@ -250,19 +250,19 @@
         "path": "docs/安装Skill.md"
       },
       {
-        "han_characters": 280,
+        "han_characters": 422,
         "path": "downloads/Hetongxue.md"
       },
       {
-        "han_characters": 271,
+        "han_characters": 413,
         "path": "downloads/Lawrence.md"
       },
       {
-        "han_characters": 273,
+        "han_characters": 415,
         "path": "downloads/MediaStorm.md"
       },
       {
-        "han_characters": 181,
+        "han_characters": 287,
         "path": "downloads/README.md"
       },
       {
@@ -504,11 +504,11 @@
   "path_policy": "All report paths are relative to the repository, including ../release-assets/ for sibling assets; the report excludes itself from text-file counts.",
   "relative_links": {
     "code_examples_skipped": true,
-    "external_links_skipped": 21,
+    "external_links_skipped": 51,
     "failures": [],
     "local_fragments_checked": 80,
     "markdown_files_checked": 59,
-    "relative_links_checked": 258,
+    "relative_links_checked": 276,
     "result": "pass"
   },
   "release_tag": "atlas-v3-2026.10.25",
