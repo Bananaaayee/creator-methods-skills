@@ -1,0 +1,220 @@
+{
+  "checkedOn": "2026-10-25",
+  "versions": {
+    "node": "24.19.0",
+    "npm": "12.2.1",
+    "skills": "1.7.4",
+    "geminiCli": "0.65.0"
+  },
+  "scope": "Local baseline: 29 runtime files; installer discovery/copy/hash checks only.",
+  "total": 24,
+  "passed": 24,
+  "modelCalls": 0,
+  "privateRemoteAuthenticatedInstallTested": false,
+  "results": [
+    {
+      "id": "vercel-list-root",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "vercel-list-he-tongxue-creator",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "vercel-list-lawrence-creator",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "vercel-list-media-storm-creator",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "vercel-install-all",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "vercel-installed-list",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "vercel-installed-file-hashes",
+      "passed": true,
+      "files": [
+        {
+          "skill": "he-tongxue-creator",
+          "count": 10,
+          "identical": true
+        },
+        {
+          "skill": "lawrence-creator",
+          "count": 10,
+          "identical": true
+        },
+        {
+          "skill": "media-storm-creator",
+          "count": 9,
+          "identical": true
+        }
+      ]
+    },
+    {
+      "id": "vercel-install-he-tongxue-creator",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "vercel-install-he-tongxue-creator-file-hashes",
+      "passed": true,
+      "files": [
+        {
+          "skill": "he-tongxue-creator",
+          "count": 10,
+          "identical": true
+        }
+      ]
+    },
+    {
+      "id": "vercel-install-lawrence-creator",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "vercel-install-lawrence-creator-file-hashes",
+      "passed": true,
+      "files": [
+        {
+          "skill": "lawrence-creator",
+          "count": 10,
+          "identical": true
+        }
+      ]
+    },
+    {
+      "id": "vercel-install-media-storm-creator",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "vercel-install-media-storm-creator-file-hashes",
+      "passed": true,
+      "files": [
+        {
+          "skill": "media-storm-creator",
+          "count": 9,
+          "identical": true
+        }
+      ]
+    },
+    {
+      "id": "gemini-root-negative",
+      "passed": true,
+      "exitCode": 1,
+      "expectCode": 1
+    },
+    {
+      "id": "gemini-install-container",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "gemini-installed-list",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "gemini-installed-file-hashes",
+      "passed": true,
+      "files": [
+        {
+          "skill": "he-tongxue-creator",
+          "count": 10,
+          "identical": true
+        },
+        {
+          "skill": "lawrence-creator",
+          "count": 10,
+          "identical": true
+        },
+        {
+          "skill": "media-storm-creator",
+          "count": 9,
+          "identical": true
+        }
+      ]
+    },
+    {
+      "id": "gemini-install-he-tongxue-creator",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "gemini-install-he-tongxue-creator-file-hashes",
+      "passed": true,
+      "files": [
+        {
+          "skill": "he-tongxue-creator",
+          "count": 10,
+          "identical": true
+        }
+      ]
+    },
+    {
+      "id": "gemini-install-lawrence-creator",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "gemini-install-lawrence-creator-file-hashes",
+      "passed": true,
+      "files": [
+        {
+          "skill": "lawrence-creator",
+          "count": 10,
+          "identical": true
+        }
+      ]
+    },
+    {
+      "id": "gemini-install-media-storm-creator",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "gemini-install-media-storm-creator-file-hashes",
+      "passed": true,
+      "files": [
+        {
+          "skill": "media-storm-creator",
+          "count": 9,
+          "identical": true
+        }
+      ]
+    },
+    {
+      "id": "gemini-discovers-vercel-agents-alias",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    }
+  ]
+}
