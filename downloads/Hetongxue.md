@@ -4,9 +4,9 @@
 
 **普通聊天用户：[下载完整TXT](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/Hetongxue-Portable.txt) · [下载完整Markdown](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/Hetongxue-Portable.md)**
 
-这是真实Release附件地址。当前为Private发行，仅有权访问仓库的账号可下载；页面跳转后若提示登录，请使用同一授权账号。公开状态以[发行状态](../docs/发行状态.md)与GitHub实际页面为准。
+这是真实Release附件地址。维护者已授权现有仓库公开；现可匿名读取，无需本项目的GitHub访问授权。实际公开状态与下载验收以[发行状态](../docs/发行状态.md)和GitHub页面为准。
 
-本轮Chrome环境拦截了GitHub附件下载（ERR_BLOCKED_BY_CLIENT），端到端下载尚未通过；可先使用本地交付ZIP，或阅读仓库全文复制。[实际测试记录](../docs/发行状态.md)
+此前本次Chrome客户端曾拦截GitHub附件下载（ERR_BLOCKED_BY_CLIENT），当时未通过端到端下载测试。公开后的下载结果以[实际测试记录](../docs/发行状态.md)为准；遇到客户端限制可阅读仓库全文复制或使用本地交付ZIP。
 
 只想先看内容：[阅读完整TXT](../portable/Hetongxue-Portable.txt) · [阅读完整Markdown](../portable/Hetongxue-Portable.md)。也可从仓库文件页使用Raw/下载按钮保存。
 
