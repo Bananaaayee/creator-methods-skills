@@ -14,7 +14,7 @@
   },
   "archives": {
     "Creator-Methods-Atlas-Portable.zip": {
-      "bytes": 1187769,
+      "bytes": 1188725,
       "compression": "ZIP_STORED",
       "entries": [
         "CHANGELOG.md",
@@ -39,7 +39,7 @@
         0,
         0
       ],
-      "sha256": "6a49d224e69f8c544fba4fc407b092a35e4752d92c1f6f5ff2fb72e293c6b00e",
+      "sha256": "c8e552be72c0af80fedf9f2e12790ecf4d01611653f28049876817c99caf0a27",
       "unix_file_mode": "100644"
     },
     "Creator-Methods-Atlas-Skills.zip": {
@@ -1254,11 +1254,11 @@
     "CHANGELOG.md": {
       "policy": "Only relative navigation targets change. Standalone assets link to explicit GitHub reading pages; in the portable ZIP, links to six full method files stay local and other repository paths point to GitHub reading pages.",
       "portable_archive_links_rewritten": 0,
-      "portable_archive_sha256": "4d657bdfc8c0154ed3271384d65b1dbda7e1c8c9ecec00700ed5915146a4de1a",
+      "portable_archive_sha256": "38deb01cdc6fb666ad6a8206f5a5069264623be63d26ff4f67abc9d56c9b3227",
       "source": "CHANGELOG.md",
-      "source_sha256": "4d657bdfc8c0154ed3271384d65b1dbda7e1c8c9ecec00700ed5915146a4de1a",
+      "source_sha256": "38deb01cdc6fb666ad6a8206f5a5069264623be63d26ff4f67abc9d56c9b3227",
       "standalone_links_rewritten": 0,
-      "standalone_sha256": "4d657bdfc8c0154ed3271384d65b1dbda7e1c8c9ecec00700ed5915146a4de1a"
+      "standalone_sha256": "38deb01cdc6fb666ad6a8206f5a5069264623be63d26ff4f67abc9d56c9b3227"
     },
     "Cross-Platform-Guide.zh-CN.md": {
       "policy": "Only relative navigation targets change. Standalone assets link to explicit GitHub reading pages; in the portable ZIP, links to six full method files stay local and other repository paths point to GitHub reading pages.",
@@ -1271,40 +1271,40 @@
     },
     "DISCLAIMER.md": {
       "policy": "Only relative navigation targets change. Standalone assets link to explicit GitHub reading pages; in the portable ZIP, links to six full method files stay local and other repository paths point to GitHub reading pages.",
-      "portable_archive_links_rewritten": 0,
-      "portable_archive_sha256": "9e3919f60542b1593c8bdb4c6ca98df5ee9d32afe909215c87ce8c71935bf979",
+      "portable_archive_links_rewritten": 1,
+      "portable_archive_sha256": "856cb2fe93c7927d837c9447b61807c3b6aa765515197fef822ec2317955cd62",
       "source": "DISCLAIMER.md",
-      "source_sha256": "9e3919f60542b1593c8bdb4c6ca98df5ee9d32afe909215c87ce8c71935bf979",
-      "standalone_links_rewritten": 0,
-      "standalone_sha256": "9e3919f60542b1593c8bdb4c6ca98df5ee9d32afe909215c87ce8c71935bf979"
+      "source_sha256": "e6289ef528ac97261b6b19505555a4a6a1461a0dcb3ca54eae53a755abf063c1",
+      "standalone_links_rewritten": 1,
+      "standalone_sha256": "856cb2fe93c7927d837c9447b61807c3b6aa765515197fef822ec2317955cd62"
     },
     "KNOWN_LIMITS.md": {
       "policy": "Only relative navigation targets change. Standalone assets link to explicit GitHub reading pages; in the portable ZIP, links to six full method files stay local and other repository paths point to GitHub reading pages.",
-      "portable_archive_links_rewritten": 0,
-      "portable_archive_sha256": "567f242822ef297751818cfc8e8f5128b641401d7026e63707d538f0671a861f",
+      "portable_archive_links_rewritten": 1,
+      "portable_archive_sha256": "fb3b61d75b93047508d60dcf3a4ada0f6dc8b2050bd787d1c067183e732a9641",
       "source": "KNOWN_LIMITS.md",
-      "source_sha256": "567f242822ef297751818cfc8e8f5128b641401d7026e63707d538f0671a861f",
-      "standalone_links_rewritten": 0,
-      "standalone_sha256": "567f242822ef297751818cfc8e8f5128b641401d7026e63707d538f0671a861f"
+      "source_sha256": "6fe406c9e6fc6758a74b466786c8145bcdaa033a18286cec09f9064c162987f6",
+      "standalone_links_rewritten": 1,
+      "standalone_sha256": "fb3b61d75b93047508d60dcf3a4ada0f6dc8b2050bd787d1c067183e732a9641"
     },
     "README.md": {
       "policy": "Only relative navigation targets change. Standalone assets link to explicit GitHub reading pages; in the portable ZIP, links to six full method files stay local and other repository paths point to GitHub reading pages.",
-      "portable_archive_links_rewritten": 16,
-      "portable_archive_sha256": "299212ce582b53cb88db2a0712934b8d47058bf52cb8636e37e751612ef7c76e",
+      "portable_archive_links_rewritten": 17,
+      "portable_archive_sha256": "39444a735fd60598220c7e49b0ee43ed65671d7c8beec2464ba6fbf94d5d5452",
       "source": "README.md",
-      "source_sha256": "9e2aefd130f3ba163a9d69c3d238fe83184ef9439c85a785984fffdd0897db3b",
-      "standalone_links_rewritten": 16,
-      "standalone_sha256": "299212ce582b53cb88db2a0712934b8d47058bf52cb8636e37e751612ef7c76e"
+      "source_sha256": "e1e3f516ef83a6da78dcc520c805face13a3b35b60ee9f6193197cee7c844926",
+      "standalone_links_rewritten": 17,
+      "standalone_sha256": "39444a735fd60598220c7e49b0ee43ed65671d7c8beec2464ba6fbf94d5d5452"
     }
   },
   "maintainer": "BANANAAAYEE",
   "portable_policy": "The .md and .txt variants contain identical UTF-8 bytes. Source bodies are retained in full; only relative Markdown file links are rewritten to explicit internal anchors.",
   "release_assets": {
     "CHANGELOG.md": {
-      "bytes": 1522,
-      "characters": 708,
+      "bytes": 2033,
+      "characters": 923,
       "encoding": "UTF-8",
-      "sha256": "4d657bdfc8c0154ed3271384d65b1dbda7e1c8c9ecec00700ed5915146a4de1a"
+      "sha256": "38deb01cdc6fb666ad6a8206f5a5069264623be63d26ff4f67abc9d56c9b3227"
     },
     "Cross-Platform-Guide.zh-CN.md": {
       "bytes": 8381,
@@ -1313,10 +1313,10 @@
       "sha256": "15d76a155de4e6262b7ae64ab0321312a4b9d76e28a53e1a746182114f115181"
     },
     "DISCLAIMER.md": {
-      "bytes": 1662,
-      "characters": 612,
+      "bytes": 1755,
+      "characters": 709,
       "encoding": "UTF-8",
-      "sha256": "9e3919f60542b1593c8bdb4c6ca98df5ee9d32afe909215c87ce8c71935bf979"
+      "sha256": "856cb2fe93c7927d837c9447b61807c3b6aa765515197fef822ec2317955cd62"
     },
     "Hetongxue-Portable.md": {
       "bytes": 162326,
@@ -1331,10 +1331,10 @@
       "sha256": "f2365c2db6f7503c735d834acc02f71a8f79fbe431312721d9ea7eb81f168981"
     },
     "KNOWN_LIMITS.md": {
-      "bytes": 1658,
-      "characters": 592,
+      "bytes": 1886,
+      "characters": 744,
       "encoding": "UTF-8",
-      "sha256": "567f242822ef297751818cfc8e8f5128b641401d7026e63707d538f0671a861f"
+      "sha256": "fb3b61d75b93047508d60dcf3a4ada0f6dc8b2050bd787d1c067183e732a9641"
     },
     "Lawrence-Portable.md": {
       "bytes": 183694,
@@ -1361,10 +1361,10 @@
       "sha256": "14b288e21b6a0316c32945ff3716c669564d71e24ecc3c1d72e854949bd3e285"
     },
     "README.md": {
-      "bytes": 6842,
-      "characters": 4029,
+      "bytes": 6966,
+      "characters": 4141,
       "encoding": "UTF-8",
-      "sha256": "299212ce582b53cb88db2a0712934b8d47058bf52cb8636e37e751612ef7c76e"
+      "sha256": "39444a735fd60598220c7e49b0ee43ed65671d7c8beec2464ba6fbf94d5d5452"
     }
   },
   "release_assets_self_reference": "distribution-manifest.json and SHA256SUMS are omitted from this manifest's asset inventory to avoid cyclic hashes. SHA256SUMS includes the manifest, every named release asset and every archive, and excludes itself.",
