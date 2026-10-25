@@ -1,0 +1,58 @@
+{
+  "checkedOn": "2026-10-25",
+  "versions": {
+    "node": "24.19.0",
+    "npm": "12.2.1",
+    "skills": "1.7.4",
+    "geminiCli": "0.65.0"
+  },
+  "source": "https://github.com/vercel-labs/agent-skills",
+  "scope": "Separate public control repository; excluded from the 24+15 local counts. Not the Atlas private repository.",
+  "modelCalls": 0,
+  "privateRemoteAuthenticatedInstallTested": false,
+  "checks": [
+    {
+      "id": "vercel-list-github-root",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "vercel-list-github-subdir",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "gemini-install-github-subdir",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "gemini-root-negative",
+      "passed": true,
+      "exitCode": 1,
+      "expectCode": 1
+    },
+    {
+      "id": "gemini-install-container",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "gemini-installed-list",
+      "passed": false,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "gemini-installed-list",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    }
+  ],
+  "trustNote": "First public Gemini list was blocked by untrusted temporary workspace; repeated with GEMINI_CLI_TRUST_WORKSPACE=true only in the isolated child process and succeeded."
+}
