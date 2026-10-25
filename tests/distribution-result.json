@@ -6,15 +6,15 @@
   "encoding_and_chinese": {
     "chinese_documents": [
       {
-        "han_characters": 365,
+        "han_characters": 499,
         "path": "CHANGELOG.md"
       },
       {
-        "han_characters": 474,
+        "han_characters": 477,
         "path": "DISCLAIMER.md"
       },
       {
-        "han_characters": 489,
+        "han_characters": 528,
         "path": "KNOWN_LIMITS.md"
       },
       {
@@ -22,7 +22,7 @@
         "path": "NOTICE.md"
       },
       {
-        "han_characters": 1279,
+        "han_characters": 1288,
         "path": "README.md"
       },
       {
@@ -234,35 +234,35 @@
         "path": "docs/使用指南.md"
       },
       {
-        "han_characters": 829,
+        "han_characters": 910,
         "path": "docs/公开范围与安全检查.md"
       },
       {
-        "han_characters": 921,
+        "han_characters": 1337,
         "path": "docs/发行状态.md"
       },
       {
-        "han_characters": 1262,
+        "han_characters": 1498,
         "path": "docs/发行验证记录.md"
       },
       {
-        "han_characters": 842,
+        "han_characters": 1048,
         "path": "docs/安装Skill.md"
       },
       {
-        "han_characters": 422,
+        "han_characters": 441,
         "path": "downloads/Hetongxue.md"
       },
       {
-        "han_characters": 413,
+        "han_characters": 432,
         "path": "downloads/Lawrence.md"
       },
       {
-        "han_characters": 415,
+        "han_characters": 434,
         "path": "downloads/MediaStorm.md"
       },
       {
-        "han_characters": 287,
+        "han_characters": 333,
         "path": "downloads/README.md"
       },
       {
@@ -508,7 +508,7 @@
     "failures": [],
     "local_fragments_checked": 80,
     "markdown_files_checked": 59,
-    "relative_links_checked": 276,
+    "relative_links_checked": 282,
     "result": "pass"
   },
   "release_tag": "atlas-v3-2026.10.25",
@@ -577,7 +577,7 @@
       }
     ],
     "failures": [],
-    "links_checked": 34,
+    "links_checked": 37,
     "no_release_download_urls_constructed": true,
     "result": "pass"
   }
