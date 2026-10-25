@@ -1,51 +1,68 @@
-# 三套 Creator Skill｜VNext
+# Creator Methods Atlas｜创作方法图谱
 
-把有依据的创作方法用于自己的题材、素材和表达。独立、非官方研究工具，不冒充创作者，不承诺复制作品效果。
+从影视飓风、何同学和小鹿 Lawrence 的公开作品中整理创作方法，帮助你选择题目、组织真实素材、设计结构与修改表达。
 
-本轮最明确的改进是可追溯的作品摘要纠正与运行边界。通用创作题未证明稳定、全面优于成熟旧版；重叠任务仍可能给出高度相近的方案。请同时阅读评测及已知问题。
+**[下载文件](downloads/README.md) ｜ [复制使用](copy/README.md) ｜ [安装Skill](docs/安装Skill.md)**
 
-| 方法包 | 本轮版本 | 适合先解决的问题 |
+维护者：**BANANAAAYEE**。发行V3，更新于**2026-10-25**。目前仓库为**Private**，仍在非公开准备阶段，尚未向普通观众开放；公开前需维护者确认。
+
+## 先选一位，再选一种用法
+
+| 方法 | 先解决什么 | 使用入口 |
 |---|---|---|
-| [何同学](creators/he-tongxue/README.md) | 1.3.0 | 什么问题值得拍，怎样设计可理解的验证与制作任务 |
-| [小鹿 Lawrence](creators/lawrence/README.md) | 1.3.0 | 什么真实观察能长成主题，怎样连接人物、经历和信息 |
-| [影视飓风](creators/media-storm/README.md) | 1.22.0 | 影像需要回答什么，展示、测试、解释与样片各支持什么 |
+| **影视飓风** | 技术或产品问题怎样用影像回答，展示与测试怎样支持结论 | **[下载](downloads/MediaStorm.md)** · [复制](copy/MediaStorm/README.md) |
+| **何同学**（老师好我叫何同学） | 哪个具体问题值得拍，怎样设计看得懂的验证与制作任务 | **[下载](downloads/Hetongxue.md)** · [复制](copy/Hetongxue/README.md) |
+| **小鹿 Lawrence** | 真实观察怎样长成主题，人物、旅程、信息与个人体验怎样连接 | **[下载](downloads/Lawrence.md)** · [复制](copy/Lawrence/README.md) |
 
-三套均保留既有路线、作品摘要和参考覆盖机制。新增建议区分原文观察、研究推论与工具运行设计；没有证据支持的创作者内心决策不会当成事实。完整横向说明见 [三套方法对照](docs/三套方法横向对照.md)。
+它不是创作者的官方AI模型，也不是简单模仿口吻。你自己的判断、素材和表达始终优先；同一任务可能合理地得到相近方案，不必强行套成三种“风格”。
 
-## 先用起来
+## 如何使用
 
-**ChatGPT 便携文件：**选择对应包的 `dist/*-portable.md`，上传至支持 Markdown 附件的对话或项目，并明确提出任务，例如：“请读取这份方法文件。根据我已有的素材设计90秒结构，不能补拍，保留我的平实表达。”文件是完整嵌入版；引用可按文内作品ID和嵌入章节查找。上传附件不等于注册了平台插件；模型必须实际读到文件。此次未做 ChatGPT 网页上传验收。
+**能上传文件：**选一份完整TXT，上传到你常用的聊天AI，再发送创作任务。若当前客户端支持MD，也可下载同内容MD。无需安装代码工具或提供原始语料库。
 
-**模块化安装：**对应包的 `skill/` 包含标准 `SKILL.md`、六个核心模块及按需参考。可复制整个文件夹到支持技能的环境，保持相对路径；只复制入口文件会缺内容。用本仓库工具安装到自己选择的目录：
+**不能上传：**点“复制”，按页面先发短启动说明，再发完整方法，最后发任务。全文太长就按编号分段。短启动词不是完整Skill；没读全、漏分段或上下文不够时，必须说明目前只是有限上下文版本。
 
-```bash
-python3 scripts/install.py he-tongxue --destination ~/.codex/skills
-python3 scripts/install.py lawrence --destination ~/.codex/skills
-python3 scripts/install.py media-storm --destination ~/.codex/skills
+**开发工具用户：**下载单个标准Skill包，或按[安装说明](docs/安装Skill.md)使用Codex、Claude Code、Gemini CLI与兼容安装器。只在支持的工具中安装；普通聊天软件不必也不一定能安装SKILL目录。
+
+方法文件本身不以任何特定平台的付费订阅为统一前提。平台自身的账户、套餐、版本、地区、管理员设置和上下文限制仍可能不同。
+
+### 你使用哪个AI
+
+| 平台 | 推荐起步 |
+|---|---|
+| ChatGPT | 完整TXT附件；常用时放入Project资料并添加启动指令；专用Skills入口按账号条件使用 |
+| Claude网页／App | 完整TXT或Project知识；已有Skills导入入口时使用单个标准包 |
+| Gemini网页／App | 完整附件或粘贴；Skills/Gems正有迁移，以当前官方入口为准 |
+| 豆包 | 当前客户端若接受TXT附件就上传；不能上传就复制全文或分段，不需要代码工具 |
+| DeepSeek网页／App | 能接受附件时用完整TXT，否则复制全文；不需要开发者API密钥 |
+| 其他聊天AI | 文件、完整粘贴或分段任选；不要把提供资料称为永久训练或完整安装 |
+
+详见**[简单跨平台使用指南](docs/使用指南.md)**。各聊天平台本轮均未登录实测，教程依据官方说明并逐项标明未确认功能；安装器发现／复制测试另有实际记录。
+
+## 一句话任务示例
+
+> 请先读取我提供的完整方法，说明缺失或未读部分。我只有手机和周末两天，已有修好台灯的画面、回答“还能用”的录音、排队的人和桌面零件。请设计90秒结构，保留平实语气，不补失败，也不替人物写心理。先给结构，不写全文。
+
+## 安装命令
+
+下列Git命令需要仓库对你可读；当前Private阶段，未授权的访客无法匿名获取。普通用户可以直接用文件，不必运行它们。
+
+```sh
+npx skills add Bananaaayee/creator-methods-skills --list
+npx skills add Bananaaayee/creator-methods-skills --skill he-tongxue-creator
+gemini skills install https://github.com/Bananaaayee/creator-methods-skills --path skills --scope workspace
 ```
 
-工具拒绝覆盖同名目录。已有安装先另行备份或选择新目录；本轮没有改动用户现有技能设置。加载后可直接说“用何同学/小鹿/影视飓风方法，帮我……”，也可在支持的环境显式调用相应技能名。方法不会自动授权发邮件、上传或发布你的作品。
+三套标准名称为`he-tongxue-creator`、`lawrence-creator`、`media-storm-creator`。Gemini整库需要`--path skills`；单个需要`--path skills/<name>`，不要省略。[确切目录、其他命令与测试范围](docs/安装Skill.md)
 
-## 怎么协作
+## 本次实际升级与限制
 
-给出目标观众、期望交付、已有材料及不可改项即可，不必先填写整张表。可以带想法、实验结果、碎片素材或现稿开始。明确的旁白或修改请求就是该范围的授权；局部修改不会要求先重做全片。方法不适配时会缩小任务或采用清单、说明、记录等简单形式。
+本轮把已验证的同一方法源构建为完整MD、等价TXT、可复制全文、无损分段及三个标准安装包，加入独立声明、跨平台说明与实际安装器测试。没有重新发明作者模型，也没有重跑大规模创作评测；VNext事实边界与作品纠错全部保留。
 
-证据不足时应交付有限判断、待测计划或可用片段，不能捏造测试结果、采访、失败、心理变化或个人经历。作品索引、Capsule、原文核对和文字支持是不同覆盖层级；历史 VERIFIED 不是整部作品、视觉效果或科学因果的通行认证。
+方法版本：何同学**1.3.0**、小鹿**1.3.0**、影视飓风**1.22.0**。VNext通用创作题未证明稳定全面优于旧版，精确字数和重叠任务的方法区分仍有限制。[更新记录](CHANGELOG.md) · [已知限制](KNOWN_LIMITS.md) · [历史评测](https://github.com/Bananaaayee/creator-methods-skills/blob/e8a0d4747d26e63f79e873a3c4ad7fb539d04862/tests/REPORT.md)
 
-## 验证与维护
+本项目为BANANAAAYEE的第三方独立研究，与三位创作者及团队无已确认官方合作、授权或背书，不代表其真实内部流程。第三方作品权利归权利人，使用者应核实事实与引用，不复制受保护的长篇原文。**[完整免责声明](DISCLAIMER.md)**
 
-- [测试协议](tests/PROTOCOL.md)、[原创测试输入](tests/cases.json)及[审计定向回归](tests/audit-regressions.json)。
-- [评测报告](tests/REPORT.md)：记录无Skill、旧版与新版的真实输出、评分依据、失败与复测；结构检查另列。
-- [版本变化](CHANGELOG.md)与各包的 `CHANGELOG.md`、`KNOWN_ISSUES.md`。
-- [分发边界](NOTICE.md)：原始字幕、Research Cards、完整作品和账号信息不随仓库分发。
+技术文件统一由`skills/`方法源构建；普通观众只需上方三个入口。[发行验证记录](docs/发行验证记录.md)
 
-重建便携版：`python3 scripts/build_release.py`。结构与临时安装检查：`python3 scripts/validate_release.py`。行为评测需要当前账号支持指定模型；参见测试协议及脚本参数，不能用结构校验代替创作质量测试。
-
-```text
-creators/       三个独立方法包：skill / dist / docs / README / NOTICE / 变化与问题
-docs/           横向对照、基线校验及发布记录
-tests/          原创合成输入、执行与评分工具、真实结果和报告
-scripts/        安装、构建和结构检查
-```
-
-旧正式版在本地研究工作区独立保留；新私有仓库从本轮可分发版本开始，不上传完整研究资产。
+为完整保留旧版，GitHub中的`creators/`、旧测试／文档文件与`release-manifest.json`继续保留，后者只对应VNext。V3只维护`skills/`并使用`distribution-manifest.json`；旧构建器已另存档，普通用户仍从页面顶部三个入口开始。
