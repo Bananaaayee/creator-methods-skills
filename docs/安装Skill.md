@@ -18,7 +18,7 @@ Codex可显式调用`$he-tongxue-creator`等名称；Claude Code可用`/he-tongx
 
 ## 使用通用Skills安装器
 
-本轮以`skills 1.7.4`实际核对根`skills/<name>/SKILL.md`结构。以下远程命令需要仓库对调用者可读：当前仓库Private，匿名无法读取；公开确认前请用本地解压目录或正常的Git身份认证。
+本轮以`skills 1.7.4`实际核对根`skills/<name>/SKILL.md`结构。维护者已明确授权现有仓库公开；现为Public，以下远程命令可匿名读取，无需本项目的GitHub访问授权。公开后已通过匿名远端安装，详见[发行状态](发行状态.md)，不能把可读状态当作安装已通过。
 
 ```sh
 npx skills add Bananaaayee/creator-methods-skills --list
@@ -43,7 +43,7 @@ gemini skills install https://github.com/Bananaaayee/creator-methods-skills --pa
 gemini skills install https://github.com/Bananaaayee/creator-methods-skills --path skills/he-tongxue-creator --scope workspace
 ```
 
-另外两套把最后目录替换为`skills/lawrence-creator`或`skills/media-storm-creator`。当前Private仓库同样需要Git读取权限；不能把认证失败当成已经安装，也不能省略`--path`。
+另外两套把最后目录替换为`skills/lawrence-creator`或`skills/media-storm-creator`。Public仓库可匿名读取；安装器自己的确认、工作区信任和网络条件仍适用，不能省略`--path`。
 
 本地包不需要远程仓库权限：
 
@@ -60,6 +60,13 @@ gemini skills list
 
 已记录**24项本地基线检查＋15项最终追加检查**：覆盖三个技能的发现、单独/整组安装、Gemini原生列出、Claude Code目标的实际复制安装与登记、文件哈希及三个发布ZIP的结构。最终安装目录的35个文件与源一致。检查数包含文件完整性、预期失败及归档对照，**不等于39次远端安装或39项平台模型验证**。
 
-另以官方公开对照仓库执行过远程发现与子目录安装；本项目私有URL的无凭证`--list`也已实际被认证拒绝。**本项目私有远端的认证安装未测试**，不能声称它已匿名或认证安装通过。两个远端对照均不计入上述39项。Codex/Claude Code中的实际模型自动调用、Claude/Gemini网页ZIP导入均未实测，不能宣传全平台认证。检查条件、非敏感结果和隔离复现方法见[安装验证记录](../tests/installation/README.md)。
+另以官方公开对照仓库执行过远程发现与子目录安装；本项目在Private阶段的无凭证`--list`曾实际被认证拒绝。该阶段的认证远端安装未测试；公开后的匿名远端验收已通过，详见发行状态，不追溯改写原测试。两个远端对照均不计入上述39项。Codex/Claude Code中的实际模型自动调用、Claude/Gemini网页ZIP导入均未实测，不能宣传全平台认证。检查条件、非敏感结果和隔离复现方法见[安装验证记录](../tests/installation/README.md)。
 
 规范与当前工具说明可变，安装前查[开放规范](https://agentskills.io/specification)及对应官方文档；不要覆盖已有同名技能而不保留自己的备份。
+
+
+### 公开后的真实匿名远端验收（2026-10-25）
+
+仓库改为Public后，以无凭证隔离环境执行4条命令，全部exit0：根`npx skills add ... --list`发现3套；指定何同学`-a codex --copy`安装后12/12文件SHA相同；Gemini原生远端`--path skills --scope workspace`安装3套，`skills list`全部Enabled，35/35文件SHA相同。工具仍为Skills1.7.4、Gemini0.65.0、Node24.19.0、npm12.2.1。
+
+首次受限网络无法解析GitHub，原失败独立保留；获准只读网络后同一隔离脚本成功。未使用认证凭据、未更改真实用户配置、没有模型调用。该增量不计入旧39+5项，也不证明聊天平台导入或创作效果。附件CDN下载与Git远端安装不同，先前Chrome客户端下载拦截记录继续保留。
