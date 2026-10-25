@@ -1,0 +1,178 @@
+{
+  "r1-initial-invalid": {
+    "he-tongxue": {
+      "n": 12,
+      "mean_out_of_28": {
+        "plain": 27.5,
+        "he-tongxue:old": 27.417,
+        "he-tongxue:new": 27.417
+      },
+      "new_vs_old": {
+        "wins": 2,
+        "ties": 8,
+        "losses": 2
+      },
+      "critical_failures": []
+    },
+    "lawrence": {
+      "n": 12,
+      "mean_out_of_28": {
+        "plain": 27.833,
+        "lawrence:old": 27.917,
+        "lawrence:new": 28
+      },
+      "new_vs_old": {
+        "wins": 1,
+        "ties": 11,
+        "losses": 0
+      },
+      "critical_failures": []
+    },
+    "media-storm": {
+      "n": 12,
+      "mean_out_of_28": {
+        "plain": 27.833,
+        "media-storm:old": 27.917,
+        "media-storm:new": 27.917
+      },
+      "new_vs_old": {
+        "wins": 1,
+        "ties": 10,
+        "losses": 1
+      },
+      "critical_failures": []
+    }
+  },
+  "r1-corrected": {
+    "he-tongxue": {
+      "n": 12,
+      "mean_out_of_28": {
+        "plain": 27.833,
+        "he-tongxue:old": 27.75,
+        "he-tongxue:new": 27.667
+      },
+      "new_vs_old": {
+        "wins": 1,
+        "ties": 9,
+        "losses": 2
+      },
+      "critical_failures": []
+    },
+    "lawrence": {
+      "n": 12,
+      "mean_out_of_28": {
+        "plain": 27.667,
+        "lawrence:old": 28,
+        "lawrence:new": 27.917
+      },
+      "new_vs_old": {
+        "wins": 0,
+        "ties": 11,
+        "losses": 1
+      },
+      "critical_failures": []
+    },
+    "media-storm": {
+      "n": 12,
+      "mean_out_of_28": {
+        "plain": 27.833,
+        "media-storm:old": 27.833,
+        "media-storm:new": 28
+      },
+      "new_vs_old": {
+        "wins": 2,
+        "ties": 10,
+        "losses": 0
+      },
+      "critical_failures": []
+    }
+  },
+  "r2-corrected": {
+    "he-tongxue": {
+      "n": 12,
+      "mean_out_of_28": {
+        "plain": 27.833,
+        "he-tongxue:old": 27.833,
+        "he-tongxue:new": 27.583
+      },
+      "new_vs_old": {
+        "wins": 1,
+        "ties": 9,
+        "losses": 2
+      },
+      "critical_failures": []
+    },
+    "lawrence": {
+      "n": 12,
+      "mean_out_of_28": {
+        "plain": 27.667,
+        "lawrence:old": 28,
+        "lawrence:new": 28
+      },
+      "new_vs_old": {
+        "wins": 0,
+        "ties": 12,
+        "losses": 0
+      },
+      "critical_failures": []
+    },
+    "media-storm": {
+      "n": 12,
+      "mean_out_of_28": {
+        "plain": 27.583,
+        "media-storm:old": 27.833,
+        "media-storm:new": 27.917
+      },
+      "new_vs_old": {
+        "wins": 1,
+        "ties": 11,
+        "losses": 0
+      },
+      "critical_failures": []
+    }
+  },
+  "final-corrected": {
+    "he-tongxue": {
+      "n": 12,
+      "mean_out_of_28": {
+        "plain": 27.667,
+        "he-tongxue:old": 27.833,
+        "he-tongxue:new": 27.917
+      },
+      "new_vs_old": {
+        "wins": 2,
+        "ties": 9,
+        "losses": 1
+      },
+      "critical_failures": []
+    },
+    "lawrence": {
+      "n": 12,
+      "mean_out_of_28": {
+        "plain": 27.667,
+        "lawrence:old": 28,
+        "lawrence:new": 28
+      },
+      "new_vs_old": {
+        "wins": 0,
+        "ties": 12,
+        "losses": 0
+      },
+      "critical_failures": []
+    },
+    "media-storm": {
+      "n": 12,
+      "mean_out_of_28": {
+        "plain": 27.583,
+        "media-storm:old": 27.833,
+        "media-storm:new": 27.917
+      },
+      "new_vs_old": {
+        "wins": 1,
+        "ties": 11,
+        "losses": 0
+      },
+      "critical_failures": []
+    }
+  }
+}

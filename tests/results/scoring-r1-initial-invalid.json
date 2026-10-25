@@ -1,0 +1,2292 @@
+{
+  "valid_for_comparison": false,
+  "invalid_reason": "Initial judge penalized identity masking and real method-attachment context; preserved for audit, replaced by corrected scoring.",
+  "rows": [
+    {
+      "creator": "he-tongxue",
+      "id": "C01",
+      "decoded": {
+        "he-tongxue:old": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "三个切入点均说明了可拍材料或取证限制；选择记录工具间搬运，适合周末、手机和录屏的条件。",
+            "分别解释放弃另两个方向的原因，并给出维护耗时、等待返工等具体改选证据。",
+            "明确第二次试做可能受熟练度影响，且允许撤回“工具拖慢工作”的解释，没有代写用户经历。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "plain": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "提供三个方向、明确选择及两个放弃理由，四分钟时间线可直接落实到录屏和计时。",
+            "比较难度接近的任务，并交换流程先后顺序，同时观察成品质量，适合检验切换是否实际拖慢工作。",
+            "列出改选所需材料，保留现有流程更快的可能，并明确个人小样本和熟练度限制。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "he-tongxue:new": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "将问题收窄到具体任务中的设置和维护成本，给出完成标准、相近材料和四分钟结构，资源要求可控。",
+            "放弃协作瓶颈和购买盘点均有材料层面的理由，并明确什么记录会促成改选。",
+            "没有把购买工具解释成逃避工作；要求结果出来前不预写反转，并保留工具确实省时的结果。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者均充分完成任务，可以同分。A侧重观察完整流程，B更细化减少切换的比较，C更强调设置维护成本和预设完成标准；这些方法都适合现有资源。"
+    },
+    {
+      "creator": "he-tongxue",
+      "id": "C02",
+      "decoded": {
+        "he-tongxue:old": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 3
+          },
+          "reasons": [
+            "用两次不合适、第三次采用和最终修好组织过程，各阶段的素材与观众疑问衔接清楚。",
+            "将“母亲留下的伞”归于顾客原话，不推断母亲是否在世，也不编造尺寸原因、收入或顾客道谢。",
+            "最后一段说明了观众知道什么和使用什么素材，但没有按逐段要求交代此时的剩余期待或疑问已经闭合。"
+          ],
+          "critical_failure": false,
+          "total": 27
+        },
+        "he-tongxue:new": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 3
+          },
+          "reasons": [
+            "六段时间合计三分钟，用事实字幕、试装过程和顾客原话形成可执行的剪辑顺序。",
+            "明确不把一天只修好一把推成日常生意状况，也不补写故障原因、试撑或交接动作。",
+            "结尾段只列素材和字幕，未逐项说明观众此时知道什么、还期待什么；第五段也主要以停顿说明代替期待说明。"
+          ],
+          "critical_failure": false,
+          "total": 27
+        },
+        "plain": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 3
+          },
+          "reasons": [
+            "先交代伞的来历，再依次展示三根伞骨和修好结果，动作、字幕及现场声的使用足够具体。",
+            "明确不能把“一天修好一把”写成“整天都在修这一把”，也不重复同一次操作冒充新尝试，事实边界清楚。",
+            "倒数第二段明确剩余期待是看清结果，但最后一段仅给素材、现场声和结束字幕，未完整列出用户要求的逐段认知与期待。"
+          ],
+          "critical_failure": false,
+          "total": 27
+        }
+      },
+      "comparison": "三者都忠实使用材料，且没有制造商业困难、人物冲突或宏大结论。共同的小缺口是结束段没有完整填写逐段要求的信息项；叙事顺序差异本身不构成优劣。"
+    },
+    {
+      "creator": "he-tongxue",
+      "id": "C03",
+      "decoded": {
+        "he-tongxue:new": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 3
+          },
+          "reasons": [
+            "准确计算去掉D后可用81秒，以明确的片头、片尾定格补足9秒，时间线正好90秒且无需补拍。",
+            "舍弃无许可的D，不编造日出、交流或释怀，也不把静帧伪装成持续现场过程。",
+            "说明了画面、字幕和原声疑问的作用，但未明确旁白承担什么信息、是否采用无新增旁白方案，声音职责说明略有缺口。"
+          ],
+          "critical_failure": false,
+          "total": 27
+        },
+        "he-tongxue:old": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 3
+          },
+          "reasons": [
+            "将81秒可用素材与9秒黑底文字卡精确拼成90秒，每段素材和时长明确。",
+            "同时舍弃D的画面及关联声音，不借笑声制造交流；湿鞋原因、出行动机和心境变化均未被擅自补写。",
+            "交代了原声不可用时留静，以及让雾景自行提供信息，但没有明确旁白的信息职责或全片不新增旁白的决定。"
+          ],
+          "critical_failure": false,
+          "total": 27
+        },
+        "plain": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 3,
+            "template_restraint": 4,
+            "user_voice_scope": 3,
+            "constraint_completion": 3
+          },
+          "reasons": [
+            "素材总长89秒、去掉D后81秒的计算正确，两张文字卡补足9秒，剪辑方案无需新增现场素材。",
+            "明确排除D的画面和同期声，不伪造日出或鞋湿原因，并让“白跑了吗”保持开放。",
+            "开头概括为“带着期待出发”，加入了材料未明确提供的出发心态，轻微超出用户表达。",
+            "只在片头明确“无旁白”，其余段落主要说明原声和静音，未完整交代旁白与静默各自的信息职责。"
+          ],
+          "critical_failure": false,
+          "total": 25
+        }
+      },
+      "comparison": "三者都准确解决时长和D的许可问题，也没有虚构缺失镜头。A、B对用户心态更克制；C的“带着期待出发”缺乏明确依据。三者对旁白职责的说明均有轻微缺口。"
+    },
+    {
+      "creator": "he-tongxue",
+      "id": "C04",
+      "decoded": {
+        "he-tongxue:new": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "两分钟结构明确区分厂商参数、外观与人像展示、单次续航观察及走路样片能支持的有限结论。",
+            "将47分钟限定为室内20℃的一次结果，要求未提供的设置标为未记录，不把标称重量或4K60能力写成已验证事实。",
+            "购买条件对应短段静态拍摄、长录和边走边拍等实际需求，没有虚构竞品优势。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "plain": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "每段明确安排产品画面、参数卡、续航结果卡和原始样片，展示与证据的用途可直接落实。",
+            "指出厂商条件不明，因此47分钟既不能代表普遍续航，也不能直接证明虚标；没有记录时不制作伪记录。",
+            "购买建议以常用设置下确认续航为条件，并明确现有材料不能证明胜过同价竞品。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "he-tongxue:old": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "按厂商资料、续航记录、走路原片、人像展示和购买条件分配完整两分钟，证据用途清楚。",
+            "特别指出起始电量和录制规格尚未提供，不能默认满电4K60测试，也不能将47分钟推广为普遍上限。",
+            "把人像评价限定为个人观感，把抖动限定为该条样片；长录和行走拍摄的购买判断均保留必要验证条件。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者均充分满足，可以同分。A、B对参数核验和素材使用解释较细，C特别指出起始电量未知；都守住了单样本结论边界，并给出按拍摄任务区分的购买条件。"
+    },
+    {
+      "creator": "he-tongxue",
+      "id": "C05",
+      "decoded": {
+        "he-tongxue:old": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "直接交付120—180字范围内的旁白，无正文前流程介绍；离家五年、旧茶杯、香菜、手机、父亲问路况及无人哭均得到保留。",
+            "“我多了一条饮食要求，家里还没来得及更新”形成轻微自嘲；没有新增对白或替父母解释心理。",
+            "以“就是这些小事”收尾，语言平实，没有强加煽情高潮或乡愁名言。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "plain": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "直接提供符合120—180字要求的成稿，完整纳入所有给定事实，没有另编父母对白或心理。",
+            "“我也没比谁强”承接大家看手机，“没有什么适合配慢镜头的场面”提供适度自嘲，符合平实口吻。",
+            "从父亲问路况自然收束到“先说说路上的事”，没有把无人哭改造成催泪叙事。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "he-tongxue:new": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "成稿字数符合120—180字要求，无流程介绍，给定的家庭细节和晚饭过程均保留。",
+            "“家里的版本还没同步”和“省得我琢磨”构成轻微自嘲，没有新增父母心理或新对白。",
+            "结尾仍落在路况这一日常话题，未加入名言或强行升华。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三份均可直接使用，事实、字数及语气约束都完成充分；表达取向略有不同，不构成质量上的明显差距。"
+    },
+    {
+      "creator": "he-tongxue",
+      "id": "C06",
+      "decoded": {
+        "he-tongxue:new": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 3,
+            "actionability": 4,
+            "factual_honesty": 3,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "第一句和第三句逐字保留，只修改第二句，并用一句话解释改动，交付形式完全符合要求。",
+            "撤掉“击败了所有手机”和“任何场景都没有噪点”，也说明尚未测试的范围，修正方向合适。",
+            "新增“我觉得画质挺好”，但题目没有提供用户对画质的实际评价；虽已降为主观感受，仍引入了未经确认的体验判断。"
+          ],
+          "critical_failure": false,
+          "total": 26
+        },
+        "plain": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "首尾两句逐字保留，修改后的三句话之后只有一句解释，没有扩成脚本。",
+            "第二句明确限定为白天街景，并交代没有手机对照、其他场景及噪点表现待测，完整处理了原句两项无依据的断言。",
+            "“也得再试试”保持口语，没有补写新的测试结果或个人体验。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "he-tongxue:old": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "第一句和第三句一字未动，第二句之外没有改写正文，解释也控制为一句。",
+            "用“只用它拍过白天的街景”和“还没做过对照”替换画质比较及无噪点保证，准确落在已知证据范围内。",
+            "“画质和手机比怎么样”口语自然，没有新增未经确认的画质结论。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "B、C均充分满足要求：B更明确列出待测项目，C更简洁。A完成修改范围和格式要求，但新增了题目未提供的正面画质感受。"
+    },
+    {
+      "creator": "he-tongxue",
+      "id": "C07",
+      "decoded": {
+        "plain": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "开头直接承认尚未使用和计时，以“最后省了多少，就报多少”建立悬念与可信度，没有预写成功结果。",
+            "安排三对相近任务、随机分配和交替顺序，并把提问、等待、核验、修改及相关开销纳入记录，比较方法适合省时实验。",
+            "明确一天一人、免费工具确认、单项超时及失败处理，并区分现在可写和测试后可写的内容，限制了“一整天”的外推。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "he-tongxue:new": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "开头以“这个标题到底能不能留下”形成可验证的悬念，同时明说没有计时记录，没有冒充已完成实验。",
+            "八小时安排覆盖工具确认、材料准备、三组比较、质量复核和剪辑初版，符合一天一人执行的范围。",
+            "采用相近材料、抽签分配、交替顺序及全流程计时；明确质量不达标不能算成功，也要求长期收益估算单列假设。",
+            "现在可写与测试后可写的内容区分清楚，工具功能和免费额度均要求实际确认。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "he-tongxue:old": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "开头把“省下一整天”写成待验证的问题，并明确尚未使用和计时，没有预设成功。",
+            "两类配对任务、每份60分钟上限、交替操作顺序及统一验收标准具体可执行；缺少配对材料时缩减到一类，便于单人当天完成。",
+            "计入准备、等待、核查和返工，另记熟悉工具及额度中断；只有质量达标的配对才计算时间差。",
+            "明确免费工具须现场确认，并清楚区分可提前写的规则和必须测试后才能写的结果，证据不足时要求修改标题。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三份均充分满足要求。A、B的材料分配控制更明确，C通过较小实验规模和缩减方案提高执行余量；均没有虚构工具能力或省时成果。"
+    },
+    {
+      "creator": "he-tongxue",
+      "id": "C08",
+      "decoded": {
+        "plain": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "直接交付80字以内的通知，检修原因、周三9:00—12:00及图书馆和教学楼A的停水范围完整准确。",
+            "明确说明实验楼供水正常，并保留“提前接水”的准备动作，无故事、情绪或额外说明。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "he-tongxue:old": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "通知不超过80字，准确包含检修原因、停水时间和图书馆、教学楼A两个受影响地点。",
+            "“实验楼供水正常”清楚交代例外，“请大家提前接水”给出行动要求，没有引入无关叙事。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "he-tongxue:new": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "直接给出80字以内的通知，时间、地点及检修原因均与给定事实一致。",
+            "同时保留实验楼正常供水和提前接水两项信息，无故事、实验、情绪或创作者风格包装。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三个答案完全相同，均充分完成所有要求，应同分。"
+    },
+    {
+      "creator": "he-tongxue",
+      "id": "H01",
+      "decoded": {
+        "he-tongxue:old": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "工作日随机分配并比较日均时长，周末单列，直接处理日期类型混杂；同时要求保留异常日和完整原始数据。",
+            "明确系统测到的是指定App使用分钟数，补看手机总时长；视频顺序和每日操作都能直接执行。",
+            "无效结尾限定为这七天未观察到减少，不推广到所有人，也不安排失败或成长反转。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "he-tongxue:new": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "将作息相近的工作日配对、周末另配一对，提前随机决定模式；逐对展示分钟数和差值，比较单位清楚。",
+            "规定固定时间保存前一天记录，并记录漏切换、加班等情况，执行细节充分。",
+            "主动讨论实验关注效应；无效结尾也明确观看感受不在现有记录的回答范围内，没有补造效果。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "plain": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "采用三组日期配对，额外一天单列，并提醒按实际工作日与休息日分组，避免直接比较天数不同的总量。",
+            "预设最低实用收益、展示配对差值并补看总屏幕时间，使结果能够支持个人是否继续使用的决定。",
+            "明确承认空闲时间、内容吸引力等残余差异；无效或方向不一致都允许如实结束。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者均充分完成任务。A的分层日均比较清楚，B、C用配对呈现差异也适合七天的小规模观察；没有必要因方案形式不同拉开分数。"
+    },
+    {
+      "creator": "he-tongxue",
+      "id": "L01",
+      "decoded": {
+        "he-tongxue:new": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 3,
+            "template_restraint": 3,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "主题落在记得口味和递出早餐，旁白明确不知道老板是否幸福，没有借留白暗示其人生。",
+            "将报菜名作为事实证据、雨声作为现场停留，并提供完整旁白及四类不该写的拔高句，剪辑分工明确。",
+            "“不是所附研究的系统结论”引用了题目中不存在的研究背景，是无依据且无关的模板残留。"
+          ],
+          "critical_failure": false,
+          "total": 26
+        },
+        "he-tongxue:old": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 3,
+            "template_restraint": 2,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "以早饭被记住发展主题，要求只有实录应答足以体现熟悉时才使用，没有补造老板对白或动机。",
+            "三个段落分别安排互动原声、雨声和独自吃面，结尾回到观察范围；禁写句也逐一指出了虚构内容。",
+            "“所附[方法名称隐藏]研究”既无题目依据，又保留未处理的占位文字，明显破坏了成稿的克制与完整感。"
+          ],
+          "critical_failure": false,
+          "total": 25
+        },
+        "plain": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "从记得早餐发展主题，并明确“几次不用重新交代的点单”须与实拍互动相符，防止观察被扩写成生活全貌。",
+            "让报菜名和递碗提供事实、雨声连接空间，特别提醒不要用悲伤音乐把独处解释成孤独，声音分工具体。",
+            "禁写句分别对应未知内心、群体泛化和未经证明的治愈，留白没有承担缺失事实。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者的主题和声画方案都切题。C没有无依据的研究框架，表达最完整；A、B的扣分来自实际出现的研究声明与占位残留，而非旁白风格。"
+    },
+    {
+      "creator": "he-tongxue",
+      "id": "M01",
+      "decoded": {
+        "he-tongxue:old": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 3,
+            "template_restraint": 3,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "先手机全屏盲看，再定位局部差异并回到正常播放，最后比较平台版本，视觉证据对应实际可见收益。",
+            "控制源片、编码器和播放条件，记录实际码率；明确两段素材不能单独证明运动量的作用，也提醒发布视频自身会再压缩。",
+            "“不属于所附研究的系统覆盖”凭空引入研究背景，属于无关模板表述；其余技术结论保持了条件限制。"
+          ],
+          "critical_failure": false,
+          "total": 26
+        },
+        "he-tongxue:new": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "正常全屏观看、疑点回放与局部定位、平台复测形成完整论证；明确不能用缩小三分屏代替手机实际体验。",
+            "固定编码预设、码率控制方式和观看距离，并将未知的平台实际码率列为未知，控制与诚实边界清楚。",
+            "结论同时呈现可见变化、文件体积和上传代价，且不把未辨认出差别解释成文件相同或普遍码率标准。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "plain": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "从同源直接导出、随机编号盲看到原速复查，再进行平台盲看，步骤清楚，允许记录无法分辨的结果。",
+            "要求六个文件分别上传，说明拼成一个文件会改变平台测试条件；也提醒最终演示再次压缩后可能无法复现细微差异。",
+            "控制源、编码、色彩及手机播放条件，按片段和条件报告收益，没有推出普遍阈值或平台必然抹平差异。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者均完成了观看尺度、平台压缩和变量控制的要求。B、C可同获满分；C对独立上传与最终演示的说明更细，A主要存在无依据的研究框架残留。"
+    },
+    {
+      "creator": "he-tongxue",
+      "id": "C09",
+      "decoded": {
+        "plain": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 3,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 3
+          },
+          "reasons": [
+            "与其previous_answer逐句核对，前五句保持原样，仅替换最后两句；保留旧茶杯，也没有添加父母一直等待的叙事。",
+            "以“先看手机……配合得倒挺好”回扣已知事实，减轻原结尾的感慨，并直接给出整段，没有方法分析。",
+            "新增“我也没准备什么感言”是此前未提供的个人准备情况，轻微超出只用已知事实的要求。"
+          ],
+          "critical_failure": false,
+          "total": 26
+        },
+        "he-tongxue:old": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "与其previous_answer相比，完整保留前五句，包括“我回来了，我们却还是从路上说起”，只改最后两句，严格遵守修改范围。",
+            "结尾将没有人哭与香菜细节收在日常语气中；“下次……提前说”是面向未来的自嘲，没有编造已经发生的对话或等待经历。",
+            "保留旧茶杯，提供符合原长度要求的最终整段，也没有附加分析。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "he-tongxue:new": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 3
+          },
+          "reasons": [
+            "与其previous_answer相比，前五句逐字保留，仅替换“​​五年的事……”及其后一句；没有因为润色而扩大修改范围。",
+            "“这题我答得上来”将结尾落回路上堵不堵，保留平实自嘲，没有给父母补写等待或内心。",
+            "最终全文约118字符，即使计入标点仍低于原任务120字的下限，长度约束未完全完成。"
+          ],
+          "critical_failure": false,
+          "total": 27
+        }
+      },
+      "comparison": "三者都遵守了各自版本仅改末两句的范围。B完整满足要求；A新增一项未提供的自述事实，C则在缩短结尾后未达到原长度下限，均不构成严重失败。"
+    },
+    {
+      "creator": "lawrence",
+      "id": "C01",
+      "decoded": {
+        "plain": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "给出切换、维护、任务不清三个可拍角度，明确选择切换，并分别说明另两个角度在两天观察中的局限。",
+            "四分钟分段完整；用相近任务比较流程，同时记录时间、切换次数和成品质量，手机与录屏即可实施。",
+            "明确列出改选第二、第三角度的材料，并允许现有流程更快的结果推翻预设；没有把工具拖慢工作写成用户已有经历。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "lawrence:new": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "三个角度均以待验证问题提出，选择准备与维护耗时，并交代放弃等待判断、跨工具搬运角度的具体理由。",
+            "要求先确定真实小任务和完成标准，再拆分准备、执行、返工时间；四分钟时间分配相加准确，可直接安排拍摄。",
+            "针对维护很少、判断等待为主、重复搬运明显分别给出改变选择的条件；只有模拟任务时主动收窄题目，结论范围与材料匹配。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "lawrence:old": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "给出三个具体角度，选择工具间搬运，放弃另两个角度的理由分别落在长期投入难判断、任务记录不足上。",
+            "先录三十分钟自然工作，再尝试减少一个中转环节，能在现有资源内获得观察材料；四分钟结构明确。",
+            "明确不安排故意折腾工具的行为，不将前后两次直接视为严格实验；也给出了配置耗时、交付要求停顿等改选依据。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者均充分完成任务，可以同分。A的流程对照更具体，B对真实工作与周末模拟的边界交代更完整，C用自然观察帮助确定角度；这些差异没有形成实质完成度差距。"
+    },
+    {
+      "creator": "lawrence",
+      "id": "C02",
+      "decoded": {
+        "plain": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "六段时间合计三分钟，每段说明素材、观众已知信息及后续期待，修理过程有清楚的推进关系。",
+            "顾客关于母亲的话保留为人物原声，不追加母亲故事或顾客心理；两次不合适也没有被编成顾客与摊主的冲突。",
+            "结尾只交代当天修好一把，并明确区分这与整天都在修同一把；素材不足的处理也禁止把同一次操作剪成新尝试。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "lawrence:old": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "三分钟结构从当天结果进入，再依次呈现三根伞骨，每段均指定素材、已知信息和待解问题，可据此剪辑。",
+            "明确没有技术记录就只说不合适，没有验收画面就不补反复验收，避免把已知结果扩写成未经提供的过程。",
+            "顾客来历信息有清楚归属，且区分原声与文字记录；结尾不推断释怀或行业处境，素材不足时也不靠重复镜头制造修理时长。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "lawrence:new": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "六段时长合计三分钟，前三次尝试分别对应观众的问题和具体动作素材，完成段明确回答能否修好。",
+            "母亲留下的伞通过顾客原话交代，没有转化为作者对人物心理或修伞意义的断言。",
+            "明确时长只是素材预算，没有交还、验收画面就不假定已有；结尾停在第三根伞骨合适，不编收入、困境或情绪升华。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者都忠实使用有限材料，信息推进与素材对应完整。A、C先交代伞的来历，B将来历留到修好之后，均是成立的剪辑选择；B对原声是否实际存在的处理更细，但不足以使另外两者降档。"
+    },
+    {
+      "creator": "lawrence",
+      "id": "C03",
+      "decoded": {
+        "lawrence:old": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "正确计算去掉D后有81秒素材，通过首尾共9秒文字卡组成90秒，全部镜头时长与时间线一致。",
+            "D整段不用，也不借陌生人补写感悟；没有补拍、日出或航拍，并明确不标没有记录的等待时长。",
+            "C原话负责提出疑问，E的完整固定镜头负责呈现实际变化；声音限于已有同期声，缺声可留静，不靠旁白替画面制造积极答案。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "lawrence:new": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "完整安排81秒可用素材，加6秒片头和3秒片尾，准确达到90秒，并明确文字卡属于编辑信息。",
+            "直接舍弃无许可的D，不用陌生人的笑场证明心情变化；也明确F只是细节插入，不据剪辑顺序断言发生时间。",
+            "要求C听清，让原话承担疑问，E只呈现雾散一点的变化；未提供音轨就不认定环境声和留白效果已经成立，声音处理没有虚构。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "plain": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "原素材89秒、去掉D后81秒的计算正确，两张文字卡补9秒，逐段时间线准确达到90秒。",
+            "明确D的画面和同期声都不用，不移接陌生人笑声，也不补写湿鞋原因或伪造现场声。",
+            "标题无旁白，C原话提出问题，E完整25秒承担微小变化的观察，回程以可用原声结束；静默与语言的作用清楚，没有强行兑现日出或旅行意义。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者都准确解决90秒时长、D的许可和不能补拍的限制，可同分。主要区别是文字卡位置及声音说明的细致程度，均未造成事实越界或实质剪辑缺口。"
+    },
+    {
+      "creator": "lawrence",
+      "id": "C04",
+      "decoded": {
+        "lawrence:new": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "两分钟结构明确区分厂商资料、机身展示、续航记录、走路样片和个人人像评价，各类画面能证明什么交代清楚。",
+            "47分钟严格限定于室内20℃的一次连续录制；没有过程证据就使用记录说明，不补假计时，也不据此断言虚标。",
+            "购买条件对应静态拍摄、长录和稳定走拍需求，并承认证据不足；没有竞品排名，也因价格缺失而不下性价比结论。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "lawrence:old": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "分段合计两分钟，分别标明机身画面是展示、走路样片支持局部观察、窗边人像属于效果展示，符合证据分类要求。",
+            "续航结论保留一次、20℃和47分钟等条件；设置缺失就注明，不摆拍关机，也不把标称条件未知的差距直接定性为虚标。",
+            "买与暂不买分别对应静态需求、对抖动的接受程度和长录要求，并提出常用设置下重复测试的决策步骤，没有虚构竞品信息。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "plain": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "两分钟安排完整，参数卡明确归属厂商，还提醒支持4K60不能证明现有样片都以该规格录制。",
+            "单次续航只支持此次样本结果，未记录设置如实标注，不制作伪起止记录；走路片段也只支持本段可见抖动。",
+            "购买判断与固定机位、短片段、长录及走拍需求关联，要求确认常用设置下续航；没有将人像观感扩成全面画质优势或竞品胜出结论。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者均充分区分标称、单次测试和主观展示，购买条件也与证据边界匹配。A补充价格缺失，B强调原速及后期增稳信息，C强调样片规格不能由产品规格推定，均属有用细节，无需强行拉开分差。"
+    },
+    {
+      "creator": "lawrence",
+      "id": "C05",
+      "decoded": {
+        "plain": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "直接交付120—180字范围内的旁白，旧茶杯、香菜、看手机、询问路况及没有人哭均有保留。",
+            "“我也没比谁强”“没有什么适合配慢镜头的场面”形成平实自嘲，没有添加父母心理、新对白或乡愁名言。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "lawrence:old": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "正文长度符合120—180字要求，直接提供可用旁白，完整覆盖所给家庭场景。",
+            "“还没同步到家里的菜单上”“还真有点为难我们”贴合轻微自嘲；结尾沿用已知路况话题，没有虚构新对白或煽情事件。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "lawrence:new": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "直接交付符合120—180字要求的旁白，五年离家及饭桌上的全部关键事实得到保留。",
+            "“更新速度不算快”和结尾再说明饮食习惯体现生活化自嘲；没有替父母解释感情，也没有增添新对白。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三份均充分完成任务。A侧重自我调侃，B侧重菜单与变化的联系，C以香菜收尾；这些表达差异不构成质量上的必要分差。"
+    },
+    {
+      "creator": "lawrence",
+      "id": "C06",
+      "decoded": {
+        "lawrence:new": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "第一句、第三句逐字保留，只替换第二句，并按要求另用一句话解释。",
+            "“只拿它拍了白天街头”“还没和手机比过”准确限定证据范围，“也得再试”保留口语且撤除绝对画质保证。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "lawrence:old": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "首尾两句逐字不动，交付修改后的三句话及一句解释，没有扩写脚本。",
+            "第二句以“只用它拍过白天的街景”和尚未比较、测试的范围替换原有夸大结论，符合已知事实与口语要求。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "plain": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "严格保留第一句和第三句，只改第二句，后附的一句话准确解释修改目的。",
+            "明确写出白天街景、未与手机对比，并将其他场景的“画质和噪点表现”留待测试，针对性修正两项无依据断言。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三份均严格遵守局部修改范围，事实边界和口语表达均合格；C明确点出噪点，A、B用其他场景尚未测试概括，同样充分。"
+    },
+    {
+      "creator": "lawrence",
+      "id": "C07",
+      "decoded": {
+        "plain": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "开头直接承认尚未使用和计时，以“最后省了多少，就报多少”建立可信的待测叙述，没有预写成功。",
+            "计划包含三对相近任务、随机分配、交替顺序、每项四十分钟上限和统一验收，并将准备、等待、核验与返工纳入时间账，可在单人一天内执行。",
+            "免费功能与额度要求当天确认，受限则记录；明确区分现在可写和测试后可写，并限制结论范围、提供疑问式标题。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "lawrence:old": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "开头把“有没有省”保留为问题，并将“一整天”定义为8小时，使标题中的目标可检验。",
+            "八小时安排覆盖选题配对、抽签分配与先后、实际操作、验收和整理；要求记录失败、返工及学习配置成本，计划符合一天、单人的限制。",
+            "不预设免费工具功能，明确先核对；将具体省时、错误和额度留待测试，并明确禁止将短任务按比例放大为节省8小时。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "lawrence:new": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "开头明确“现在还拿不出证据”，以“换个地方加班”的可能失败结果增加吸引力，没有虚构成功经历。",
+            "提供具体时段、三组相近材料、交替顺序、每份20分钟上限与验收要求，核验和返工继续计时，安排能够在单人一天内落实。",
+            "要求现场确认免费工具功能和额度，明确测试后才能写实际功能、质量及节省量；还指出材料差异误差，并禁止把短任务比例直接外推到一天。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三份均提供可执行实验并保持结果待测。A的配对和计时规则清楚，B明确8小时目标，C给出具体日程并说明比较误差；均充分满足核心约束。"
+    },
+    {
+      "creator": "lawrence",
+      "id": "C08",
+      "decoded": {
+        "plain": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "直接给出80字以内通知，准确包含周三9:00—12:00、检修原因和两处停水范围。",
+            "明确“实验楼供水正常”和“请大家提前接水”，没有添加故事、情绪或无关解释。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "lawrence:old": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "直接给出80字以内通知，准确包含周三9:00—12:00、检修原因和两处停水范围。",
+            "明确“实验楼供水正常”和“请大家提前接水”，没有添加故事、情绪或无关解释。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "lawrence:new": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "直接给出80字以内通知，准确包含周三9:00—12:00、检修原因和两处停水范围。",
+            "明确“实验楼供水正常”和“请大家提前接水”，没有添加故事、情绪或无关解释。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三份文字完全相同，均准确、简洁并完成全部约束，应同分。"
+    },
+    {
+      "creator": "lawrence",
+      "id": "H01",
+      "decoded": {
+        "plain": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "将工作日配成两对、周末另成一对，并随机分配模式；剩余一天单列，处理了日期类型与组内天数不同的问题。",
+            "明确以指定应用每日分钟数为主指标，用配对差值展示，并记录异常事件和总屏幕时间，执行与解释都有具体依据。",
+            "明确不能证明因果；视频只记录真实感受，无效时用“没有显示出一致减少”收束，没有安排假反转。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "lawrence:old": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "提前随机安排条件，分别比较工作日与周末的日均时长，且明确周末每种模式只有一天，避免混用总时长。",
+            "保存系统记录、记录空闲时间及关闭灰度的情况，并区分个人保留标准与科学显著性，方案可直接执行。",
+            "骨架不要求每天出现剧情节点；无效结尾限定于七天个人结果，也明确不外推为对所有人无效。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "lawrence:new": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "首日用于熟悉记录，其余六天按相邻工作日和周末配对随机分配，七天安排明确，也没有把首日冒充稳定基线。",
+            "以应用每日总时长和配对差值为依据，补充转刷其他应用、用途无法区分及执行偏离等解释边界。",
+            "视频顺序包含排期、真实记录和数据结算；无效结尾承认未观察到减少，不预设难熬或疗愈结果。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三份均充分完成任务。A利用四个工作日配对并单列额外一天，B采用分层日均比较，C设置熟悉记录日后进行三组配对；这些取舍均与单人七天条件相容。"
+    },
+    {
+      "creator": "lawrence",
+      "id": "L01",
+      "decoded": {
+        "plain": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "主题落在“不用重新交代的点单”和被记住的早餐上，来自用户提供的具体观察，没有扩写老板人生。",
+            "明确让递碗、报菜名承担事实，雨声连接空间，独自吃面不自动解释为孤独，旁白与环境声分工可执行。",
+            "逐句指出“拥有全世界”“这里的人都懂得幸福”等表述的问题，并要求核对互动素材、不补对白，留白没有替缺失事实背书。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "lawrence:old": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "用注意力从寻找治愈转向具体往来发展主题，并提供开场、中段和收尾旁白，没有替老板补幸福人生。",
+            "明确“只有递碗画面”不能单独证明记得口味，要求保留对话上下文；也提醒没有录到的声音不能伪装成同期声。",
+            "雨声与独自吃面保留开放解释，并具体拒绝“一生熬进面里”“比城市里的人更懂幸福”等无依据拔高。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "lawrence:new": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "将主题限定为短暂停留者看到的熟悉往来，旁白明确“不知道他幸福不幸福”，观察范围与已知材料匹配。",
+            "逐项安排递碗报菜名、雨打篷布和独自吃面的声音用途，并要求核对原声清晰度，不用旁白重复所有动作。",
+            "结尾保留“这次我还说不上来”的不确定性；对疲惫、终生守店、归属和焦虑等漂亮句子的拒绝都有明确证据理由。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三份都从早餐店细节发展克制主题，并完成旁白、环境声与禁写句子的分工。B对同期声真实性和证明范围提示更细，A与C的段落安排同样完整，不必因此拉开分数。"
+    },
+    {
+      "creator": "lawrence",
+      "id": "M01",
+      "decoded": {
+        "lawrence:old": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 3,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "从手机正常观看盲比开始，再定位细节、检查平台结果和文件大小，视觉步骤对应可见收益与成本，没有只列参数。",
+            "控制同源独立导出、编码器与预设等变量，并要求固定手机条件和平台播放档位；结论也限定于两段素材及当前流程。",
+            "没有提醒最终比较视频自身还会再次编码，观众在成片里辨认细微差异时可能受到演示链路影响，论证方法仍有一个轻微缺口。"
+          ],
+          "critical_failure": false,
+          "total": 27
+        },
+        "lawrence:new": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "将看出差别、偏好和是否影响观看分开询问，先正常全屏盲比，再放大定位并回到正常播放，符合实际手机观看问题。",
+            "要求分别上传、固定清晰度、记录实际码率并保留独立文件，也明确最终比较视频不是原文件的无损呈现。",
+            "不预写低码率必糊或高码率必胜，且拒绝从两段素材推出通用阈值，结论强度与测试范围一致。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "plain": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "正常距离盲看、原速回看、放大解释和平台复测依次推进，明确截图不能代替闪烁和整段观看感受。",
+            "要求六个文件独立上传，解释先拼接再上传会改变测试条件；同时控制源片、编码设置、手机观看条件和自动清晰度。",
+            "分别报告本地与平台结果，提醒最终成片再压缩的展示限制，并将看不出限定为本次未辨认，避免推导普遍结论。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三份都覆盖正常观看、细节解释、平台验证及结论边界。B和C进一步处理了最终演示视频再编码的问题；A在这一环节略有遗漏，其余方案完整。"
+    },
+    {
+      "creator": "lawrence",
+      "id": "C09",
+      "decoded": {
+        "lawrence:new": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "与对应previous_answer逐句核对，直到“话题还是从路况开始。”均保持原样，只替换最后两句，修改范围准确。",
+            "用“香菜这事”和“补个备注”收尾，延续平实自嘲，降低感慨，没有把父母写成一直等待。",
+            "保留旧茶杯及其余事实，直接给出最终整段；结尾表达提醒饮食习惯的意思，没有新增已发生的事件。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "lawrence:old": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "对应previous_answer中截至“没有人哭。”的正文逐字保留，恰好重写其后两句，没有因润色改动前文。",
+            "以“香菜倒占了不少篇幅”替换原来的五年感慨，将情绪落回具体小事，保持用户的一点自嘲。",
+            "保留旧茶杯，不添加等待或重逢场面，且只输出可直接使用的整段，没有分析方法。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "plain": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 3,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 3
+          },
+          "reasons": [
+            "与对应previous_answer核对，直到“话就从这里起了头。”完全保留，改写的确是最后两句；没有发生前文越界修改。",
+            "“我跟大家配合得倒挺好”回扣看手机的已有内容，减弱抒情并保留自嘲；旧茶杯也仍在。",
+            "新增“我也没准备什么感言”，把是否准备过感言写成确定的个人事实；已知事实及父回答都未明确提供这一点，对“仍只用已知事实”的完成略有缺口。"
+          ],
+          "critical_failure": false,
+          "total": 26
+        }
+      },
+      "comparison": "三份都准确保留了各自父回答除末两句以外的正文，均无修改范围越界。A和B完整满足反馈；C新增了未获明确支持的准备状态，属于轻微事实边界问题，尚非严重捏造。"
+    },
+    {
+      "creator": "media-storm",
+      "id": "C01",
+      "decoded": {
+        "media-storm:new": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "三个切口都能通过现有工具、手机和录屏观察；选择“工具之间的搬运”，并分别说明学习成本回本难判断、任务写法比较易受混杂影响，取舍具体。",
+            "安排两对任务并交换顺序，记录用时、遗漏和返工；四分钟分段合计准确，周末执行路径清楚。",
+            "明确以重复搬运、教程耗时和决策停顿作为改选材料，并注明小规模演示不能代表长期效率，没有把假设编成用户经历。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "plain": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "三个切口均适合周末自行记录，选择切换问题的理由与放弃另两个的理由都对应可拍性和观察周期。",
+            "四分钟方案具体到任务路径、交换先后顺序、计时与成品质量，既便于拍摄，也避免只比较速度。",
+            "除给出改选材料，还提出若现有流程更快就放弃“工具拖慢我”的预设；没有预写用户的失败经历或结论。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "media-storm:old": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "把三个切口明确作为待验证解释，并根据维护记录、工作日流程等材料的取得难度作出选择，符合两天和现有设备的限制。",
+            "四分钟结构合计准确，以真实操作链和同类任务比较承载内容，同时交代任务难度、熟练效应的限制。",
+            "改选条件分别对应设置维护和等待返工；材料都不支持时允许结论停在“尚未找到原因”，没有虚构经历或强行归因。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者均充分完成任务。A的比较记录更细，B明确允许推翻问题预设，C对材料不足时如何收窄结论交代清楚；这些差异不构成明显质量等级差。"
+    },
+    {
+      "creator": "media-storm",
+      "id": "C02",
+      "decoded": {
+        "media-storm:old": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "三分钟结构逐段列出素材、已知信息与后续疑问，前两根不合适、第三根修好构成可直接执行的推进顺序。",
+            "将“母亲留下的伞”明确交给顾客原声，不推断母亲是否健在，也不补写摊主心理。",
+            "结尾只交代当天修好一把伞；开合检查明确以已有素材为条件，没有制造验收画面、商业困境或宏大寓意。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "media-storm:new": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 3
+          },
+          "reasons": [
+            "时间预算合计三分钟，依次使用两次不合适、第三根完成维修和顾客原话，素材安排可以直接指导剪辑。",
+            "说明剪辑预算不等于维修耗时，且不循环试装制造失败、不把一天的工作量解释为经营困境，事实边界清楚。",
+            "140—165秒只说明观众知道伞的来历，没有交代此时还想知道什么；末段也未完整列出观众信息状态，对“每段说明”的格式要求有轻微遗漏。"
+          ],
+          "critical_failure": false,
+          "total": 27
+        },
+        "plain": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "用顾客原话建立伞的来历，再以三根伞骨的结果推进；各段标明素材、观众已知与接下来期待，时间合计三分钟。",
+            "末段停在修好后的画面和当天数量，没有把顾客的话提升为作者对行业或人物精神的结论。",
+            "提供静帧和信息卡处理素材不足，并明确不能把“一天修好一把”写成“整天都在修这一把”，避免扩大已知事实。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者都忠于材料且没有硬加冲突或宏大结尾。A、C完整交代信息推进；B整体同样可剪，仅在个别段落遗漏了用户要求明确写出的观众期待。"
+    },
+    {
+      "creator": "media-storm",
+      "id": "C03",
+      "decoded": {
+        "plain": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "正确计算排除D后为81秒，用两张共9秒的文字卡组成90秒，每段时长与现有素材相符，无须补拍。",
+            "D的画面和同期声均不用，也不移接笑声制造用户经历；没有补入日出、航拍或虚构现场声。",
+            "保留“今天白跑了吗”承担提问，让雾景长镜头与原声承担观察，不强加值得与否的结论，保留用户原有表达。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "media-storm:new": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "81秒现有可用素材加9秒明确标示的定格，形成准确的90秒时间线；没有把定格冒充持续拍摄。",
+            "整段舍弃未获许可的D，不借笑场安排社交转折，并明确不补写湿鞋原因或等待时长。",
+            "现场话语负责提出疑问，完整雾景负责展示有限变化；允许原声或安静收尾，没有以新增旁白替用户判定此行意义。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "media-storm:old": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "逐段时间准确，81秒素材配4秒片头和5秒片尾，提供了无需补拍的完整90秒方案。",
+            "明确排除D及其可辨识声音、倒影，不借用其他日期地点的镜头，也不通过倒序制造雾突然散开的结果。",
+            "保留用户原话提出疑问，以固定镜头呈现实际变化，片尾文字仅收束已知事实；原声缺失时允许安静，声音职责与事实边界清楚。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者都准确完成时长、许可处理和缺口填补。A用段落文字卡，B用明确的定格，C用片头片尾；均未制造新经历，没有理由仅凭形式偏好拉开分数。"
+    },
+    {
+      "creator": "media-storm",
+      "id": "C04",
+      "decoded": {
+        "media-storm:new": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "两分钟结构明确区分厂商规格、样片展示和一次续航记录，未将4K60、重量或90分钟标称值写成自行验证结果。",
+            "47分钟就近限定为本台样机、室内20℃、一次连续录制；缺失设置注明未知，没有伪造测试画面或计算不具可比性的缩水比例。",
+            "买与暂不买的条件对应短片段、静态拍摄、连续长录和走拍需求；明确现有材料不足以证明竞品优势，建议与证据相称。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "plain": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "五段时间合计两分钟，具体安排产品参数卡、续航结果卡和连续样片，展示与可支持的观察结论区分明确。",
+            "特别指出不能由支持4K60推定样片录制规格；47分钟只对应此次条件，厂商测试条件不明时不判定虚标。",
+            "购买条件围绕固定机位、短片段和实际续航确认；暂缓条件对应长录、走拍和竞品证据需求，没有虚构比较指标。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "media-storm:old": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "两分钟方案给出各段素材和判断边界：窗边人像是特定条件下的主观观感，厂商规格独立标注，走路片段展示本次抖动。",
+            "续航明确限定本台样机、20℃和单次记录，指出模式与其他设置未提供，不能默认4K60或据此认定90分钟虚标。",
+            "没有把走拍抖动直接归因为防抖系统失效；买与暂不买的条件对应已展示用途和未验证硬要求，也明确不下竞品优劣结论。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者均充分完成。A对记录缺失与证据用途说明细致，B提醒区分支持规格和实际样片规格，C对抖动归因保持克制；购买条件都与现有证据匹配。"
+    },
+    {
+      "creator": "media-storm",
+      "id": "C05",
+      "decoded": {
+        "media-storm:new": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "直接交付120—180字范围内的旁白，旧茶杯、香菜、先看手机、父亲问路况和无人哭泣等事实均保留。",
+            "“我也没什么资格嫌他们”体现平实自嘲；没有新增对白、揣测父母心理或使用乡愁名言。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "media-storm:old": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 3,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "正文长度符合要求，直接交付旁白；“家里也不会自动更新”“我也没比谁强”符合口语和轻微自嘲。",
+            "“也没有谁发表讲话”新增了事实中未提供的场景断言，虽未编造具体对白，仍有轻微证据越界。"
+          ],
+          "critical_failure": false,
+          "total": 27
+        },
+        "plain": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "直接提供符合字数范围的旁白，完整保留给定事件，没有前置流程说明或新增对白。",
+            "“我也没比谁强”“没有什么适合配慢镜头的场面”以自嘲和创作者观察表达克制，没有替父母安排心理或强加煽情结局。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者都能直接用于旁白，语气与长度均合适。A、C充分满足；B仅在“没有谁发表讲话”这一未经提供的事实断言上略逊。"
+    },
+    {
+      "creator": "media-storm",
+      "id": "C06",
+      "decoded": {
+        "plain": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "第一句和第三句逐字保留，只替换第二句，并另用一句话解释改动。",
+            "用“只用它拍过白天的街景”“还没和手机对比”替代全面胜出的断言，将其他场景和噪点表现明确留待测试，口语自然。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "media-storm:new": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "首尾两句逐字保留，修改范围严格限制在第二句，解释也只有一句。",
+            "“还没和手机对比，也没试过其他场景”准确表达证据边界；“先不把话说满”保持了用户要求的口语语气。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "media-storm:old": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "完整保留第一句和第三句，交付修改后的三句话及一句解释，没有扩写脚本。",
+            "第二句仅陈述白天街拍和未做手机对照，删除了画质全面胜出与任何场景无噪点两项无依据结论。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者都充分完成限定修改。A、B更明确列出尚待测试的范围，C更简洁；这些差异不影响任务完成度。"
+    },
+    {
+      "creator": "media-storm",
+      "id": "C07",
+      "decoded": {
+        "media-storm:new": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "开头将“省下一整天”明确设为愿望，分别列出现在可写内容和测试后才能写的结果，没有预写成功。",
+            "计划包含相近材料配对、随机分配、交替顺序、统一验收标准及等待和返工计时，适合一个人比较人工与AI辅助的实际耗时。",
+            "给出合计八小时的安排，并要求确认当天免费功能、记录额度限制，不假定工具能联网或操作软件，也明确禁止直接外推为省下一整天。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "media-storm:old": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "提供可直接使用的开头，以“到底能不能”保留待测状态，结尾明确实际耗时、质量和节省量必须测试后才能写。",
+            "三对不同但难度接近的任务、交替执行顺序和共同合格标准构成可执行比较，计入核验返工，并报告包含首次设置学习成本的结果。",
+            "要求先确认免费额度和功能，时间安排能在一天内完成；没有编造工具能力，也没有将小样本提速夸大成省下一整天。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "plain": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "开头承认尚未使用和计时，并承诺按实测报告；明确区分当前能写的动机规则与测试后才能写的节省量和质量结论。",
+            "用已有可核对材料组成三对任务，随机分配、交替顺序，并设置统一验收标准和每项四十分钟上限，适合单人一天执行。",
+            "八小时预算涵盖测试、核验和拍摄，免费额度不足就记录；计入准备、等待、检查和修改，失败单列且不外推全天收益。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者都提供了诚实且可执行的实验方案，均充分满足。A明确限制未经确认的工具功能，B清楚说明首次学习成本的报告方式，C对拍摄时间和单项超时处理更具体。"
+    },
+    {
+      "creator": "media-storm",
+      "id": "C08",
+      "decoded": {
+        "plain": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "直接交付80字以内的通知，准确写明周三9:00—12:00及图书馆、教学楼A的停水范围。",
+            "保留检修原因、实验楼供水正常和提前接水的动作，没有加入故事、情绪或其他无关内容。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "media-storm:old": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "通知在80字以内，时间、停水地点及检修原因均准确完整。",
+            "“实验楼正常供水”“请大家提前接水”明确说明不受影响的范围和准备动作，未添加叙事或创作者表达。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "media-storm:new": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "直接提供80字以内的通知，周三9:00—12:00、图书馆和教学楼A停水的信息清楚。",
+            "完整保留检修、实验楼正常供水和提前接水三项信息，没有增加未经提供的事项或无关风格。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者信息完整、简洁可用，仅有连接词和标点差异，均充分满足要求。"
+    },
+    {
+      "creator": "media-storm",
+      "id": "H01",
+      "decoded": {
+        "plain": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "把工作日配成两对、周末另成一对，并在每对内随机分配条件；额外一天单列，比较单位明确，也承认日期之间仍存在空闲时间等差异。",
+            "提前固定应用名单和主要指标，以配对分钟数及差值展示结果，保留异常日，并用总屏幕时间检查是否转刷其他应用，执行步骤具体。",
+            "明确不能证明因果；视频只记录真实感受，提供了“没有显示出一致减少”的无效结尾，没有预设失败、反转或治愈式收束。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "media-storm:old": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "分别安排工作日和周末条件，提前保存安排，并比较工作日日均分钟数、单独展示周末，避免把天数和日期类型差异误当效果。",
+            "说明应用使用分钟数包含搜索、评论，还要求记录换设备、关闭灰度和统计日边界，指标解释与执行记录都切合系统屏幕时间的实际限制。",
+            "视频骨架覆盖安排、真实记录、完整结果和执行成本；明确不证明因果，无效时允许依据结果和使用不便决定是否继续，不归咎于意志力。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "media-storm:new": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "预先随机安排条件，工作日比较日均值，周末单独展示，不混算一个降幅；同时保留异常日并说明其影响，处理了主要日期混杂。",
+            "固定应用合计分钟数、每天截图，并预设个人采用标准，让观众能区分“观察到差异”和“差异值得继续使用”。",
+            "明确单人单周、事务差异及前一天习惯的限制；无效结尾限定于本次记录和个人决策，没有扩成普遍无效，也没有安排戏剧转折。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者均充分满足。A用配对差值解释比较，B对统计边界及指标含义交代更细，C把采用标准和最终决策连接得清楚；这些差异不足以要求拉开分数。"
+    },
+    {
+      "creator": "media-storm",
+      "id": "L01",
+      "decoded": {
+        "plain": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "主题落在老板记得早餐和点单互动，且提醒“不用重新交代”的说法须与素材相符，没有把记得菜品扩大成了解客人全部生活。",
+            "让报菜名、递碗承担事实，旁白交代观察及未知，雨声连接独自吃面的画面，给出了可直接剪辑的声画分工。",
+            "逐句指出“拥有全世界”“都懂得幸福”“治好了我的内耗”等表述的问题，明确阻止代写老板内心、群体外推和虚构治愈结果。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "media-storm:new": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "以“熟悉具体到一个人吃什么”为主题，旁白明确只知道老板记得一些客人的饮食，没有编写老板的人生和幸福状态。",
+            "提供连贯旁白，并要求完整保留一轮真实交接、避免旁白重复解释；雨声和独自吃面均有明确处理方式，留白没有承担心理或疗效证明。",
+            "禁写句分别对应心理揣测、幸福判断、古镇整体外推和个人治愈，依据具体，收尾也允许停在真实动作上。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "media-storm:old": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "从短暂停留者看到早餐店熟悉互动发展主题，旁白直接限定三天的观察范围，并承认没有采访老板的人生。",
+            "报菜名与递碗用同期声呈现，雨声交代现场，独自吃面不自动解释成孤独；旁白用于连接和限定，声画职责清楚。",
+            "明确排除“记得每个人的故事”“比谁都幸福”和雨水洗去疲惫等句子，既限制亲密关系推断，也没有借留白暗示已发生治愈。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者都从可见互动发展主题，完整交代声画分工与表达边界。A偏向分段剪辑指导，B提供连续旁白，C提供可插入的局部旁白，均能完成任务。"
+    },
+    {
+      "creator": "media-storm",
+      "id": "M01",
+      "decoded": {
+        "media-storm:old": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "按手机正常观看、细节定位、平台复看组织论证，放大后要求回到完整连续画面，视觉证据对应实际观看收益。",
+            "控制源文件、编码器及预设、码率模式、位深等条件，并记录实际平均码率和文件大小，避免只比较导出框中的数字。",
+            "结论分别限定于树叶、访谈、本地和平台结果；明确不预设高码率胜出，也不把平台难以辨认差异说成普遍规律。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "media-storm:new": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "先匿名正常播放，再以源片为参照检查同一时间段，局部放大后回到正常播放，最后验证平台，形成了完整的视觉论证链。",
+            "固定源片区间、编码器版本、预设、关键帧和码率控制方式，记录实际码率；平台观看还控制清晰度、加载和省流量设置，步骤可执行。",
+            "把细节损失列为待观察项，没有预写结果；明确“放大能分辨”不等于手机观众受益，“平台看不出”也不证明本地文件相同。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "plain": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "本地手机盲看、按实际问题回看、平台重复盲看的顺序清楚，并区分截图定位与连续播放中的闪烁、细节稳定性。",
+            "要求六个文件独立上传，避免拼接后的统一转码改变测试条件；源片、编码、色彩、关键帧、观看距离等控制项也足够具体。",
+            "结论限定于本次素材及观看链路，区分未辨认出差异与文件质量相同，并提醒最终演示本身还会压缩，覆盖观众能否复现细微差别的限制。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者均充分覆盖源条件、手机尺度、平台转码及结论边界。C对独立上传和最终演示再压缩提醒更明确，A、B也已满足核心约束，无须据此强行降分。"
+    },
+    {
+      "creator": "media-storm",
+      "id": "C09",
+      "decoded": {
+        "media-storm:old": {
+          "label": "A",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "逐句对照其previous_answer，从开头到“倒是从一路的交通开始。”完整保留，只替换原来的末两句，修改范围准确。",
+            "新结尾用“没有人哭”和旧茶杯、不吃香菜收束，落在已知事实，没有新增父母等待或情绪化解释。",
+            "直接交付最终整段，保留前文平实及自嘲语气，没有追加方法分析。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        },
+        "plain": {
+          "label": "B",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 3,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 3
+          },
+          "reasons": [
+            "逐句对照其previous_answer，到“话就从这里起了头。”均保持原样，确实只改末两句，并保留旧茶杯，没有写父母一直等待。",
+            "以“先看手机这件事，我跟大家配合得倒挺好”延续已知饭桌行为和自嘲，减情绪的方向符合要求，且直接给出整段。",
+            "新增“我也没准备什么感言”断言了未提供的准备情况；即使语气自然，也超出了“仍只用已知事实”的边界，属于轻微新增事实。"
+          ],
+          "critical_failure": false,
+          "total": 26
+        },
+        "media-storm:new": {
+          "label": "C",
+          "scores": {
+            "task_fit": 4,
+            "method_fit": 4,
+            "actionability": 4,
+            "factual_honesty": 4,
+            "template_restraint": 4,
+            "user_voice_scope": 4,
+            "constraint_completion": 4
+          },
+          "reasons": [
+            "逐句对照其previous_answer，从开头到“五年过去，有些习惯变了，有些没变。”完全保留，只重写末两句，没有借润色修改前文。",
+            "“我也别给自己加戏了”和“总不能还要发表个五年总结”是当下自嘲，没有声称发生了新事件，也没有替父母补写等待或内心。",
+            "保留旧茶杯和“没有人哭”，以更轻的口吻结束，直接交付完整旁白，没有附带分析。"
+          ],
+          "critical_failure": false,
+          "total": 28
+        }
+      },
+      "comparison": "三者都严格保留了各自父回答末两句之前的正文。A和C充分满足；B的范围控制和语气也合格，但“没准备什么感言”新增了未给定事实，因此事实边界及约束完成度略低。"
+    }
+  ]
+}

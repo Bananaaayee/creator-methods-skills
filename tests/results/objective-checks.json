@@ -1,0 +1,202 @@
+{
+  "note": "Length units are reported both with punctuation (non-space characters) and Han characters; these checks alone do not certify all semantic constraints. C06 check covers locked sentences, not truthfulness of replacement.",
+  "rows": [
+    {
+      "round": "combined-r1",
+      "condition": "plain",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 48,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 135,
+      "C09_han_characters": 119
+    },
+    {
+      "round": "combined-r1",
+      "condition": "he-tongxue:old",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 48,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 141,
+      "C09_han_characters": 124
+    },
+    {
+      "round": "combined-r1",
+      "condition": "lawrence:old",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 48,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 125,
+      "C09_han_characters": 110
+    },
+    {
+      "round": "combined-r1",
+      "condition": "media-storm:old",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 48,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 129,
+      "C09_han_characters": 113
+    },
+    {
+      "round": "combined-r1",
+      "condition": "he-tongxue:new",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 48,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 118,
+      "C09_han_characters": 104
+    },
+    {
+      "round": "combined-r1",
+      "condition": "lawrence:new",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 48,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 136,
+      "C09_han_characters": 119
+    },
+    {
+      "round": "combined-r1",
+      "condition": "media-storm:new",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 49,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 134,
+      "C09_han_characters": 117
+    },
+    {
+      "round": "combined-r2",
+      "condition": "plain",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 48,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 135,
+      "C09_han_characters": 119
+    },
+    {
+      "round": "combined-r2",
+      "condition": "he-tongxue:old",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 48,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 141,
+      "C09_han_characters": 124
+    },
+    {
+      "round": "combined-r2",
+      "condition": "lawrence:old",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 48,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 125,
+      "C09_han_characters": 110
+    },
+    {
+      "round": "combined-r2",
+      "condition": "media-storm:old",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 48,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 129,
+      "C09_han_characters": 113
+    },
+    {
+      "round": "combined-r2",
+      "condition": "he-tongxue:new",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 48,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 122,
+      "C09_han_characters": 107
+    },
+    {
+      "round": "combined-r2",
+      "condition": "lawrence:new",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 49,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 139,
+      "C09_han_characters": 122
+    },
+    {
+      "round": "combined-r2",
+      "condition": "media-storm:new",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 48,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 137,
+      "C09_han_characters": 122
+    },
+    {
+      "round": "combined-final",
+      "condition": "plain",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 48,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 135,
+      "C09_han_characters": 119
+    },
+    {
+      "round": "combined-final",
+      "condition": "he-tongxue:old",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 48,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 141,
+      "C09_han_characters": 124
+    },
+    {
+      "round": "combined-final",
+      "condition": "lawrence:old",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 48,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 125,
+      "C09_han_characters": 110
+    },
+    {
+      "round": "combined-final",
+      "condition": "media-storm:old",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 48,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 129,
+      "C09_han_characters": 113
+    },
+    {
+      "round": "combined-final",
+      "condition": "he-tongxue:new",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 48,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 136,
+      "C09_han_characters": 118
+    },
+    {
+      "round": "combined-final",
+      "condition": "lawrence:new",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 49,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 139,
+      "C09_han_characters": 122
+    },
+    {
+      "round": "combined-final",
+      "condition": "media-storm:new",
+      "C06_first_and_third_exact": true,
+      "C08_nonspace_characters": 48,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 137,
+      "C09_han_characters": 122
+    },
+    {
+      "round": "repair-r3",
+      "condition": "he-tongxue:new",
+      "C06_first_and_third_exact": true,
+      "C09_prior_prefix_preserved": true,
+      "C09_nonspace_characters": 129,
+      "C09_han_characters": 112
+    }
+  ]
+}

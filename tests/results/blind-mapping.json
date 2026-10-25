@@ -1,0 +1,182 @@
+{
+  "he-tongxue/C01": {
+    "A": "he-tongxue:old",
+    "B": "plain",
+    "C": "he-tongxue:new"
+  },
+  "he-tongxue/C02": {
+    "A": "he-tongxue:old",
+    "B": "he-tongxue:new",
+    "C": "plain"
+  },
+  "he-tongxue/C03": {
+    "A": "he-tongxue:new",
+    "B": "he-tongxue:old",
+    "C": "plain"
+  },
+  "he-tongxue/C04": {
+    "A": "he-tongxue:new",
+    "B": "plain",
+    "C": "he-tongxue:old"
+  },
+  "he-tongxue/C05": {
+    "A": "he-tongxue:old",
+    "B": "plain",
+    "C": "he-tongxue:new"
+  },
+  "he-tongxue/C06": {
+    "A": "he-tongxue:new",
+    "B": "plain",
+    "C": "he-tongxue:old"
+  },
+  "he-tongxue/C07": {
+    "A": "plain",
+    "B": "he-tongxue:new",
+    "C": "he-tongxue:old"
+  },
+  "he-tongxue/C08": {
+    "A": "plain",
+    "B": "he-tongxue:old",
+    "C": "he-tongxue:new"
+  },
+  "he-tongxue/H01": {
+    "A": "he-tongxue:old",
+    "B": "he-tongxue:new",
+    "C": "plain"
+  },
+  "he-tongxue/L01": {
+    "A": "he-tongxue:new",
+    "B": "he-tongxue:old",
+    "C": "plain"
+  },
+  "he-tongxue/M01": {
+    "A": "he-tongxue:old",
+    "B": "he-tongxue:new",
+    "C": "plain"
+  },
+  "he-tongxue/C09": {
+    "A": "plain",
+    "B": "he-tongxue:old",
+    "C": "he-tongxue:new"
+  },
+  "lawrence/C01": {
+    "A": "plain",
+    "B": "lawrence:new",
+    "C": "lawrence:old"
+  },
+  "lawrence/C02": {
+    "A": "plain",
+    "B": "lawrence:old",
+    "C": "lawrence:new"
+  },
+  "lawrence/C03": {
+    "A": "lawrence:old",
+    "B": "lawrence:new",
+    "C": "plain"
+  },
+  "lawrence/C04": {
+    "A": "lawrence:new",
+    "B": "lawrence:old",
+    "C": "plain"
+  },
+  "lawrence/C05": {
+    "A": "plain",
+    "B": "lawrence:old",
+    "C": "lawrence:new"
+  },
+  "lawrence/C06": {
+    "A": "lawrence:new",
+    "B": "lawrence:old",
+    "C": "plain"
+  },
+  "lawrence/C07": {
+    "A": "plain",
+    "B": "lawrence:old",
+    "C": "lawrence:new"
+  },
+  "lawrence/C08": {
+    "A": "plain",
+    "B": "lawrence:old",
+    "C": "lawrence:new"
+  },
+  "lawrence/H01": {
+    "A": "plain",
+    "B": "lawrence:old",
+    "C": "lawrence:new"
+  },
+  "lawrence/L01": {
+    "A": "plain",
+    "B": "lawrence:old",
+    "C": "lawrence:new"
+  },
+  "lawrence/M01": {
+    "A": "lawrence:old",
+    "B": "lawrence:new",
+    "C": "plain"
+  },
+  "lawrence/C09": {
+    "A": "lawrence:new",
+    "B": "lawrence:old",
+    "C": "plain"
+  },
+  "media-storm/C01": {
+    "A": "media-storm:new",
+    "B": "plain",
+    "C": "media-storm:old"
+  },
+  "media-storm/C02": {
+    "A": "media-storm:old",
+    "B": "media-storm:new",
+    "C": "plain"
+  },
+  "media-storm/C03": {
+    "A": "plain",
+    "B": "media-storm:new",
+    "C": "media-storm:old"
+  },
+  "media-storm/C04": {
+    "A": "media-storm:new",
+    "B": "plain",
+    "C": "media-storm:old"
+  },
+  "media-storm/C05": {
+    "A": "media-storm:new",
+    "B": "media-storm:old",
+    "C": "plain"
+  },
+  "media-storm/C06": {
+    "A": "plain",
+    "B": "media-storm:new",
+    "C": "media-storm:old"
+  },
+  "media-storm/C07": {
+    "A": "media-storm:new",
+    "B": "media-storm:old",
+    "C": "plain"
+  },
+  "media-storm/C08": {
+    "A": "plain",
+    "B": "media-storm:old",
+    "C": "media-storm:new"
+  },
+  "media-storm/H01": {
+    "A": "plain",
+    "B": "media-storm:old",
+    "C": "media-storm:new"
+  },
+  "media-storm/L01": {
+    "A": "plain",
+    "B": "media-storm:new",
+    "C": "media-storm:old"
+  },
+  "media-storm/M01": {
+    "A": "media-storm:old",
+    "B": "media-storm:new",
+    "C": "plain"
+  },
+  "media-storm/C09": {
+    "A": "media-storm:old",
+    "B": "plain",
+    "C": "media-storm:new"
+  }
+}

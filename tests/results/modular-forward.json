@@ -1,0 +1,86 @@
+{
+  "entry_root": "[local-work]/repo/creators",
+  "task": "市民修旧物活动：给定修好台灯画面、为什么修的回答“还能用”、排队的人、桌面零件，无失败素材；需要60秒能剪结构和80字旁白，轻松平实，不代写心理。然后仅把旁白末句改得更口语，结构和前文逐字保留。",
+  "scope": "只读取各creator的SKILL.md入口及其任务路由所需文件；只向指定research/modular-forward目录写入；素材为合成委托，无外网、外部应用、真实原片或原声检验。",
+  "execution_order": [
+    "读取三份SKILL.md入口。",
+    "读取何同学01/02/03、decision-tools，并因委托已给多轮阶段读取04/05。",
+    "读取Lawrence 01/03/05、02、method-bridges。",
+    "读取影视飓风01/02/05。",
+    "实际创建三份*-initial.md，保留首轮交付。",
+    "读取Lawrence 04、影视飓风04/03；何同学沿用已读04/05及decision-tools定向修改段。",
+    "实际生成三套末句替换，创建三份*-followup.md；完整修订文本仅保存在观察记录供逐字核对。"
+  ],
+  "read_modules": {
+    "he-tongxue": [
+      "skill/SKILL.md",
+      "skill/01_portable_instruction.md",
+      "skill/02_domain_kernel.md",
+      "skill/03_product_policy.md",
+      "skill/references/decision-tools.md",
+      "skill/04_runtime_state.md",
+      "skill/05_decision_logic.md"
+    ],
+    "lawrence": [
+      "skill/SKILL.md",
+      "skill/01_portable_instruction.md",
+      "skill/03_product_policy.md",
+      "skill/05_decision_logic.md",
+      "skill/02_domain_kernel.md",
+      "skill/references/method-bridges.md",
+      "skill/04_runtime_state.md"
+    ],
+    "media-storm": [
+      "skill/SKILL.md",
+      "skill/01_portable_instruction.md",
+      "skill/02_domain_kernel.md",
+      "skill/05_decision_logic.md",
+      "skill/04_runtime_state.md",
+      "skill/03_product_policy.md"
+    ]
+  },
+  "references": {
+    "basis": "当前委托未指定某期作品、系列、研究代表性或证据核查，按入口路由没有加载作品库、证据索引、06或原始研究文件。",
+    "sufficiency_for_this_task": "已加载文件直接覆盖已有素材组织、现实边界、旁白分工和局部反馈；能继续给出结构与文字。具体秒数、裁切和收音处理均注明为一般制作建议，没有把它们声称为作者已验证视听规律。",
+    "work_specific_claims": "无；未基于内嵌示例扩写具体作品，也未凭记忆填充作品细节。",
+    "read_result": "所有实际读取调用均exit_code=0；无引用文件读取失败。",
+    "missing_external_dependency": "本次路径没有遇到必需但不存在的外部文件。未尝试加载不需要的引用，因此不据此宣称整包全部依赖均存在。"
+  },
+  "observations": {
+    "delivered_initial": "三套均实际给出0–60秒分段表、80汉字旁白（标点不计），并把“还能用”作为另计同期声。",
+    "delivered_followup": "三套均只交付最后一句替换，无结构重排、无前文改写；前文含标点的逐字比较均一致。",
+    "not_verifiable": "没有真实源片，不能核验四段原片的可用总时长、环境声、剪完的真实观感或最终60秒成片；实际交付为可试剪安排，并已在初稿说明。",
+    "length_after_feedback": "何同学修订后为78汉字；Lawrence和影视飓风仍为80汉字。何同学末句局部替换保留了前文，但原80字长度目标没有继续保持，未回改初稿或另补文字掩盖这一点。",
+    "psychology_and_failure": "实际文本未补失败链、人物内心或未给定采访原话。"
+  },
+  "revisions": {
+    "he": {
+      "old_last": "从排队的人到桌上的零件，再到这盏台灯，这一分钟就留给现场。",
+      "new_last": "排队的人、桌上的零件，还有这盏台灯，咱们就再看一会儿吧。",
+      "old_prefix": "这是一场市民修旧物的活动。台灯已经修好，画面里是排队的人。桌面上放着零件，我们先看一会儿。为什么要修？这次听到的回答很短。",
+      "revised": "这是一场市民修旧物的活动。台灯已经修好，画面里是排队的人。桌面上放着零件，我们先看一会儿。为什么要修？这次听到的回答很短。排队的人、桌上的零件，还有这盏台灯，咱们就再看一会儿吧。",
+      "initial_han_count": 80,
+      "revised_han_count": 78,
+      "prefix_identical": true
+    },
+    "lawrence": {
+      "old_last": "最后，镜头再回到台灯上。",
+      "new_last": "最后，再看看这盏台灯吧。",
+      "old_prefix": "桌上放着零件，现场有人排队，一盏台灯已经修好。这是一次市民修旧物的活动。那么，为什么还要修？先听听现场的回答。关于这次活动，这里有一段原话，也有几个眼前的画面。",
+      "revised": "桌上放着零件，现场有人排队，一盏台灯已经修好。这是一次市民修旧物的活动。那么，为什么还要修？先听听现场的回答。关于这次活动，这里有一段原话，也有几个眼前的画面。最后，再看看这盏台灯吧。",
+      "initial_han_count": 80,
+      "revised_han_count": 80,
+      "prefix_identical": true
+    },
+    "media": {
+      "old_last": "说完，再用台灯的画面结束。",
+      "new_last": "说完，咱们再看一眼台灯吧。",
+      "old_prefix": "修好的台灯，先给大家看一眼。这次拍的是市民修旧物的活动，现有的画面里，有排队的人，也有桌面上的零件。至于为什么要修，先听听现场的这段回答。答案交给这段原声。",
+      "revised": "修好的台灯，先给大家看一眼。这次拍的是市民修旧物的活动，现有的画面里，有排队的人，也有桌面上的零件。至于为什么要修，先听听现场的这段回答。答案交给这段原声。说完，咱们再看一眼台灯吧。",
+      "initial_han_count": 80,
+      "revised_han_count": 80,
+      "prefix_identical": true
+    }
+  },
+  "subjective_scores": "未做内容主观打分。"
+}

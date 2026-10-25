@@ -1,0 +1,53 @@
+{
+  "checks": {
+    "he-tongxue": {
+      "module_count": 6,
+      "markdown_files": 16,
+      "link_errors": [],
+      "privacy_scan": [],
+      "placeholder_errors": [],
+      "install_exit_code": 0,
+      "installed_file_count": 10,
+      "installed_name": "he-tongxue-creator",
+      "official_validation": {
+        "exit_code": 0,
+        "message": "Skill is valid!\n"
+      },
+      "overwrite_refused": true
+    },
+    "lawrence": {
+      "module_count": 6,
+      "markdown_files": 16,
+      "link_errors": [],
+      "privacy_scan": [],
+      "placeholder_errors": [],
+      "install_exit_code": 0,
+      "installed_file_count": 10,
+      "installed_name": "lawrence-creator",
+      "official_validation": {
+        "exit_code": 0,
+        "message": "Skill is valid!\n"
+      },
+      "overwrite_refused": true
+    },
+    "media-storm": {
+      "module_count": 6,
+      "markdown_files": 15,
+      "link_errors": [],
+      "privacy_scan": [],
+      "placeholder_errors": [],
+      "install_exit_code": 0,
+      "installed_file_count": 9,
+      "installed_name": "media-storm-creator",
+      "official_validation": {
+        "exit_code": 0,
+        "message": "Skill is valid!\n"
+      },
+      "overwrite_refused": true
+    }
+  },
+  "package_privacy_scan": [],
+  "unexpected_assets": [],
+  "failures": [],
+  "scope": "format, file references, manifest integrity, temporary installation and limited pattern scan; not proof of rights or behavioral quality"
+}
