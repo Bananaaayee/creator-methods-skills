@@ -1,0 +1,19 @@
+{
+  "checkedOn": "2026-10-25",
+  "source": "https://github.com/Bananaaayee/creator-methods-skills",
+  "command": "npx skills add https://github.com/Bananaaayee/creator-methods-skills --list",
+  "skillsVersion": "1.7.4",
+  "scope": "Additional unauthenticated private-source negative control; excluded from the 24+15 local check count.",
+  "exitCode": 1,
+  "timedOut": false,
+  "elapsedSeconds": 2.686,
+  "expectedAuthenticationRejectionObserved": true,
+  "observedMessage": "Authentication failed for https://github.com/Bananaaayee/creator-methods-skills.git.",
+  "credentialInputs": false,
+  "inheritedAccountTokens": false,
+  "oauthOrLogin": false,
+  "modelCalls": 0,
+  "privateRemoteAuthenticatedInstallTested": false,
+  "remoteNewContentValidated": false,
+  "isolation": "Fresh temporary state and child-process environment allowlist; Git global/system config disabled, terminal prompts disabled, SSH identities disabled; HOME and real user settings unchanged."
+}
