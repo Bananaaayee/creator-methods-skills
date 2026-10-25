@@ -1,0 +1,29 @@
+{
+  "note": "Core excludes references in the new modular package; all content remains in the portable edition. File sizes do not prove runtime speed or token savings.",
+  "rows": [
+    {
+      "creator": "he-tongxue",
+      "old_runtime_bytes": 130915,
+      "new_core_bytes": 33532,
+      "new_reference_bytes": 124180,
+      "old_portable_bytes": 131254,
+      "new_portable_bytes": 158517
+    },
+    {
+      "creator": "lawrence",
+      "old_runtime_bytes": 172563,
+      "new_core_bytes": 38187,
+      "new_reference_bytes": 140883,
+      "old_portable_bytes": 172714,
+      "new_portable_bytes": 179891
+    },
+    {
+      "creator": "media-storm",
+      "old_runtime_bytes": 202062,
+      "new_core_bytes": 48238,
+      "new_reference_bytes": 183860,
+      "old_portable_bytes": 202459,
+      "new_portable_bytes": 232783
+    }
+  ]
+}

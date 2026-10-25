@@ -1,0 +1,41 @@
+{
+  "09A_何同学_Portable_CreatorSkill_V1.2.1_RELEASE": {
+    "NOTICE.md": "da7667b4b9c46f12af457cf9d6a5ac5a8b75a91478faa24c4e8d3cc27699a85d",
+    "README.md": "6703b44acc7816754dab92f85a3d52f7236ed22e46ae3abd071ce9c3f262746d",
+    "dist/何同学_CreatorSkill_V1.2.1_单文件版.md": "481b09f7e58e1f78dd0f3037b3f868329fb7fa1aaed462ffec6c5eb776b96648",
+    "docs/何同学_CreatorSkill_使用手册_V1.2.1.pdf": "fe17bace2bcc9030ab0b8044ed5391839c71b0edd4fb255adb9208097bd04c53",
+    "docs/完整使用指南.md": "b2a345c1697a5b7b750161cd1e5d1fb8d3d4d83623c12c7047aded8014741fe6",
+    "skill/01_portable_instruction.md": "a369be9da71e66568cf20be7811a520ba7cc0a07b900174dcfc73a7a8e30eb6c",
+    "skill/02_domain_kernel.md": "e7c462509ad61eed76e0b8c0d628ee9434f24ef164a5b733ce5c9f65730f005a",
+    "skill/03_product_policy.md": "d3e433eb8deb991cc5ad31d579151b096702d55ad7cd2289a42250b723093988",
+    "skill/04_runtime_state.md": "a263a4d45952548f067732d1cbf2088540a7b2c40ad0713b991e891495073ce7",
+    "skill/05_decision_logic.md": "06cddccd035c1f9963822b6d7cc41b1622d81efbc9f23520c14f5e24dcfe0c9f",
+    "skill/06_research_boundary.md": "25e7a9cf0492b6c95c3dffa8a2687e7f6bf11916c6972681ff19a42a6ce7c2bd"
+  },
+  "09C_影视飓风_Portable_CreatorSkill_V1.21.1_RELEASE": {
+    "NOTICE.md": "8834666ebf20c40c21680163eeec9c634a3f600a5600464bb83a58508efcb1d3",
+    "README.md": "6f38be94c7654f111c6282b6e1eaff8175c731afbd561a194d1d34df2cbc4a9b",
+    "dist/影视飓风_CreatorSkill_V1.21.1_单文件版.md": "f5e2d8e0e675a53741a2947ee3fe567c74ee35ee45087345c0d302b380bdc307",
+    "docs/完整使用指南.md": "c483fe1ad0533275cae3df033be7386db2e7747fd4d4f84eff2fe8a5f5ac5e16",
+    "docs/影视飓风_CreatorSkill_使用手册_V1.21.1.pdf": "76a3bdc583088a9adaae2ddc286bef7c0ec9187ec6ac42be16f20738c47a1d6e",
+    "skill/01_portable_instruction.md": "2787c79dfa3e1df54d14617a73f7d67314dfd2bc0726dc7ab963414da456a82c",
+    "skill/02_domain_kernel.md": "f3d7c4a7fa16619964a2e824488ac513d9bd12a1253b09743901ee92f9a5afb9",
+    "skill/03_product_policy.md": "2b48f8e22bf9ce8896b09cd21275d2a431df5d631ae204db24a2b87949b77cf8",
+    "skill/04_runtime_state.md": "86c5d650f12eb61e4930605cf2b06cca0a9b126321a700d52ff2d693e425ebe5",
+    "skill/05_decision_logic.md": "c3706d074542d525aa4b1993cf8a9949c8053369da75e0cb9f6a525bc48b386f",
+    "skill/06_research_boundary.md": "1e01d65a4e4c757ec0f50f3896970a52ff40ce8cd53809c7ca586373e506abf7"
+  },
+  "09B_小鹿Lawrence_Portable_CreatorSkill_V1.2.1_RELEASE": {
+    "NOTICE.md": "0e00d84ddcdd6bcb082a6c6f62fa4ebceb683cb8ef35e5a87e1dafa0dd5b0ff0",
+    "README.md": "247a37259c1920e265c5883330a7ed33809ef14033e199d47c56a5c074dc3251",
+    "dist/小鹿Lawrence_CreatorSkill_V1.2.1_单文件版.md": "6382db4d20188d7d1fad849a6206c2f7d74b5aa2ae96404b7b21a4289b8cb1eb",
+    "docs/完整使用指南.md": "323660a03b0a6a5cc090c3d0baebbcab7a5bf17259012ca861d7ec07abcc3258",
+    "docs/小鹿Lawrence_CreatorSkill_使用手册_V1.2.1.pdf": "4fc4f681c028b583330971993081b25685abe3854e945a27c8670f777813ed13",
+    "skill/01_portable_instruction.md": "a1b0bc7902b67fa07fcbb490cbbd0be02742de2346e3774f98c43a74ffa8d697",
+    "skill/02_domain_kernel.md": "c43d4f72ce182e0d1c903866bf5952c5d17da9a3e9fb718e26547082a93f5dff",
+    "skill/03_product_policy.md": "67baabb743731b156c4325b71d9b7baee8ab4668a1421ccc9909266e2cd4fe6d",
+    "skill/04_runtime_state.md": "37c1a0dbe02741ff7d4e697c15824aefc17b6d8775310c591da6b0e9a1dab6f8",
+    "skill/05_decision_logic.md": "c11d4fc07ae80d9a5e2cdbc1d01ed69c65d1becdd963b3b443f1ffa596afa018",
+    "skill/06_research_boundary.md": "5b55fab88d51ae056934ae57a2df7088a7e9d6728a268fcbb1524c5fdb19cbe3"
+  }
+}
