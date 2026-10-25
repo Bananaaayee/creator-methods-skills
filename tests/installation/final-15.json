@@ -1,0 +1,163 @@
+{
+  "checkedOn": "2026-10-25",
+  "versions": {
+    "node": "24.19.0",
+    "npm": "12.2.1",
+    "skills": "1.7.4",
+    "geminiCli": "0.65.0"
+  },
+  "scope": "Local final regression: 35 files including 6 explanatory files; Claude Code copy target, Gemini discovery/copy, archive checks.",
+  "total": 15,
+  "passed": 15,
+  "modelCalls": 0,
+  "privateRemoteAuthenticatedInstallTested": false,
+  "results": [
+    {
+      "id": "vercel-list-root",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "vercel-install-claude-code",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "vercel-list-claude-code",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "vercel-claude-code-file-hashes",
+      "passed": true,
+      "files": [
+        {
+          "skill": "he-tongxue-creator",
+          "count": 12,
+          "identical": true
+        },
+        {
+          "skill": "lawrence-creator",
+          "count": 12,
+          "identical": true
+        },
+        {
+          "skill": "media-storm-creator",
+          "count": 11,
+          "identical": true
+        }
+      ]
+    },
+    {
+      "id": "gemini-install-container",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "gemini-installed-list",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "gemini-installed-file-hashes",
+      "passed": true,
+      "files": [
+        {
+          "skill": "he-tongxue-creator",
+          "count": 12,
+          "identical": true
+        },
+        {
+          "skill": "lawrence-creator",
+          "count": 12,
+          "identical": true
+        },
+        {
+          "skill": "media-storm-creator",
+          "count": 11,
+          "identical": true
+        }
+      ]
+    },
+    {
+      "name": "he-tongxue-creator",
+      "passed": true,
+      "files": 12,
+      "expectedFiles": 12,
+      "topLevel": [
+        "he-tongxue-creator"
+      ],
+      "hasSkillEntry": true,
+      "unsafeEntries": [],
+      "zipCrcError": null,
+      "exactFileSetAndHashes": true,
+      "archiveSha256": "e313244d715c4ed91bc1337b7406b15c3b252a22d94bd8adea40c44cd42bbdec"
+    },
+    {
+      "name": "lawrence-creator",
+      "passed": true,
+      "files": 12,
+      "expectedFiles": 12,
+      "topLevel": [
+        "lawrence-creator"
+      ],
+      "hasSkillEntry": true,
+      "unsafeEntries": [],
+      "zipCrcError": null,
+      "exactFileSetAndHashes": true,
+      "archiveSha256": "849f9e85014815bc3c792146134d156a61399ff18ce44f576120d3a8f6ec0fab"
+    },
+    {
+      "name": "media-storm-creator",
+      "passed": true,
+      "files": 11,
+      "expectedFiles": 11,
+      "topLevel": [
+        "media-storm-creator"
+      ],
+      "hasSkillEntry": true,
+      "unsafeEntries": [],
+      "zipCrcError": null,
+      "exactFileSetAndHashes": true,
+      "archiveSha256": "57a3efa5106a187520bc817dd305093e097626912c20a418e9bf82e9a01985ba"
+    },
+    {
+      "id": "gemini-ordinary-zip-negative",
+      "passed": true,
+      "exitCode": 1,
+      "expectCode": 1
+    },
+    {
+      "id": "gemini-skill-archive-install",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "gemini-skill-archive-list",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "gemini-skill-archive-file-hashes",
+      "passed": true,
+      "files": [
+        {
+          "skill": "he-tongxue-creator",
+          "count": 12,
+          "identical": true
+        }
+      ]
+    },
+    {
+      "id": "archive-byte-copy",
+      "passed": true
+    }
+  ]
+}
