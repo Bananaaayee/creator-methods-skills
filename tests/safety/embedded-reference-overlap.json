@@ -1,0 +1,23 @@
+{
+  "method": "NFKC alphanumeric contiguous match, 64-bit rolling hash plus exact string confirmation. Not semantic or legal clearance. Full generated formats reproduce this same method source.",
+  "results": [
+    {
+      "skill": "he-tongxue-creator",
+      "raw_files_scanned": 77,
+      "threshold_normalized_characters": 60,
+      "matches": []
+    },
+    {
+      "skill": "lawrence-creator",
+      "raw_files_scanned": 83,
+      "threshold_normalized_characters": 60,
+      "matches": []
+    },
+    {
+      "skill": "media-storm-creator",
+      "raw_files_scanned": 442,
+      "threshold_normalized_characters": 60,
+      "matches": []
+    }
+  ]
+}
