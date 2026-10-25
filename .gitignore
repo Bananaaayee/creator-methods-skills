@@ -1,0 +1,23 @@
+# Only distributable skills, original synthetic tests, and documentation belong here.
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+*.pem
+*.key
+auth.json
+hosts.yml
+*.log
+*.sqlite*
+raw/
+corpus/
+sources/
+private-baselines/
+evaluation-private/
+research-private/
+node_modules/
+.venv/
+artifacts/
+*.zip
+*.bundle
