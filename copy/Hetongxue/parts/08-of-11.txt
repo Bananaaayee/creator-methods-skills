@@ -1,0 +1,175 @@
+资料加载阶段｜何同学完整方法｜第 08/11 段
+请载入以下原文切片，本条只回复“收到第 08/11 段”。全部段落发送结束且我另发任务之前，不开始创作，不总结或改写方法。
+未收齐时不得声称已完整加载；即使段号收齐，若平台无法保留或读取全部前文，请明确说“有限上下文版本”，只使用仍可见内容。包装中的段号与标记不是方法正文。
+
+=== ATLAS METHOD PAYLOAD BEGIN ===
+- coverage：`WORK_LEVEL+VERIFIED`
+- task_mode：单任务或由材料判断
+- core_task：比较从手机、149元桌面箱到约100万元监听系统的可感差异；并把“最贵声音”进一步与真实交响乐现场比较
+- progression：单元增多→分频层次；书架到落地→箱体与低频；百万仍是振膜还原→真实乐器振动直接到耳朵
+- key_action_or_evidence：逐级介绍单元尺寸、分频、功率、箱体与功放；同一曲目盲听猜价；47人乐团演奏莫扎特525并解释声部位置
+- turning_point：NONE
+- conclusion_boundary：听感描述、盲猜误差、结构参数与现场体验结合；能支持层级差异存在；不能给出“最佳价位”的普遍答案；因房间、响度、曲目与听者均有限
+- transferable：“贵多少”按手机、单全频、二分频、三分频书架、落地箱、大型监听逐级上升；最后加入不可搬运的“现场”
+- do_not_transfer：缺少严格声压匹配、多人样本和房间控制；不是科学盲测
+- text_note：NONE
+- source_basis：`05A/07A`
+
+### HET_0037｜【何同學】不用腳，你能把球踢多遠？
+
+- coverage：`WORK_LEVEL+VERIFIED`
+- task_mode：单任务或由材料判断
+- core_task：让多组同事以不同机械原理远距离射门；再在逐轮缩窄球门的点球赛中决出兼具力度与精度的胜者
+- progression：首轮只见威力不足以决胜→缩门测精度；连续瞄右上被守住→最终改打右下时间差
+- key_action_or_evidence：三复合弓约1000N、摄像头锁目标；气缸把球送入摩擦轮；双轴云台调角；0.3吨橡皮筋蓄力；人力跑轮19度发射；守门机器人100Hz扫描
+- turning_point：失败直接影响淘汰和策略；最终胜组把目标从右上死角改为右下；利用守门反应时间差进球
+- conclusion_boundary：现场进球、回放与赛制淘汰形成验收；不靠参数宣称；只证明当日装置在设定距离/球门下表现
+- transferable：欧洲杯兴趣转成工作室机械足球赛；先中圈展示射程；再点球点车轮战测精度；球门逐轮变小
+- do_not_transfer：胜负受现场偶然性和重试规则影响；不能当严谨装置评测
+- text_note：NONE
+- source_basis：`05A/07A`
+
+### HET_0038｜【何同學】不用電，你能把一張A4紙扔多遠？
+
+- coverage：`WORK_LEVEL+VERIFIED`
+- task_mode：单任务或由材料判断
+- core_task：在仅允许人力输入的规则下；把一张A4纸扔得最远；同时给长期高压复杂项目中的工程师一次简单、户外、快乐的竞赛
+- progression：手扔基线低→机械放大；理论高速→实射高低不一；产品组表面失败→揭示误导战术；胜负结束→解释比赛为何值得拍
+- key_action_or_evidence：手掷苏珊纸机17.6米；作者高尔夫仅4.8米；纸飞镖弹射9.3米；四级脚踏增速理论349km/h、实测58.8米；双重橡皮筋67.5米
+- turning_point：NONE
+- conclusion_boundary：用现场卷尺距离直接验收；可确定当日产品组68.4米胜出；装置理论速度、风况、重复性不足以支持普遍原理排名
+- transferable：以纸飞机88米纪录为基线；参赛者可改变纸形态和传力机构；但不能用电
+- do_not_transfer：单次发射和现场风况不明；不是纸飞行纪录实验
+- text_note：NONE
+- source_basis：`05A/07A`
+
+### HET_0039｜【何同學】五年前，我見到了微軟的秘密手機...
+
+- coverage：`WORK_LEVEL+VERIFIED+TEXT_SUPPORTED`
+- task_mode：单任务或由材料判断
+- core_task：以Surface Duo实体验证为入口；解释微软为何十一年执着二合一却屡败
+- progression：Duo分屏也不独占→追问概念来源；每款被砍→寻找跨代共同约束；规律指向失败→再问失败事业是否错误；Panos热爱和工业设计遗产给出另一答案
+- key_action_or_evidence：Duo 4K耗电约iPhone 12 Pro两倍、视频被铰链割裂、内摄扫码先扫脸、双开卡顿
+- turning_point：NONE
+- conclusion_boundary：多产品时间线与Duo实测共同指向“做加法撞上物理/生态限制会稀释两种体验”；但结尾把审美、探索遗产和个人启蒙作为另一评价轴
+- transferable：“秘密手机”先落成Duo好看但难用的反差；再扩为二合一概念中“功能数量与单项体验不可兼顾”的规律
+- do_not_transfer：历史归因综合多因素；成片证据不能证明二合一在所有未来技术条件下必败
+- text_note：秘密折叠机开场后沿产品代际反复呈现概念、好处、技术/生态限制与结果
+- source_basis：`05A/07A/Text-Deep`
+
+### HET_0040｜【何同學】你再也回不到19歲的夏天了...
+
+- coverage：`WORK_LEVEL+VERIFIED+TEXT_SUPPORTED`
+- task_mode：单任务或由材料判断
+- core_task：借返校翻出2018年影像；重新理解十九岁从失恋、500粉到开始职业道路的夏天；并面对梦想实现后“生活不再简单”的代价
+- progression：失恋后搬校区→正是在那里认真做视频；没钱做新品→转老产品；选题撞车→速度迫使换题并意外成功；5G打开大门→高期待改变工作；返校→盘点所有结局
+- key_action_or_evidence：分手当天第一视角影像、与舍友阿范的生活、图书馆写稿、周末高铁回家拍摄、锤子发布会、耳塞选题被撞、临时换iPad Pro、5G爆发、旧校区离别素材、五年后返校
+- turning_point：NONE
+- conclusion_boundary：由旧素材与今日地点、人物去向、产品结局一一对照形成；结论不是“回得去”；而是现场短暂让过去的感觉复现
+- transferable：辅导员的大学生活演讲邀请；被转成“回到19岁夏天的地点；逐一查看当时的人、产品、梦想后来怎样”
+- do_not_transfer：旧素材和具体校园关系高度私人；不能推成通用成长模型
+- text_note：2018 影像、旧地点、人物与产品命运先建立事实；成功后的代价、未和好的关系和失败产品被逐项保留
+- source_basis：`05A/07A/Text-Deep`
+
+### HET_0041｜【何同學】它不是電腦。M4 iPad Pro深度體驗
+
+- coverage：`WORK_LEVEL+VERIFIED+TEXT_SUPPORTED`
+- task_mode：单任务或由材料判断
+- core_task：判断史上最强iPad能否逆转品类边缘化、成为下一台电脑；最终把问题从硬件好坏转为平板电脑还有何独特存在理由
+- progression：硬件几乎无短板→系统无法发挥；装macOS看似简单→会蚕食Mac营收；消费被手机挤压→转抢电脑；电脑路线不成→只剩笔；笔有用但不普世→无法救销量
+- key_action_or_evidence：新旧弯曲形变、OLED亮度/频闪、M4跑分和游戏帧数、达芬奇导出、重度娱乐续航；Final Cut任务步骤；魔改写字机统一三小时笔迹
+- turning_point：NONE
+- conclusion_boundary：硬件测试支持“大升级”；工作流支持“不是电脑”；历史/价格支持“存在主义危机”；建议分用户；已有核心iPad流程者可获终极体验
+- transferable：先问“硬件是否进步”；再问“iPadOS能否兑现硬件”；最后问“手机与Mac夹击下；Pencil能否形成独占价值”
+- do_not_transfer：作者是重度视频工作流用户；不能代表绘画、音乐或无纸学习专业用户
+- text_note：以品类使用率下降提出“下一台电脑”；开场先答“不能但非产品之过”；硬件实测局部结算后
+- source_basis：`05A/07A/Text-Deep`
+
+### HET_0042｜【何同學】庫克時代
+
+- coverage：`WORK_LEVEL+VERIFIED+TEXT_SUPPORTED`
+- task_mode：单任务或由材料判断
+- core_task：原作在库克卸任的叙述背景下，以“凡人接过天才”的框架回看苹果产品、运营和市值变化；这是作品的历史解释视角，不是本轮独立确认人物内在直觉或企业增长原因
+- progression：供应链成功仍不能证明产品力→看接班产品；设计带来增长又失控→M芯片转向性能；硬件增长有限→服务；护城河达巅峰→ChatGPT打破稳定
+- key_action_or_evidence：库存30天降6天再到2天；iPhone 5地图翻车、5s/6/X/AirPods成功
+- turning_point：苹果地图错误迫使库克道歉并换高管
+- conclusion_boundary：原作用财务增长、自研芯片、服务与逐代产品变化论证纪律的价值，并用新业务挫折限制这一论点；这是作者的历史解释，不能由单条字幕或市值增长证明唯一因果，也不能据此确认管理者内心
+- transferable：把“凡人如何接天才”拆成四段；供应链能力与早期接班；iPhone/设计得失；M芯片与服务护城河；AI/汽车/Vision Pro暴露的新品类短板
+- do_not_transfer：长篇涉及大量外部史料；单条字幕无法审计全部来源；市值并非产品质量唯一指标
+- text_note：“凡人如何接过天才”在供应链、产品危机、芯片/服务、AI/汽车/头显和财务纪律中多次被改写
+- source_basis：`05A/07A/Text-Deep`
+
+### HET_0043｜【何同學】我們做了個特別的鍵盤...
+
+- coverage：`WORK_LEVEL+VERIFIED+TEXT_SUPPORTED`
+- task_mode：单任务或由材料判断
+- core_task：为右手永久失去功能的女孩做一只单手即可覆盖QWERTY全键盘并控制鼠标、无需重新学特殊布局的设备
+- progression：市售只适合游戏/需学习/昂贵→自制；功能有了但姿势累→改夹角；小版仍误触/大手难用→Plus；个案满足→复制与开源
+- key_action_or_evidence：扇形61键、较小ALPS黄轴并逐颗润滑；空格/删除移至右下；在小红点、摇杆、触控板中选轨迹球；用六小球承托；磁吸线方便单手插拔
+- turning_point：曾想把整键盘当鼠标但放弃
+- conclusion_boundary：用户通话确认字母未变、一个手能控制、较喜欢绿色版本；团队承诺继续优化；验收来自目标用户而非团队自测；但长期耐用性仍未观察到
+- transferable：父亲草图被转为四项约束；张手全覆盖、完整61键、鼠标集成、上手即用
+- do_not_transfer：单一用户伤情和手部条件不能代表所有单手用户；长期可靠性证据不足
+- text_note：来信、身体约束、父亲草图与市售缺口共同建立任务；七版迭代由用户反馈推动；第七版仍有误触并再做 Plus
+- source_basis：`05A/07A/Text-Deep`
+
+### HET_0044｜【何同學】為了不用倒垃圾，我們做了這個...
+
+- coverage：`WORK_LEVEL+VERIFIED`
+- task_mode：单任务或由材料判断
+- core_task：让20个垃圾桶主动接住抛出的垃圾、自动充电并在无人时沿地板路线去大桶换袋；从而减少乱扔和倒桶
+- progression：每个子系统一完成；立刻追问下一段后勤；“没电怎么办”“怎么自动倒”“怎么找到大桶”
+- key_action_or_evidence：三舵轮快速移动；桶载相机摆脱固定场地相机限制；训练常见垃圾识别；磁性触点旋转停桶场充电；无限袋结构与大桶夹爪/热熔丝换袋
+- turning_point：NONE
+- conclusion_boundary：接垃圾、排队充电、换袋和循光行驶分别展示；支持系统演示成立；没有长期办公室运行、满载、复杂障碍或误识别证据
+- transferable：“垃圾桶不够”被推翻后；问题拆成接住垃圾、供电、倒垃圾、导航四个子系统
+- do_not_transfer：依赖改造地板和已训练垃圾种类；离通用产品很远
+- text_note：NONE
+- source_basis：`05A/07A`
+
+### HET_0045｜【何同學】為了拍到最美的星雲，我們做了一個移動天文台
+
+- coverage：`WORK_LEVEL+VERIFIED`
+- task_mode：混合换挡
+- core_task：消除每次搬运20公斤器材、组装两小时却遇云的成本；做一套随车移动、自动展开对极并能跨焦段拍星云的天文台
+- progression：部署麻烦→车载；倍率不足→施望；设备齐全但天气失败→冷湖；拍摄地点奇特→讲遗址；历史盛衰→65光年星光把过去连回现在
+- key_action_or_evidence：望远镜“小旺”、赤道仪、天文盒、冷冻相机、滤镜与升降结构；2350mm“施望”补放大倍率；高速机拍空间站；多焦段同步拍摄用于无限放大视觉
+- turning_point：天气失败使移动天文台转场青海
+- conclusion_boundary：自动展开和多焦段画面演示、最终星云成片共同验收；字幕无法单独核对八个目标是否全部完成；也不能判断长期运输稳定性
+- transferable：“想拍更好星云”被拆为免拆装、机动、自动对极、焦段覆盖与暗空环境
+- do_not_transfer：视觉结果高度依赖画面；字幕只能确认叙述；不能评价星云画质
+- text_note：NONE
+- source_basis：`05A/07A`
+
+### HET_0046｜【何同學】這個按鈕不重要。 iPhone 16 Pro深度體驗
+
+- coverage：`WORK_LEVEL+VERIFIED+TEXT_SUPPORTED`
+- task_mode：混合换挡
+- core_task：在发布舆论极差的前提下；判断iPhone 16各项升级是否真的有用
+- progression：按钮不重要→看它控制的相机；影像后“什么很必要”转快充；硬件总结→AI；功能平淡→服务商业逻辑；产品需选择需求→镜像到频道也需选择客户需要
+- key_action_or_evidence：与15系列对照超广角、ProRAW、鬼影、温度；测20/27W充电、负载功率和五小时续航；多游戏帧率/温度与游戏模式
+- turning_point：NONE
+- conclusion_boundary：多项同代对照支持“无惊喜但值得换机者考虑”；Pro综合改善且续航散热好；标准版是12以来最大更新但高刷/存储策略伤口碑
+- transferable：最大卖点相机按钮先经真实操作拆解；再按影像、充电续航、屏幕性能、AI/iOS、商业与频道选择逐层评价
+- do_not_transfer：首发一周测试、系统未完全上线；结论具有时点性
+- text_note：按钮、影像、续航、性能、AI、服务收入均有局部总结；产品结论之后转到成熟品类创新和工作室经营
+- source_basis：`05A/07A/Text-Deep`
+
+### HET_0047｜一鏡到底。iPhone 18 Pro首發體驗
+
+- coverage：`WORK_LEVEL`
+- task_mode：混合换挡
+- core_task：评测18 Pro影像、基带、性能、续航、充电、存储、系统与Siri；同时借一镜到底形式回应
+- progression：光圈创意→眩光问题；自研基带象征进步→实测不如高通；AI功能→供应链涨价→普通人也无法置身事外；AI能生成视频→30秒限制触发人类连续镜头
+- key_action_or_evidence：可变光圈景深/星芒/快门、眩光场景和3D打印遮光罩；C2与17 Pro在强弱网/重连比较；A20游戏功耗和VC结构；续航到关机与多充电器
+- turning_point：NONE
+- conclusion_boundary：产品部分由作者报告的数据对照形成分项判断：性能散热、续航充电提升，基带与眩光有代价，AI仍有限制；形式部分是作者自述尝试“伪一镜到底”，同时承认剪辑点和瑕疵；字幕不能独立验证连续性或其视频模型时长判断
+- transferable：常规首发分为折叠Duo预览和Pro实测；后半由AI涨价与时代焦虑重定义为“人类创作还可做什么”
+- do_not_transfer：涉及尚处首发/未来系统状态；结论高度时点化；字幕不能检验一镜到底视觉连续性
+- text_note：NONE
+- source_basis：`05A`
+
+### HET_0048｜三代封神！那四代呢？大疆Pocket 4首發體驗
+
+
+=== ATLAS METHOD PAYLOAD END ===
