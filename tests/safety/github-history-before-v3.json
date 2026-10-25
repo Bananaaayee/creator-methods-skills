@@ -1,0 +1,331 @@
+{
+  "repository": "https://github.com/Bananaaayee/creator-methods-skills",
+  "checked_at": "2026-10-25T09:22:46.067718+00:00",
+  "method": "Google Chrome logged-in GitHub DOM; all 20 commit pages actually opened and file-tree status icons, paths, parent links and rendered addition/deletion totals read. Historical upload-progress is reused only to serialize the exact matching paths. No GitHub API, CLI auth, OAuth, token, visibility change, upload, or release mutation was used.",
+  "visibility": "Private",
+  "default_branch": "main",
+  "head": "e8a0d4747d26e63f79e873a3c4ad7fb539d04862",
+  "branches": [
+    "main"
+  ],
+  "tag_count": 0,
+  "releases": [],
+  "commit_count": 20,
+  "linear_history": true,
+  "files_added": 88,
+  "distinct_paths": 88,
+  "total_additions": 27166,
+  "total_deletions": 0,
+  "path_set_matches_local_current_88_files": true,
+  "commits_chronological": [
+    {
+      "commit": "d5368539066f033df246c98b9fc1669c9593a8ad",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/d5368539066f033df246c98b9fc1669c9593a8ad",
+      "parent": null,
+      "files_changed": 5,
+      "additions": 146,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        ".gitignore",
+        "CHANGELOG.md",
+        "NOTICE.md",
+        "README.md",
+        "release-manifest.json"
+      ]
+    },
+    {
+      "commit": "bf51f3a3c7e18e27606d6af2400c26ccece43f03",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/bf51f3a3c7e18e27606d6af2400c26ccece43f03",
+      "parent": "d5368539066f033df246c98b9fc1669c9593a8ad",
+      "files_changed": 6,
+      "additions": 158,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        "docs/PUBLISHING.md",
+        "docs/baseline-manifest.json",
+        "docs/original-integrity.json",
+        "docs/package-size-comparison.json",
+        "docs/三套方法横向对照.md",
+        "docs/研究审计与修改.md"
+      ]
+    },
+    {
+      "commit": "b8d4cec7695cfc7a9db6fbcf9efad583f54559c2",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/b8d4cec7695cfc7a9db6fbcf9efad583f54559c2",
+      "parent": "bf51f3a3c7e18e27606d6af2400c26ccece43f03",
+      "files_changed": 3,
+      "additions": 149,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        "scripts/build_release.py",
+        "scripts/install.py",
+        "scripts/validate_release.py"
+      ]
+    },
+    {
+      "commit": "f2654911c173a73527f8fe7de73a820fcb0d6e48",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/f2654911c173a73527f8fe7de73a820fcb0d6e48",
+      "parent": "b8d4cec7695cfc7a9db6fbcf9efad583f54559c2",
+      "files_changed": 4,
+      "additions": 115,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        "creators/he-tongxue/CHANGELOG.md",
+        "creators/he-tongxue/KNOWN_ISSUES.md",
+        "creators/he-tongxue/NOTICE.md",
+        "creators/he-tongxue/README.md"
+      ]
+    },
+    {
+      "commit": "22c14d799589de700de0fd3b3255a3c0a88d8e7f",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/22c14d799589de700de0fd3b3255a3c0a88d8e7f",
+      "parent": "f2654911c173a73527f8fe7de73a820fcb0d6e48",
+      "files_changed": 4,
+      "additions": 93,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        "creators/lawrence/CHANGELOG.md",
+        "creators/lawrence/KNOWN_ISSUES.md",
+        "creators/lawrence/NOTICE.md",
+        "creators/lawrence/README.md"
+      ]
+    },
+    {
+      "commit": "ce9440979850c98b0f9a7f46a26f5f201debed06",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/ce9440979850c98b0f9a7f46a26f5f201debed06",
+      "parent": "22c14d799589de700de0fd3b3255a3c0a88d8e7f",
+      "files_changed": 4,
+      "additions": 71,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        "creators/media-storm/CHANGELOG.md",
+        "creators/media-storm/KNOWN_ISSUES.md",
+        "creators/media-storm/NOTICE.md",
+        "creators/media-storm/README.md"
+      ]
+    },
+    {
+      "commit": "16f63fd2e50c227e59b3381561ad9bdacf21c445",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/16f63fd2e50c227e59b3381561ad9bdacf21c445",
+      "parent": "ce9440979850c98b0f9a7f46a26f5f201debed06",
+      "files_changed": 10,
+      "additions": 601,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        "tests/PROTOCOL.md",
+        "tests/README.md",
+        "tests/REPORT.md",
+        "tests/audit-regressions.json",
+        "tests/cases.json",
+        "tests/check_cross_style.py",
+        "tests/export_results.py",
+        "tests/repair-regressions.json",
+        "tests/run_eval.py",
+        "tests/score_blind.py"
+      ]
+    },
+    {
+      "commit": "6b85fadd260959b46fbacd4d0bc723e4d8b90912",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/6b85fadd260959b46fbacd4d0bc723e4d8b90912",
+      "parent": "16f63fd2e50c227e59b3381561ad9bdacf21c445",
+      "files_changed": 17,
+      "additions": 12262,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        "tests/results/blind-mapping.json",
+        "tests/results/cross-style.json",
+        "tests/results/modular-forward.json",
+        "tests/results/objective-checks.json",
+        "tests/results/outputs-audit-r1.json",
+        "tests/results/outputs-audit-r2.json",
+        "tests/results/outputs-r1.json",
+        "tests/results/outputs-r2-new.json",
+        "tests/results/outputs-r4-he.json",
+        "tests/results/outputs-repair-r3.json",
+        "tests/results/run-metadata.json",
+        "tests/results/score-summary.json",
+        "tests/results/scoring-final-corrected.json",
+        "tests/results/scoring-r1-corrected.json",
+        "tests/results/scoring-r1-initial-invalid.json",
+        "tests/results/scoring-r2-corrected.json",
+        "tests/results/structural-validation.json"
+      ]
+    },
+    {
+      "commit": "ed4e9608534474916697ee1a9d908cd91547dab9",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/ed4e9608534474916697ee1a9d908cd91547dab9",
+      "parent": "6b85fadd260959b46fbacd4d0bc723e4d8b90912",
+      "files_changed": 1,
+      "additions": 1953,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        "creators/he-tongxue/dist/he-tongxue-creator-skill-v1.3.0-portable.md"
+      ]
+    },
+    {
+      "commit": "32ae205f43774571f67ca5b2be39f4e39ee41e51",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/32ae205f43774571f67ca5b2be39f4e39ee41e51",
+      "parent": "ed4e9608534474916697ee1a9d908cd91547dab9",
+      "files_changed": 1,
+      "additions": 131,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        "creators/he-tongxue/docs/完整使用指南.md"
+      ]
+    },
+    {
+      "commit": "4cbd8b1a40f7d4a21d95ef3b7aa35aa66a936330",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/4cbd8b1a40f7d4a21d95ef3b7aa35aa66a936330",
+      "parent": "32ae205f43774571f67ca5b2be39f4e39ee41e51",
+      "files_changed": 7,
+      "additions": 530,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        "creators/he-tongxue/skill/01_portable_instruction.md",
+        "creators/he-tongxue/skill/02_domain_kernel.md",
+        "creators/he-tongxue/skill/03_product_policy.md",
+        "creators/he-tongxue/skill/04_runtime_state.md",
+        "creators/he-tongxue/skill/05_decision_logic.md",
+        "creators/he-tongxue/skill/06_research_boundary.md",
+        "creators/he-tongxue/skill/SKILL.md"
+      ]
+    },
+    {
+      "commit": "5fc26e591f41c284a408e209ef030f1e326459a5",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/5fc26e591f41c284a408e209ef030f1e326459a5",
+      "parent": "4cbd8b1a40f7d4a21d95ef3b7aa35aa66a936330",
+      "files_changed": 1,
+      "additions": 1960,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        "creators/lawrence/dist/lawrence-creator-skill-v1.3.0-portable.md"
+      ]
+    },
+    {
+      "commit": "ec97ecb9e815cc965bfed89b77e8baab6aec6383",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/ec97ecb9e815cc965bfed89b77e8baab6aec6383",
+      "parent": "5fc26e591f41c284a408e209ef030f1e326459a5",
+      "files_changed": 1,
+      "additions": 92,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        "creators/lawrence/docs/完整使用指南.md"
+      ]
+    },
+    {
+      "commit": "7c6d56a73b210e71a5a22f26197bf68fbcde57ec",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/7c6d56a73b210e71a5a22f26197bf68fbcde57ec",
+      "parent": "ec97ecb9e815cc965bfed89b77e8baab6aec6383",
+      "files_changed": 7,
+      "additions": 583,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        "creators/lawrence/skill/01_portable_instruction.md",
+        "creators/lawrence/skill/02_domain_kernel.md",
+        "creators/lawrence/skill/03_product_policy.md",
+        "creators/lawrence/skill/04_runtime_state.md",
+        "creators/lawrence/skill/05_decision_logic.md",
+        "creators/lawrence/skill/06_research_boundary.md",
+        "creators/lawrence/skill/SKILL.md"
+      ]
+    },
+    {
+      "commit": "6e48b049ba85019ecf4b5cba33e33852a583fd43",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/6e48b049ba85019ecf4b5cba33e33852a583fd43",
+      "parent": "7c6d56a73b210e71a5a22f26197bf68fbcde57ec",
+      "files_changed": 1,
+      "additions": 2580,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        "creators/media-storm/dist/media-storm-creator-skill-v1.22.0-portable.md"
+      ]
+    },
+    {
+      "commit": "455d59c8ca86b271a286b2dcddb26600e9b7ab0d",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/455d59c8ca86b271a286b2dcddb26600e9b7ab0d",
+      "parent": "6e48b049ba85019ecf4b5cba33e33852a583fd43",
+      "files_changed": 1,
+      "additions": 588,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        "creators/media-storm/docs/完整使用指南.md"
+      ]
+    },
+    {
+      "commit": "867f036ef79a9da32c19547d15dc51f024fb3af0",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/867f036ef79a9da32c19547d15dc51f024fb3af0",
+      "parent": "455d59c8ca86b271a286b2dcddb26600e9b7ab0d",
+      "files_changed": 7,
+      "additions": 874,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        "creators/media-storm/skill/01_portable_instruction.md",
+        "creators/media-storm/skill/02_domain_kernel.md",
+        "creators/media-storm/skill/03_product_policy.md",
+        "creators/media-storm/skill/04_runtime_state.md",
+        "creators/media-storm/skill/05_decision_logic.md",
+        "creators/media-storm/skill/06_research_boundary.md",
+        "creators/media-storm/skill/SKILL.md"
+      ]
+    },
+    {
+      "commit": "9eeb5c932cfade445c4b73c3026b75c311e48bda",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/9eeb5c932cfade445c4b73c3026b75c311e48bda",
+      "parent": "867f036ef79a9da32c19547d15dc51f024fb3af0",
+      "files_changed": 3,
+      "additions": 1344,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        "creators/he-tongxue/skill/references/decision-tools.md",
+        "creators/he-tongxue/skill/references/evidence-index.md",
+        "creators/he-tongxue/skill/references/work-registry.md"
+      ]
+    },
+    {
+      "commit": "6fc1be2c9788057a99e770f1c6c6a389ea087b49",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/6fc1be2c9788057a99e770f1c6c6a389ea087b49",
+      "parent": "9eeb5c932cfade445c4b73c3026b75c311e48bda",
+      "files_changed": 3,
+      "additions": 1298,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        "creators/lawrence/skill/references/evidence-index.md",
+        "creators/lawrence/skill/references/method-bridges.md",
+        "creators/lawrence/skill/references/work-registry.md"
+      ]
+    },
+    {
+      "commit": "e8a0d4747d26e63f79e873a3c4ad7fb539d04862",
+      "url": "https://github.com/Bananaaayee/creator-methods-skills/commit/e8a0d4747d26e63f79e873a3c4ad7fb539d04862",
+      "parent": "6fc1be2c9788057a99e770f1c6c6a389ea087b49",
+      "files_changed": 2,
+      "additions": 1638,
+      "deletions": 0,
+      "file_status_observed": "octicon octicon-file-added fgColor-success",
+      "paths": [
+        "creators/media-storm/skill/references/evidence-vnext.md",
+        "creators/media-storm/skill/references/legacy-work-library.md"
+      ]
+    }
+  ],
+  "scope_limit": "Reachable main history and browser-visible branch/tag/release lists. Does not claim to audit deleted unreachable objects or GitHub internal retention. Full content equality at head was established in the previous run, whose SHA256 manifest evidence remains in the historical output."
+}
