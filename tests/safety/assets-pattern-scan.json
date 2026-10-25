@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-25",
+  "scope": "18 release assets, ZIPs expanded into temporary directories: 95 text entries including repeated standard packages",
+  "file_count": 95,
+  "findings": [],
+  "non_utf8_files": [],
+  "limits": "Pattern matching only. No legal clearance, no unreachable Git objects, no proof against all secrets or personal information."
+}
