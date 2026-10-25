@@ -1,0 +1,21 @@
+资料加载阶段｜小鹿 Lawrence完整方法｜第 13/13 段
+请载入以下原文切片，本条只回复“收到第 13/13 段”。全部段落发送结束且我另发任务之前，不开始创作，不总结或改写方法。
+未收齐时不得声称已完整加载；即使段号收齐，若平台无法保留或读取全部前文，请明确说“有限上下文版本”，只使用仍可见内容。包装中的段号与标记不是方法正文。
+
+=== ATLAS METHOD PAYLOAD BEGIN ===
+- `coverage`：RC+VAL
+- `route_hint`：把东西用到现实里 + 理解人、关系与记忆
+- `core_task`：在约两个月多地使用后，判断 X2D II 100C 与 35-100E 是否把中画幅从慢拍工具推进到可工作的效率水平；同时追问效率提升会不会反而削弱作者使用哈苏时珍视的慢摄影乐趣
+- `progression`：先按机身功能块：操控/屏幕—AF/连拍—防抖/ISO—HDR；再转 35-100E 镜头
+- `key_action_or_evidence`：对照新旧机身按键/握持/屏幕；让米老师走动测试跟焦连拍；手持较低 ISO 验证防抖
+- `turning_point`：NONE
+- `conclusion_boundary`：支持送测样机、所用固件、作者两月场景和其工作方式；不能替代标准化防抖级数、对焦成功率、色准/HDR兼容性测试，也不能代表所有职业摄影者；未给电池、可靠性、完整价格构成
+- `transferable`：多地实拍产生长期使用证据；旧机对照识别升级
+- `do_not_transfer`：不能替代标准化防抖级数、对焦成功率、色准/HDR兼容性测试，也不能代表所有职业摄影者
+- `text_note`：NONE
+- `source_basis`：05B:XL-083; 07B:VALIDATED_POOL; Text:NONE
+
+<!-- REFERENCE_CAPSULE_REGISTRY_END -->
+
+
+=== ATLAS METHOD PAYLOAD END ===
