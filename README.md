@@ -4,7 +4,7 @@
 
 **[下载文件](downloads/README.md) ｜ [复制使用](copy/README.md) ｜ [安装Skill](docs/安装Skill.md)**
 
-维护者：**BANANAAAYEE**。发行V3，更新于**2026-10-25**。目前仓库为**Private**，仍在非公开准备阶段，尚未向普通观众开放；公开前需维护者确认。
+维护者：**BANANAAAYEE**。发行V3，更新于**2026-10-25**。仓库现已公开，可直接下载、阅读和复制；实际验证结果见[发行状态](docs/发行状态.md)。
 
 ## 先选一位，再选一种用法
 
@@ -45,7 +45,7 @@
 
 ## 安装命令
 
-下列Git命令需要仓库对你可读；当前Private阶段，未授权的访客无法匿名获取。普通用户可以直接用文件，不必运行它们。
+仓库现为Public，下列Git命令可匿名读取，无需本项目的GitHub访问授权。公开后的匿名远端安装已实测通过；普通用户可以直接用文件，不必运行它们。
 
 ```sh
 npx skills add Bananaaayee/creator-methods-skills --list
