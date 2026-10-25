@@ -1,0 +1,584 @@
+{
+  "builder_rebuild": {
+    "requested": false,
+    "result": "not requested"
+  },
+  "encoding_and_chinese": {
+    "chinese_documents": [
+      {
+        "han_characters": 365,
+        "path": "CHANGELOG.md"
+      },
+      {
+        "han_characters": 474,
+        "path": "DISCLAIMER.md"
+      },
+      {
+        "han_characters": 489,
+        "path": "KNOWN_LIMITS.md"
+      },
+      {
+        "han_characters": 111,
+        "path": "NOTICE.md"
+      },
+      {
+        "han_characters": 1279,
+        "path": "README.md"
+      },
+      {
+        "han_characters": 94,
+        "path": "archive/vnext-scripts/README.md"
+      },
+      {
+        "han_characters": 38359,
+        "path": "copy/Hetongxue/README.md"
+      },
+      {
+        "han_characters": 154,
+        "path": "copy/Hetongxue/START.txt"
+      },
+      {
+        "han_characters": 139,
+        "path": "copy/Hetongxue/TASK.txt"
+      },
+      {
+        "han_characters": 3982,
+        "path": "copy/Hetongxue/parts/01-of-11.txt"
+      },
+      {
+        "han_characters": 3370,
+        "path": "copy/Hetongxue/parts/02-of-11.txt"
+      },
+      {
+        "han_characters": 4569,
+        "path": "copy/Hetongxue/parts/03-of-11.txt"
+      },
+      {
+        "han_characters": 2944,
+        "path": "copy/Hetongxue/parts/04-of-11.txt"
+      },
+      {
+        "han_characters": 3554,
+        "path": "copy/Hetongxue/parts/05-of-11.txt"
+      },
+      {
+        "han_characters": 3636,
+        "path": "copy/Hetongxue/parts/06-of-11.txt"
+      },
+      {
+        "han_characters": 3724,
+        "path": "copy/Hetongxue/parts/07-of-11.txt"
+      },
+      {
+        "han_characters": 3645,
+        "path": "copy/Hetongxue/parts/08-of-11.txt"
+      },
+      {
+        "han_characters": 3652,
+        "path": "copy/Hetongxue/parts/09-of-11.txt"
+      },
+      {
+        "han_characters": 3600,
+        "path": "copy/Hetongxue/parts/10-of-11.txt"
+      },
+      {
+        "han_characters": 2394,
+        "path": "copy/Hetongxue/parts/11-of-11.txt"
+      },
+      {
+        "han_characters": 43736,
+        "path": "copy/Lawrence/README.md"
+      },
+      {
+        "han_characters": 153,
+        "path": "copy/Lawrence/START.txt"
+      },
+      {
+        "han_characters": 139,
+        "path": "copy/Lawrence/TASK.txt"
+      },
+      {
+        "han_characters": 4277,
+        "path": "copy/Lawrence/parts/01-of-13.txt"
+      },
+      {
+        "han_characters": 3724,
+        "path": "copy/Lawrence/parts/02-of-13.txt"
+      },
+      {
+        "han_characters": 3662,
+        "path": "copy/Lawrence/parts/03-of-13.txt"
+      },
+      {
+        "han_characters": 2774,
+        "path": "copy/Lawrence/parts/04-of-13.txt"
+      },
+      {
+        "han_characters": 3704,
+        "path": "copy/Lawrence/parts/05-of-13.txt"
+      },
+      {
+        "han_characters": 3779,
+        "path": "copy/Lawrence/parts/06-of-13.txt"
+      },
+      {
+        "han_characters": 4072,
+        "path": "copy/Lawrence/parts/07-of-13.txt"
+      },
+      {
+        "han_characters": 4050,
+        "path": "copy/Lawrence/parts/08-of-13.txt"
+      },
+      {
+        "han_characters": 3835,
+        "path": "copy/Lawrence/parts/09-of-13.txt"
+      },
+      {
+        "han_characters": 3469,
+        "path": "copy/Lawrence/parts/10-of-13.txt"
+      },
+      {
+        "han_characters": 3458,
+        "path": "copy/Lawrence/parts/11-of-13.txt"
+      },
+      {
+        "han_characters": 3482,
+        "path": "copy/Lawrence/parts/12-of-13.txt"
+      },
+      {
+        "han_characters": 385,
+        "path": "copy/Lawrence/parts/13-of-13.txt"
+      },
+      {
+        "han_characters": 57342,
+        "path": "copy/MediaStorm/README.md"
+      },
+      {
+        "han_characters": 155,
+        "path": "copy/MediaStorm/START.txt"
+      },
+      {
+        "han_characters": 139,
+        "path": "copy/MediaStorm/TASK.txt"
+      },
+      {
+        "han_characters": 4146,
+        "path": "copy/MediaStorm/parts/01-of-16.txt"
+      },
+      {
+        "han_characters": 4570,
+        "path": "copy/MediaStorm/parts/02-of-16.txt"
+      },
+      {
+        "han_characters": 4219,
+        "path": "copy/MediaStorm/parts/03-of-16.txt"
+      },
+      {
+        "han_characters": 3645,
+        "path": "copy/MediaStorm/parts/04-of-16.txt"
+      },
+      {
+        "han_characters": 2964,
+        "path": "copy/MediaStorm/parts/05-of-16.txt"
+      },
+      {
+        "han_characters": 3011,
+        "path": "copy/MediaStorm/parts/06-of-16.txt"
+      },
+      {
+        "han_characters": 3192,
+        "path": "copy/MediaStorm/parts/07-of-16.txt"
+      },
+      {
+        "han_characters": 3306,
+        "path": "copy/MediaStorm/parts/08-of-16.txt"
+      },
+      {
+        "han_characters": 3805,
+        "path": "copy/MediaStorm/parts/09-of-16.txt"
+      },
+      {
+        "han_characters": 4048,
+        "path": "copy/MediaStorm/parts/10-of-16.txt"
+      },
+      {
+        "han_characters": 4001,
+        "path": "copy/MediaStorm/parts/11-of-16.txt"
+      },
+      {
+        "han_characters": 4079,
+        "path": "copy/MediaStorm/parts/12-of-16.txt"
+      },
+      {
+        "han_characters": 4015,
+        "path": "copy/MediaStorm/parts/13-of-16.txt"
+      },
+      {
+        "han_characters": 3937,
+        "path": "copy/MediaStorm/parts/14-of-16.txt"
+      },
+      {
+        "han_characters": 4083,
+        "path": "copy/MediaStorm/parts/15-of-16.txt"
+      },
+      {
+        "han_characters": 1637,
+        "path": "copy/MediaStorm/parts/16-of-16.txt"
+      },
+      {
+        "han_characters": 237,
+        "path": "copy/README.md"
+      },
+      {
+        "han_characters": 1965,
+        "path": "docs/使用指南.md"
+      },
+      {
+        "han_characters": 779,
+        "path": "docs/公开范围与安全检查.md"
+      },
+      {
+        "han_characters": 77,
+        "path": "docs/发行状态.md"
+      },
+      {
+        "han_characters": 1595,
+        "path": "docs/发行验证记录.md"
+      },
+      {
+        "han_characters": 842,
+        "path": "docs/安装Skill.md"
+      },
+      {
+        "han_characters": 280,
+        "path": "downloads/Hetongxue.md"
+      },
+      {
+        "han_characters": 271,
+        "path": "downloads/Lawrence.md"
+      },
+      {
+        "han_characters": 273,
+        "path": "downloads/MediaStorm.md"
+      },
+      {
+        "han_characters": 181,
+        "path": "downloads/README.md"
+      },
+      {
+        "han_characters": 37651,
+        "path": "portable/Hetongxue-Portable.md"
+      },
+      {
+        "han_characters": 37651,
+        "path": "portable/Hetongxue-Portable.txt"
+      },
+      {
+        "han_characters": 43007,
+        "path": "portable/Lawrence-Portable.md"
+      },
+      {
+        "han_characters": 43007,
+        "path": "portable/Lawrence-Portable.txt"
+      },
+      {
+        "han_characters": 56578,
+        "path": "portable/MediaStorm-Portable.md"
+      },
+      {
+        "han_characters": 56578,
+        "path": "portable/MediaStorm-Portable.txt"
+      },
+      {
+        "han_characters": 748,
+        "path": "skills/he-tongxue-creator/01_portable_instruction.md"
+      },
+      {
+        "han_characters": 2284,
+        "path": "skills/he-tongxue-creator/02_domain_kernel.md"
+      },
+      {
+        "han_characters": 1010,
+        "path": "skills/he-tongxue-creator/03_product_policy.md"
+      },
+      {
+        "han_characters": 863,
+        "path": "skills/he-tongxue-creator/04_runtime_state.md"
+      },
+      {
+        "han_characters": 1569,
+        "path": "skills/he-tongxue-creator/05_decision_logic.md"
+      },
+      {
+        "han_characters": 1336,
+        "path": "skills/he-tongxue-creator/06_research_boundary.md"
+      },
+      {
+        "han_characters": 474,
+        "path": "skills/he-tongxue-creator/DISCLAIMER.md"
+      },
+      {
+        "han_characters": 244,
+        "path": "skills/he-tongxue-creator/README.md"
+      },
+      {
+        "han_characters": 374,
+        "path": "skills/he-tongxue-creator/SKILL.md"
+      },
+      {
+        "han_characters": 1788,
+        "path": "skills/he-tongxue-creator/references/decision-tools.md"
+      },
+      {
+        "han_characters": 3236,
+        "path": "skills/he-tongxue-creator/references/evidence-index.md"
+      },
+      {
+        "han_characters": 23933,
+        "path": "skills/he-tongxue-creator/references/work-registry.md"
+      },
+      {
+        "han_characters": 755,
+        "path": "skills/lawrence-creator/01_portable_instruction.md"
+      },
+      {
+        "han_characters": 2827,
+        "path": "skills/lawrence-creator/02_domain_kernel.md"
+      },
+      {
+        "han_characters": 1347,
+        "path": "skills/lawrence-creator/03_product_policy.md"
+      },
+      {
+        "han_characters": 831,
+        "path": "skills/lawrence-creator/04_runtime_state.md"
+      },
+      {
+        "han_characters": 2340,
+        "path": "skills/lawrence-creator/05_decision_logic.md"
+      },
+      {
+        "han_characters": 1164,
+        "path": "skills/lawrence-creator/06_research_boundary.md"
+      },
+      {
+        "han_characters": 474,
+        "path": "skills/lawrence-creator/DISCLAIMER.md"
+      },
+      {
+        "han_characters": 235,
+        "path": "skills/lawrence-creator/README.md"
+      },
+      {
+        "han_characters": 361,
+        "path": "skills/lawrence-creator/SKILL.md"
+      },
+      {
+        "han_characters": 2300,
+        "path": "skills/lawrence-creator/references/evidence-index.md"
+      },
+      {
+        "han_characters": 1482,
+        "path": "skills/lawrence-creator/references/method-bridges.md"
+      },
+      {
+        "han_characters": 29091,
+        "path": "skills/lawrence-creator/references/work-registry.md"
+      },
+      {
+        "han_characters": 1208,
+        "path": "skills/media-storm-creator/01_portable_instruction.md"
+      },
+      {
+        "han_characters": 3814,
+        "path": "skills/media-storm-creator/02_domain_kernel.md"
+      },
+      {
+        "han_characters": 1748,
+        "path": "skills/media-storm-creator/03_product_policy.md"
+      },
+      {
+        "han_characters": 1670,
+        "path": "skills/media-storm-creator/04_runtime_state.md"
+      },
+      {
+        "han_characters": 2329,
+        "path": "skills/media-storm-creator/05_decision_logic.md"
+      },
+      {
+        "han_characters": 1270,
+        "path": "skills/media-storm-creator/06_research_boundary.md"
+      },
+      {
+        "han_characters": 474,
+        "path": "skills/media-storm-creator/DISCLAIMER.md"
+      },
+      {
+        "han_characters": 237,
+        "path": "skills/media-storm-creator/README.md"
+      },
+      {
+        "han_characters": 392,
+        "path": "skills/media-storm-creator/SKILL.md"
+      },
+      {
+        "han_characters": 5592,
+        "path": "skills/media-storm-creator/references/evidence-vnext.md"
+      },
+      {
+        "han_characters": 38053,
+        "path": "skills/media-storm-creator/references/legacy-work-library.md"
+      }
+    ],
+    "chinese_documents_checked": 106,
+    "failures": [],
+    "nul_and_replacement_character_check": true,
+    "result": "pass",
+    "strict_utf8": true,
+    "text_files_checked": 124
+  },
+  "existing_builder_content_checks": {
+    "result": "pass",
+    "verification": {
+      "all_29_source_bodies_fully_embedded": true,
+      "authors": {
+        "he-tongxue-creator": {
+          "links_rewritten": 15,
+          "maximum_part_characters": 7633,
+          "parts": 11,
+          "portable": {
+            "bytes": 162326,
+            "characters": 75983,
+            "encoding": "UTF-8",
+            "sha256": "f2365c2db6f7503c735d834acc02f71a8f79fbe431312721d9ea7eb81f168981"
+          },
+          "reconstructed_sha256": "f2365c2db6f7503c735d834acc02f71a8f79fbe431312721d9ea7eb81f168981",
+          "runtime_sources": 10
+        },
+        "lawrence-creator": {
+          "links_rewritten": 18,
+          "maximum_part_characters": 7636,
+          "parts": 13,
+          "portable": {
+            "bytes": 183694,
+            "characters": 85869,
+            "encoding": "UTF-8",
+            "sha256": "71b980fa366f0704c2c9344a2481f9908bedc1083eff0b75dac44007d29355c4"
+          },
+          "reconstructed_sha256": "71b980fa366f0704c2c9344a2481f9908bedc1083eff0b75dac44007d29355c4",
+          "runtime_sources": 10
+        },
+        "media-storm-creator": {
+          "links_rewritten": 18,
+          "maximum_part_characters": 7634,
+          "parts": 16,
+          "portable": {
+            "bytes": 236439,
+            "characters": 107650,
+            "encoding": "UTF-8",
+            "sha256": "14b288e21b6a0316c32945ff3716c669564d71e24ecc3c1d72e854949bd3e285"
+          },
+          "reconstructed_sha256": "14b288e21b6a0316c32945ff3716c669564d71e24ecc3c1d72e854949bd3e285",
+          "runtime_sources": 9
+        }
+      },
+      "copy_readme_contains_exact_full_txt": true,
+      "deterministic_archives_and_runtime_bytes_verified": true,
+      "no_extra_skill_entry_files": true,
+      "parts_at_most_8000_characters_including_envelope": true,
+      "parts_include_loading_envelope": true,
+      "parts_payload_reconstructs_exact_txt": true,
+      "portable_archive_local_navigation_resolves": true,
+      "portable_md_txt_identical": true,
+      "relative_markdown_links_resolve_to_internal_anchors": true,
+      "release_asset_count_including_checksums": 18,
+      "release_checksums_verified": true,
+      "repository_document_sources_unchanged": true,
+      "source_hashes_unchanged": true,
+      "source_runtime_file_count": 29,
+      "standalone_document_navigation_uses_repository_reading_urls": true,
+      "utf8_strict_decode": true
+    }
+  },
+  "method_source_policy": "The builder verifies all 29 immutable runtime sources against embedded SHA-256 baselines.",
+  "path_policy": "All report paths are relative to the repository, including ../release-assets/ for sibling assets; the report excludes itself from text-file counts.",
+  "relative_links": {
+    "code_examples_skipped": true,
+    "external_links_skipped": 21,
+    "failures": [],
+    "local_fragments_checked": 80,
+    "markdown_files_checked": 59,
+    "relative_links_checked": 258,
+    "result": "pass"
+  },
+  "release_tag": "atlas-v3-2026.10.25",
+  "result": "pass",
+  "schema_version": 1,
+  "scope": "Offline local distribution verification; no model quality evaluation, browser, network, or remote installation claims.",
+  "short_start_boundaries": {
+    "authors": {
+      "he-tongxue-creator": {
+        "correct_author_and_version": true,
+        "does_not_claim_full_loading_from_start_alone": true,
+        "finite_context_boundary": true,
+        "no_creation_during_loading": true,
+        "requires_actual_full_text_or_parts": true,
+        "short_start_is_not_full_method": true,
+        "task_follows_method_loading": true
+      },
+      "lawrence-creator": {
+        "correct_author_and_version": true,
+        "does_not_claim_full_loading_from_start_alone": true,
+        "finite_context_boundary": true,
+        "no_creation_during_loading": true,
+        "requires_actual_full_text_or_parts": true,
+        "short_start_is_not_full_method": true,
+        "task_follows_method_loading": true
+      },
+      "media-storm-creator": {
+        "correct_author_and_version": true,
+        "does_not_claim_full_loading_from_start_alone": true,
+        "finite_context_boundary": true,
+        "no_creation_during_loading": true,
+        "requires_actual_full_text_or_parts": true,
+        "short_start_is_not_full_method": true,
+        "task_follows_method_loading": true
+      }
+    },
+    "failures": [],
+    "result": "pass"
+  },
+  "standalone_asset_document_navigation": {
+    "documents": [
+      {
+        "only_link_targets_changed": true,
+        "path": "../release-assets/CHANGELOG.md",
+        "source": "CHANGELOG.md"
+      },
+      {
+        "only_link_targets_changed": true,
+        "path": "../release-assets/Cross-Platform-Guide.zh-CN.md",
+        "source": "docs/使用指南.md"
+      },
+      {
+        "only_link_targets_changed": true,
+        "path": "../release-assets/DISCLAIMER.md",
+        "source": "DISCLAIMER.md"
+      },
+      {
+        "only_link_targets_changed": true,
+        "path": "../release-assets/KNOWN_LIMITS.md",
+        "source": "KNOWN_LIMITS.md"
+      },
+      {
+        "only_link_targets_changed": true,
+        "path": "../release-assets/README.md",
+        "source": "README.md"
+      }
+    ],
+    "failures": [],
+    "links_checked": 34,
+    "no_release_download_urls_constructed": true,
+    "result": "pass"
+  }
+}
