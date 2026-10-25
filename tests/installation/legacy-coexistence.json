@@ -1,0 +1,297 @@
+{
+  "checkedOn": "2026-10-25",
+  "scope": "Independent local legacy-coexistence increment; excluded from the historical 24+15 checks. No model calls or remote authenticated installation.",
+  "versions": {
+    "node": "24.19.0",
+    "npm": "12.2.1",
+    "skills": "1.7.4"
+  },
+  "fixture": {
+    "legacyTrackedFilesCopied": 88,
+    "legacyFileSelection": "git ls-files -z from the frozen VNext checkout; actual tracked working-tree files, not .git or caches",
+    "v3FilesOverlaidAtTestTime": 126,
+    "overlay": "V3 files overlaid by relative path; .git, node_modules, caches, __pycache__, .DS_Store excluded",
+    "physicalSkillEntryCount": 6,
+    "physicalSkillEntries": [
+      "creators/he-tongxue/skill/SKILL.md",
+      "creators/lawrence/skill/SKILL.md",
+      "creators/media-storm/skill/SKILL.md",
+      "skills/he-tongxue-creator/SKILL.md",
+      "skills/lawrence-creator/SKILL.md",
+      "skills/media-storm-creator/SKILL.md"
+    ],
+    "canonicalSkillDirectory": "skills/",
+    "frozenLegacySkillDirectory": "creators/<creator>/skill/"
+  },
+  "observed": {
+    "rootDefaultListCount": 3,
+    "rootDefaultNames": [
+      "he-tongxue-creator",
+      "lawrence-creator",
+      "media-storm-creator"
+    ],
+    "explicitSkillsContainerListCount": 3,
+    "rootNamedHeInstallationMatchesCanonicalAll12Files": true,
+    "rootNamedHeInstallationIncludesNewDocuments": [
+      "DISCLAIMER.md",
+      "README.md"
+    ],
+    "canonicalAllFileCount": 35,
+    "sharedRuntimeFileCount": 29,
+    "all29LegacyCanonicalRuntimeHashesEqual": true
+  },
+  "installerRule": {
+    "source": "https://github.com/vercel-labs/skills/blob/main/src/skills.ts",
+    "verifiedAgainstInstalledVersion": "1.7.4",
+    "behavior": "Default discovery scans priority skill containers first. Once skills/ provides skills, the broad recursive fallback is not run; fallback requires no prior result or --full-depth. Ordinary discovery also suppresses already-seen names, keeping earlier priority results.",
+    "fullDepthSeparatelyExecuted": false,
+    "remoteNewContentVerified": false
+  },
+  "commands": [
+    "npx skills add <combined-local-directory> --list",
+    "npx skills add <combined-local-directory>/skills --list",
+    "npx skills add <combined-local-directory> --skill he-tongxue-creator -a codex --copy -y"
+  ],
+  "results": [
+    {
+      "id": "combined-root-list",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "explicit-canonical-container-list",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "combined-root-select-he-copy",
+      "passed": true,
+      "exitCode": 0,
+      "expectCode": 0
+    },
+    {
+      "id": "selected-he-matches-canonical-source",
+      "passed": true,
+      "files": [
+        {
+          "skill": "he-tongxue-creator",
+          "count": 12,
+          "identical": true,
+          "relativeFileSha256": {
+            "01_portable_instruction.md": "9d978acc3d8acc8502594808a325137b6ba572381746ebc162f9a5c651015daa",
+            "02_domain_kernel.md": "5b98456d77222be035ee4a0eebfb34096f83d8ada73fa0417c69a2d2c420248f",
+            "03_product_policy.md": "16aca488b2936379e4e150d73d54701c1227d23dfbc0f77827d052a464dc7d01",
+            "04_runtime_state.md": "f3e2c9da399657d41f4165f34af6c99c3d2582dcfd92c5216180ead6069db49f",
+            "05_decision_logic.md": "3c8c5399e5c27792b5d28f105105a473222fcae61e5bd033529d6899376b8f8b",
+            "06_research_boundary.md": "c75c0a614bb2f21ea543b42c50e3790bc9114ef9263d707b293785b1e25ec829",
+            "DISCLAIMER.md": "9e3919f60542b1593c8bdb4c6ca98df5ee9d32afe909215c87ce8c71935bf979",
+            "README.md": "f028ea433caa37b4e3d0240c317214392a439c6ddded6ee14865cf69a9f70d5d",
+            "references/decision-tools.md": "a51ce78ed7ed849e5a970fd4ebad2addfb99a9e1d002755b60fe94358417cb94",
+            "references/evidence-index.md": "4e1afecac5317543ba338680e0bb6bd8fdd0078e7c728472ca95e14610cc8617",
+            "references/work-registry.md": "38f0ce2f3e820e140e4f7ec41bac9a900a52abe400a9f4d86c7f21fb2fdc608d",
+            "SKILL.md": "9773c8a9f7858a12ad33f88b8847e552d5770ed09103bda929e522c0637c3200"
+          }
+        }
+      ]
+    },
+    {
+      "id": "selected-he-source-origin",
+      "passed": true,
+      "installedFiles": 12,
+      "canonicalFiles": 12,
+      "legacyFiles": 10,
+      "extraFilesComparedWithLegacy": [
+        "DISCLAIMER.md",
+        "README.md"
+      ],
+      "canonicalRuntimeMatchesLegacy": true
+    }
+  ],
+  "runtimeParity": [
+    {
+      "legacyPath": "creators/he-tongxue/skill/01_portable_instruction.md",
+      "canonicalPath": "skills/he-tongxue-creator/01_portable_instruction.md",
+      "sha256": "9d978acc3d8acc8502594808a325137b6ba572381746ebc162f9a5c651015daa",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/he-tongxue/skill/02_domain_kernel.md",
+      "canonicalPath": "skills/he-tongxue-creator/02_domain_kernel.md",
+      "sha256": "5b98456d77222be035ee4a0eebfb34096f83d8ada73fa0417c69a2d2c420248f",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/he-tongxue/skill/03_product_policy.md",
+      "canonicalPath": "skills/he-tongxue-creator/03_product_policy.md",
+      "sha256": "16aca488b2936379e4e150d73d54701c1227d23dfbc0f77827d052a464dc7d01",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/he-tongxue/skill/04_runtime_state.md",
+      "canonicalPath": "skills/he-tongxue-creator/04_runtime_state.md",
+      "sha256": "f3e2c9da399657d41f4165f34af6c99c3d2582dcfd92c5216180ead6069db49f",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/he-tongxue/skill/05_decision_logic.md",
+      "canonicalPath": "skills/he-tongxue-creator/05_decision_logic.md",
+      "sha256": "3c8c5399e5c27792b5d28f105105a473222fcae61e5bd033529d6899376b8f8b",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/he-tongxue/skill/06_research_boundary.md",
+      "canonicalPath": "skills/he-tongxue-creator/06_research_boundary.md",
+      "sha256": "c75c0a614bb2f21ea543b42c50e3790bc9114ef9263d707b293785b1e25ec829",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/he-tongxue/skill/SKILL.md",
+      "canonicalPath": "skills/he-tongxue-creator/SKILL.md",
+      "sha256": "9773c8a9f7858a12ad33f88b8847e552d5770ed09103bda929e522c0637c3200",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/he-tongxue/skill/references/decision-tools.md",
+      "canonicalPath": "skills/he-tongxue-creator/references/decision-tools.md",
+      "sha256": "a51ce78ed7ed849e5a970fd4ebad2addfb99a9e1d002755b60fe94358417cb94",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/he-tongxue/skill/references/evidence-index.md",
+      "canonicalPath": "skills/he-tongxue-creator/references/evidence-index.md",
+      "sha256": "4e1afecac5317543ba338680e0bb6bd8fdd0078e7c728472ca95e14610cc8617",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/he-tongxue/skill/references/work-registry.md",
+      "canonicalPath": "skills/he-tongxue-creator/references/work-registry.md",
+      "sha256": "38f0ce2f3e820e140e4f7ec41bac9a900a52abe400a9f4d86c7f21fb2fdc608d",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/lawrence/skill/01_portable_instruction.md",
+      "canonicalPath": "skills/lawrence-creator/01_portable_instruction.md",
+      "sha256": "55a96b96e2845a38b415af039dc6925af3901ac28869ba5e4190e6d8f8950f32",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/lawrence/skill/02_domain_kernel.md",
+      "canonicalPath": "skills/lawrence-creator/02_domain_kernel.md",
+      "sha256": "58a3c214edd43b3d8620e26afa278257f7d119bc5c5344272e50a3e5d83c6977",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/lawrence/skill/03_product_policy.md",
+      "canonicalPath": "skills/lawrence-creator/03_product_policy.md",
+      "sha256": "d9e6dc54721a79ed82d09b71bdb62edc7b0e73708ca8754d485bee8812a88c36",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/lawrence/skill/04_runtime_state.md",
+      "canonicalPath": "skills/lawrence-creator/04_runtime_state.md",
+      "sha256": "fbcb8dc401bba0e94ae84fe9aea999ef4ecce1c9ce6b6badd745974ba681f9a5",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/lawrence/skill/05_decision_logic.md",
+      "canonicalPath": "skills/lawrence-creator/05_decision_logic.md",
+      "sha256": "c62d93069286a426dbc9bfd29256444c0a8f2cfb75bce067b4e8ba9f77109844",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/lawrence/skill/06_research_boundary.md",
+      "canonicalPath": "skills/lawrence-creator/06_research_boundary.md",
+      "sha256": "ed1a0e673543e9ca52ea7008aff089d805d8ee4d2582949b5d945999842b7193",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/lawrence/skill/SKILL.md",
+      "canonicalPath": "skills/lawrence-creator/SKILL.md",
+      "sha256": "1674dc167a67e6575ab1ecaf9d0bba353a65b0b32603a8217832c653a203fc02",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/lawrence/skill/references/evidence-index.md",
+      "canonicalPath": "skills/lawrence-creator/references/evidence-index.md",
+      "sha256": "fb47c30a3c90cc58dd0438c0bb1703f487b6370f5a634ebbf6febd3989547b8b",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/lawrence/skill/references/method-bridges.md",
+      "canonicalPath": "skills/lawrence-creator/references/method-bridges.md",
+      "sha256": "a12c578cc51b9c1fffbe41205f183509c8ca9e66fd970a79dfab7ab1dfcbe2cf",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/lawrence/skill/references/work-registry.md",
+      "canonicalPath": "skills/lawrence-creator/references/work-registry.md",
+      "sha256": "82d80fa0e8a43979988405e7790c0d62521a5ddaae86e128be22e01df1d6875b",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/media-storm/skill/01_portable_instruction.md",
+      "canonicalPath": "skills/media-storm-creator/01_portable_instruction.md",
+      "sha256": "ecade84ceec05c0d5005411c555c417f3c348477cb6e3470901a2cabba3a7aba",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/media-storm/skill/02_domain_kernel.md",
+      "canonicalPath": "skills/media-storm-creator/02_domain_kernel.md",
+      "sha256": "7d9010b059d1297bf7d1acda9622649fd25e165d0d68f07a6b54e7eed5e629aa",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/media-storm/skill/03_product_policy.md",
+      "canonicalPath": "skills/media-storm-creator/03_product_policy.md",
+      "sha256": "ad52d11da56244ff7caa87dcda454b45844fd3fcf96956e52dceb7eda63fcad4",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/media-storm/skill/04_runtime_state.md",
+      "canonicalPath": "skills/media-storm-creator/04_runtime_state.md",
+      "sha256": "8846153593e0b2fa5f8288cfddf6cf4cf3751adab667d250df5c9df9ba601bc4",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/media-storm/skill/05_decision_logic.md",
+      "canonicalPath": "skills/media-storm-creator/05_decision_logic.md",
+      "sha256": "87870c99879437fd0cead8461a85a83d04c9d06f6b5d41a280439d8d9c43bdc9",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/media-storm/skill/06_research_boundary.md",
+      "canonicalPath": "skills/media-storm-creator/06_research_boundary.md",
+      "sha256": "df6b0bf8ed629c5585bd51ce7aa87c4cec6b03ac27896a73b16ca9229e8bfa0c",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/media-storm/skill/SKILL.md",
+      "canonicalPath": "skills/media-storm-creator/SKILL.md",
+      "sha256": "03336a9c4f63faf89024ecbf65543cad459177eb16c12cca7c789893c964b348",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/media-storm/skill/references/evidence-vnext.md",
+      "canonicalPath": "skills/media-storm-creator/references/evidence-vnext.md",
+      "sha256": "47cbed9650b772981024e45f2c002b2c9345cf6a91822fb2fe84ce3d2a1c73fa",
+      "identical": true
+    },
+    {
+      "legacyPath": "creators/media-storm/skill/references/legacy-work-library.md",
+      "canonicalPath": "skills/media-storm-creator/references/legacy-work-library.md",
+      "sha256": "16b70c14294f49e5d995d6b91f9955cd42440e9b268ccadd723b416fcb8540a1",
+      "identical": true
+    }
+  ],
+  "authority": "Only skills/ is maintained as the V3 method authority; creators/ is retained as frozen legacy material.",
+  "isolation": {
+    "temporaryFixture": true,
+    "inheritedAccountTokens": false,
+    "modelCalls": 0,
+    "login": false,
+    "realUserConfigurationChanged": false
+  },
+  "privateRemoteAuthenticatedInstallTested": false
+}
