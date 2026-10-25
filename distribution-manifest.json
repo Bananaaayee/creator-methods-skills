@@ -1,0 +1,1557 @@
+{
+  "archive_policy": {
+    "compression": "ZIP_STORED",
+    "sorted_entries": true,
+    "timestamp": [
+      2026,
+      10,
+      25,
+      0,
+      0,
+      0
+    ],
+    "unix_file_mode": "100644"
+  },
+  "archives": {
+    "Creator-Methods-Atlas-Portable.zip": {
+      "bytes": 1187769,
+      "compression": "ZIP_STORED",
+      "entries": [
+        "CHANGELOG.md",
+        "Cross-Platform-Guide.zh-CN.md",
+        "DISCLAIMER.md",
+        "Hetongxue-Portable.md",
+        "Hetongxue-Portable.txt",
+        "KNOWN_LIMITS.md",
+        "Lawrence-Portable.md",
+        "Lawrence-Portable.txt",
+        "MediaStorm-Portable.md",
+        "MediaStorm-Portable.txt",
+        "README.md",
+        "START-HERE.md"
+      ],
+      "entry_count": 12,
+      "fixed_timestamp": [
+        2026,
+        10,
+        25,
+        0,
+        0,
+        0
+      ],
+      "sha256": "6a49d224e69f8c544fba4fc407b092a35e4752d92c1f6f5ff2fb72e293c6b00e",
+      "unix_file_mode": "100644"
+    },
+    "Creator-Methods-Atlas-Skills.zip": {
+      "bytes": 582128,
+      "compression": "ZIP_STORED",
+      "entries": [
+        "he-tongxue-creator/01_portable_instruction.md",
+        "he-tongxue-creator/02_domain_kernel.md",
+        "he-tongxue-creator/03_product_policy.md",
+        "he-tongxue-creator/04_runtime_state.md",
+        "he-tongxue-creator/05_decision_logic.md",
+        "he-tongxue-creator/06_research_boundary.md",
+        "he-tongxue-creator/DISCLAIMER.md",
+        "he-tongxue-creator/README.md",
+        "he-tongxue-creator/SKILL.md",
+        "he-tongxue-creator/references/decision-tools.md",
+        "he-tongxue-creator/references/evidence-index.md",
+        "he-tongxue-creator/references/work-registry.md",
+        "lawrence-creator/01_portable_instruction.md",
+        "lawrence-creator/02_domain_kernel.md",
+        "lawrence-creator/03_product_policy.md",
+        "lawrence-creator/04_runtime_state.md",
+        "lawrence-creator/05_decision_logic.md",
+        "lawrence-creator/06_research_boundary.md",
+        "lawrence-creator/DISCLAIMER.md",
+        "lawrence-creator/README.md",
+        "lawrence-creator/SKILL.md",
+        "lawrence-creator/references/evidence-index.md",
+        "lawrence-creator/references/method-bridges.md",
+        "lawrence-creator/references/work-registry.md",
+        "media-storm-creator/01_portable_instruction.md",
+        "media-storm-creator/02_domain_kernel.md",
+        "media-storm-creator/03_product_policy.md",
+        "media-storm-creator/04_runtime_state.md",
+        "media-storm-creator/05_decision_logic.md",
+        "media-storm-creator/06_research_boundary.md",
+        "media-storm-creator/DISCLAIMER.md",
+        "media-storm-creator/README.md",
+        "media-storm-creator/SKILL.md",
+        "media-storm-creator/references/evidence-vnext.md",
+        "media-storm-creator/references/legacy-work-library.md"
+      ],
+      "entry_count": 35,
+      "fixed_timestamp": [
+        2026,
+        10,
+        25,
+        0,
+        0,
+        0
+      ],
+      "sha256": "9ac06f62b4a776d1ab5c7319dd8abb0e97f3d116e4bab97c2d44ff361b380a7a",
+      "unix_file_mode": "100644"
+    },
+    "he-tongxue-creator.zip": {
+      "bytes": 162221,
+      "compression": "ZIP_STORED",
+      "entries": [
+        "he-tongxue-creator/01_portable_instruction.md",
+        "he-tongxue-creator/02_domain_kernel.md",
+        "he-tongxue-creator/03_product_policy.md",
+        "he-tongxue-creator/04_runtime_state.md",
+        "he-tongxue-creator/05_decision_logic.md",
+        "he-tongxue-creator/06_research_boundary.md",
+        "he-tongxue-creator/DISCLAIMER.md",
+        "he-tongxue-creator/README.md",
+        "he-tongxue-creator/SKILL.md",
+        "he-tongxue-creator/references/decision-tools.md",
+        "he-tongxue-creator/references/evidence-index.md",
+        "he-tongxue-creator/references/work-registry.md"
+      ],
+      "entry_count": 12,
+      "fixed_timestamp": [
+        2026,
+        10,
+        25,
+        0,
+        0,
+        0
+      ],
+      "sha256": "e313244d715c4ed91bc1337b7406b15c3b252a22d94bd8adea40c44cd42bbdec",
+      "unix_file_mode": "100644"
+    },
+    "lawrence-creator.zip": {
+      "bytes": 183505,
+      "compression": "ZIP_STORED",
+      "entries": [
+        "lawrence-creator/01_portable_instruction.md",
+        "lawrence-creator/02_domain_kernel.md",
+        "lawrence-creator/03_product_policy.md",
+        "lawrence-creator/04_runtime_state.md",
+        "lawrence-creator/05_decision_logic.md",
+        "lawrence-creator/06_research_boundary.md",
+        "lawrence-creator/DISCLAIMER.md",
+        "lawrence-creator/README.md",
+        "lawrence-creator/SKILL.md",
+        "lawrence-creator/references/evidence-index.md",
+        "lawrence-creator/references/method-bridges.md",
+        "lawrence-creator/references/work-registry.md"
+      ],
+      "entry_count": 12,
+      "fixed_timestamp": [
+        2026,
+        10,
+        25,
+        0,
+        0,
+        0
+      ],
+      "sha256": "849f9e85014815bc3c792146134d156a61399ff18ce44f576120d3a8f6ec0fab",
+      "unix_file_mode": "100644"
+    },
+    "media-storm-creator.zip": {
+      "bytes": 236446,
+      "compression": "ZIP_STORED",
+      "entries": [
+        "media-storm-creator/01_portable_instruction.md",
+        "media-storm-creator/02_domain_kernel.md",
+        "media-storm-creator/03_product_policy.md",
+        "media-storm-creator/04_runtime_state.md",
+        "media-storm-creator/05_decision_logic.md",
+        "media-storm-creator/06_research_boundary.md",
+        "media-storm-creator/DISCLAIMER.md",
+        "media-storm-creator/README.md",
+        "media-storm-creator/SKILL.md",
+        "media-storm-creator/references/evidence-vnext.md",
+        "media-storm-creator/references/legacy-work-library.md"
+      ],
+      "entry_count": 11,
+      "fixed_timestamp": [
+        2026,
+        10,
+        25,
+        0,
+        0,
+        0
+      ],
+      "sha256": "57a3efa5106a187520bc817dd305093e097626912c20a418e9bf82e9a01985ba",
+      "unix_file_mode": "100644"
+    }
+  },
+  "authors": {
+    "he-tongxue-creator": {
+      "copy": {
+        "chunk_count": 11,
+        "chunks": [
+          {
+            "bytes": 16767,
+            "characters": 7616,
+            "encoding": "UTF-8",
+            "number": 1,
+            "path": "copy/Hetongxue/parts/01-of-11.txt",
+            "payload_bytes": 16242,
+            "payload_characters": 7383,
+            "payload_sha256": "2192fa2d72ceb317597dc7e1ebc8bcafe03095ce623141d5b72e43bfb2d9b02b",
+            "payload_start_byte_in_full_text": 0,
+            "payload_start_byte_in_part": 491,
+            "payload_start_character_in_full_text": 0,
+            "payload_start_character_in_part": 199,
+            "sha256": "68f3b407bca8e2177de0bc30857c7590102705de1bc84fc46d36df3eee16339f"
+          },
+          {
+            "bytes": 15156,
+            "characters": 7386,
+            "encoding": "UTF-8",
+            "number": 2,
+            "path": "copy/Hetongxue/parts/02-of-11.txt",
+            "payload_bytes": 14631,
+            "payload_characters": 7153,
+            "payload_sha256": "a33e491729f71f736956e67704f681a80fbef4622c488d8def7e56e7948e6487",
+            "payload_start_byte_in_full_text": 16242,
+            "payload_start_byte_in_part": 491,
+            "payload_start_character_in_full_text": 7383,
+            "payload_start_character_in_part": 199,
+            "sha256": "1309a8887517c7138cacfd456c24bd5b8095f2d3a29b73670fd23e2324b542a4"
+          },
+          {
+            "bytes": 17903,
+            "characters": 7633,
+            "encoding": "UTF-8",
+            "number": 3,
+            "path": "copy/Hetongxue/parts/03-of-11.txt",
+            "payload_bytes": 17378,
+            "payload_characters": 7400,
+            "payload_sha256": "bba216fc6f3a6c05a5a3d699d641a02d67ff27b7aa2deabb77598d69d2245133",
+            "payload_start_byte_in_full_text": 30873,
+            "payload_start_byte_in_part": 491,
+            "payload_start_character_in_full_text": 14536,
+            "payload_start_character_in_part": 199,
+            "sha256": "51e3cb485344fa0c6b68c42aacc82ca5c22772d14fd92247cf5d75e2da013efc"
+          },
+          {
+            "bytes": 14237,
+            "characters": 7541,
+            "encoding": "UTF-8",
+            "number": 4,
+            "path": "copy/Hetongxue/parts/04-of-11.txt",
+            "payload_bytes": 13712,
+            "payload_characters": 7308,
+            "payload_sha256": "ad50704b9da80a1ba4c6cab6204ecf1b0adc315f1093bb10877fd412af18c408",
+            "payload_start_byte_in_full_text": 48251,
+            "payload_start_byte_in_part": 491,
+            "payload_start_character_in_full_text": 21936,
+            "payload_start_character_in_part": 199,
+            "sha256": "e7e3eb594d4d5c6e3c9b330b80ee4c8bb9eb2807dee4e25a6d6f35ff28c6fb73"
+          },
+          {
+            "bytes": 15162,
+            "characters": 7084,
+            "encoding": "UTF-8",
+            "number": 5,
+            "path": "copy/Hetongxue/parts/05-of-11.txt",
+            "payload_bytes": 14637,
+            "payload_characters": 6851,
+            "payload_sha256": "8d897e1b8e4fa32fdab108a6a1d39e2d30daf3ddd93d7d9c13c50928a24a390b",
+            "payload_start_byte_in_full_text": 61963,
+            "payload_start_byte_in_part": 491,
+            "payload_start_character_in_full_text": 29244,
+            "payload_start_character_in_part": 199,
+            "sha256": "5aab53153da2362b4d61edb22f12987d0e81abf36b7e17aaba951b7892302634"
+          },
+          {
+            "bytes": 15406,
+            "characters": 7144,
+            "encoding": "UTF-8",
+            "number": 6,
+            "path": "copy/Hetongxue/parts/06-of-11.txt",
+            "payload_bytes": 14881,
+            "payload_characters": 6911,
+            "payload_sha256": "8a6d3d33e8c82b9fe8cf88e96451966e94fe346cd1dbd1a76daa183746ace553",
+            "payload_start_byte_in_full_text": 76600,
+            "payload_start_byte_in_part": 491,
+            "payload_start_character_in_full_text": 36095,
+            "payload_start_character_in_part": 199,
+            "sha256": "5fecefa3986561373e14fe2d68fd546a3df0c39169e8b719dddb1e31b6d485aa"
+          },
+          {
+            "bytes": 15889,
+            "characters": 7383,
+            "encoding": "UTF-8",
+            "number": 7,
+            "path": "copy/Hetongxue/parts/07-of-11.txt",
+            "payload_bytes": 15364,
+            "payload_characters": 7150,
+            "payload_sha256": "71c57e141822ddae34f5f02452dbbb2527c6742f465bee5417d90f7a8a2b2ce1",
+            "payload_start_byte_in_full_text": 91481,
+            "payload_start_byte_in_part": 491,
+            "payload_start_character_in_full_text": 43006,
+            "payload_start_character_in_part": 199,
+            "sha256": "91289cefbf5ff660adb133d5efd068bf84300df0b9fedaea9781bc0e6972f3fa"
+          },
+          {
+            "bytes": 15945,
+            "characters": 7523,
+            "encoding": "UTF-8",
+            "number": 8,
+            "path": "copy/Hetongxue/parts/08-of-11.txt",
+            "payload_bytes": 15420,
+            "payload_characters": 7290,
+            "payload_sha256": "db2bbe0f3a864895268a145db3b89ae7f51b91c764b7f2182446751427391f91",
+            "payload_start_byte_in_full_text": 106845,
+            "payload_start_byte_in_part": 491,
+            "payload_start_character_in_full_text": 50156,
+            "payload_start_character_in_part": 199,
+            "sha256": "9756761f5d5a73bbeb7469ee5fc447fcb9a838cef23d41dfaa4987d508244455"
+          },
+          {
+            "bytes": 15531,
+            "characters": 7131,
+            "encoding": "UTF-8",
+            "number": 9,
+            "path": "copy/Hetongxue/parts/09-of-11.txt",
+            "payload_bytes": 15006,
+            "payload_characters": 6898,
+            "payload_sha256": "9f1e2e82b96c5d39a5951a0493ee2a48c3b740515d3d32bf131a77c14c8dde23",
+            "payload_start_byte_in_full_text": 122265,
+            "payload_start_byte_in_part": 491,
+            "payload_start_character_in_full_text": 57446,
+            "payload_start_character_in_part": 199,
+            "sha256": "c7991f5576d22386876ff31e083890ae15d02d208cab2708939012e405086353"
+          },
+          {
+            "bytes": 15504,
+            "characters": 7116,
+            "encoding": "UTF-8",
+            "number": 10,
+            "path": "copy/Hetongxue/parts/10-of-11.txt",
+            "payload_bytes": 14979,
+            "payload_characters": 6883,
+            "payload_sha256": "e2a5d352f6fb6a30e5c3d8ae7609e4edbb94edb0936b8a8b9e391ebbc1e321bb",
+            "payload_start_byte_in_full_text": 137271,
+            "payload_start_byte_in_part": 491,
+            "payload_start_character_in_full_text": 64344,
+            "payload_start_character_in_part": 199,
+            "sha256": "9e12f10d7f7b91a73bd0c0a837455da277fc16ab41456c2ac7f5b9884640b33c"
+          },
+          {
+            "bytes": 10601,
+            "characters": 4989,
+            "encoding": "UTF-8",
+            "number": 11,
+            "path": "copy/Hetongxue/parts/11-of-11.txt",
+            "payload_bytes": 10076,
+            "payload_characters": 4756,
+            "payload_sha256": "b82b1640579124429e398274b83a7beedc0164a8f687995ae57ac143d8270a91",
+            "payload_start_byte_in_full_text": 152250,
+            "payload_start_byte_in_part": 491,
+            "payload_start_character_in_full_text": 71227,
+            "payload_start_character_in_part": 199,
+            "sha256": "f6ae4761581741435d83a3455571ad61192e66acd7433dc031bfc6ef9ff2946d"
+          }
+        ],
+        "full_copy_fence_characters": 8,
+        "maximum_part_characters": 8000,
+        "maximum_payload_characters": 7400,
+        "readme": {
+          "bytes": 165680,
+          "characters": 77695,
+          "encoding": "UTF-8",
+          "path": "copy/Hetongxue/README.md",
+          "sha256": "e952d86f9ecbb581594bb33268674eaebb770eedd986e2c07327e79ed171af61"
+        },
+        "reconstructed_payload": {
+          "bytes": 162326,
+          "characters": 75983,
+          "encoding": "UTF-8",
+          "sha256": "f2365c2db6f7503c735d834acc02f71a8f79fbe431312721d9ea7eb81f168981"
+        },
+        "reconstruction": "In listed order, slice each UTF-8-decoded part at payload_start_character_in_part for payload_characters, then concatenate. Byte offsets provide an equivalent exact extraction.",
+        "start": {
+          "bytes": 515,
+          "characters": 177,
+          "encoding": "UTF-8",
+          "path": "copy/Hetongxue/START.txt",
+          "sha256": "76ae9de37fcab000bde431b85c44e8c93b5147b9a01fe6993e780d605a6b260f"
+        },
+        "task": {
+          "bytes": 497,
+          "characters": 177,
+          "encoding": "UTF-8",
+          "path": "copy/Hetongxue/TASK.txt",
+          "sha256": "fa2bf1d5cc3a392cd899c8c592f59bd44d6d488318b4cb076dff7a254aa83c26"
+        }
+      },
+      "label": "何同学",
+      "method_version": "1.3.0",
+      "portable": {
+        "md": {
+          "bytes": 162326,
+          "characters": 75983,
+          "encoding": "UTF-8",
+          "path": "portable/Hetongxue-Portable.md",
+          "sha256": "f2365c2db6f7503c735d834acc02f71a8f79fbe431312721d9ea7eb81f168981"
+        },
+        "txt": {
+          "bytes": 162326,
+          "characters": 75983,
+          "encoding": "UTF-8",
+          "path": "portable/Hetongxue-Portable.txt",
+          "sha256": "f2365c2db6f7503c735d834acc02f71a8f79fbe431312721d9ea7eb81f168981"
+        }
+      },
+      "relative_links_rewritten": 15,
+      "source_sections": [
+        {
+          "anchor": "source-skill-md",
+          "links_rewritten": 9,
+          "portable_character_end": 2415,
+          "portable_character_start": 1333,
+          "rendered_characters": 1082,
+          "rendered_sha256": "270fe4ddb72025672977a1ca569e40d0d6442b54d7556543c1c2d64eb63654ea",
+          "source": "skills/he-tongxue-creator/SKILL.md",
+          "source_sha256": "9773c8a9f7858a12ad33f88b8847e552d5770ed09103bda929e522c0637c3200"
+        },
+        {
+          "anchor": "source-01-portable-instruction-md",
+          "links_rewritten": 0,
+          "portable_character_end": 3608,
+          "portable_character_start": 2639,
+          "rendered_characters": 969,
+          "rendered_sha256": "9d978acc3d8acc8502594808a325137b6ba572381746ebc162f9a5c651015daa",
+          "source": "skills/he-tongxue-creator/01_portable_instruction.md",
+          "source_sha256": "9d978acc3d8acc8502594808a325137b6ba572381746ebc162f9a5c651015daa"
+        },
+        {
+          "anchor": "source-02-domain-kernel-md",
+          "links_rewritten": 4,
+          "portable_character_end": 7381,
+          "portable_character_start": 3811,
+          "rendered_characters": 3570,
+          "rendered_sha256": "400fd819ef0bb6aef628e6a2bca06b59edb01edcff57ed1d7f991a7e739e3fa3",
+          "source": "skills/he-tongxue-creator/02_domain_kernel.md",
+          "source_sha256": "5b98456d77222be035ee4a0eebfb34096f83d8ada73fa0417c69a2d2c420248f"
+        },
+        {
+          "anchor": "source-03-product-policy-md",
+          "links_rewritten": 0,
+          "portable_character_end": 9185,
+          "portable_character_start": 7587,
+          "rendered_characters": 1598,
+          "rendered_sha256": "16aca488b2936379e4e150d73d54701c1227d23dfbc0f77827d052a464dc7d01",
+          "source": "skills/he-tongxue-creator/03_product_policy.md",
+          "source_sha256": "16aca488b2936379e4e150d73d54701c1227d23dfbc0f77827d052a464dc7d01"
+        },
+        {
+          "anchor": "source-04-runtime-state-md",
+          "links_rewritten": 0,
+          "portable_character_end": 11636,
+          "portable_character_start": 9388,
+          "rendered_characters": 2248,
+          "rendered_sha256": "f3e2c9da399657d41f4165f34af6c99c3d2582dcfd92c5216180ead6069db49f",
+          "source": "skills/he-tongxue-creator/04_runtime_state.md",
+          "source_sha256": "f3e2c9da399657d41f4165f34af6c99c3d2582dcfd92c5216180ead6069db49f"
+        },
+        {
+          "anchor": "source-05-decision-logic-md",
+          "links_rewritten": 0,
+          "portable_character_end": 14839,
+          "portable_character_start": 11842,
+          "rendered_characters": 2997,
+          "rendered_sha256": "3c8c5399e5c27792b5d28f105105a473222fcae61e5bd033529d6899376b8f8b",
+          "source": "skills/he-tongxue-creator/05_decision_logic.md",
+          "source_sha256": "3c8c5399e5c27792b5d28f105105a473222fcae61e5bd033529d6899376b8f8b"
+        },
+        {
+          "anchor": "source-06-research-boundary-md",
+          "links_rewritten": 1,
+          "portable_character_end": 17456,
+          "portable_character_start": 15054,
+          "rendered_characters": 2402,
+          "rendered_sha256": "5189267a58618e9c58670f6e7b4f69343e32c5612ffea6052e5b6864c31f899a",
+          "source": "skills/he-tongxue-creator/06_research_boundary.md",
+          "source_sha256": "c75c0a614bb2f21ea543b42c50e3790bc9114ef9263d707b293785b1e25ec829"
+        },
+        {
+          "anchor": "source-references-decision-tools-md",
+          "links_rewritten": 0,
+          "portable_character_end": 19947,
+          "portable_character_start": 17686,
+          "rendered_characters": 2261,
+          "rendered_sha256": "a51ce78ed7ed849e5a970fd4ebad2addfb99a9e1d002755b60fe94358417cb94",
+          "source": "skills/he-tongxue-creator/references/decision-tools.md",
+          "source_sha256": "a51ce78ed7ed849e5a970fd4ebad2addfb99a9e1d002755b60fe94358417cb94"
+        },
+        {
+          "anchor": "source-references-evidence-index-md",
+          "links_rewritten": 0,
+          "portable_character_end": 27697,
+          "portable_character_start": 20177,
+          "rendered_characters": 7520,
+          "rendered_sha256": "4e1afecac5317543ba338680e0bb6bd8fdd0078e7c728472ca95e14610cc8617",
+          "source": "skills/he-tongxue-creator/references/evidence-index.md",
+          "source_sha256": "4e1afecac5317543ba338680e0bb6bd8fdd0078e7c728472ca95e14610cc8617"
+        },
+        {
+          "anchor": "source-references-work-registry-md",
+          "links_rewritten": 1,
+          "portable_character_end": 75982,
+          "portable_character_start": 27924,
+          "rendered_characters": 48058,
+          "rendered_sha256": "ced1aa4bcbccba6278147214715165fead9c0a2b6f771f8ca3ba5de2413209a3",
+          "source": "skills/he-tongxue-creator/references/work-registry.md",
+          "source_sha256": "38f0ce2f3e820e140e4f7ec41bac9a900a52abe400a9f4d86c7f21fb2fdc608d"
+        }
+      ]
+    },
+    "lawrence-creator": {
+      "copy": {
+        "chunk_count": 13,
+        "chunks": [
+          {
+            "bytes": 17219,
+            "characters": 7500,
+            "encoding": "UTF-8",
+            "number": 1,
+            "path": "copy/Lawrence/parts/01-of-13.txt",
+            "payload_bytes": 16688,
+            "payload_characters": 7259,
+            "payload_sha256": "539ddbfce7e3cd96aa840eb250b10c152eae96159805ddcb836cc28159265790",
+            "payload_start_byte_in_full_text": 0,
+            "payload_start_byte_in_part": 497,
+            "payload_start_character_in_full_text": 0,
+            "payload_start_character_in_part": 207,
+            "sha256": "f557ee4a30b3fb7715d54a7173ca15ea91379e08b20f2053c67a117411dbebe1"
+          },
+          {
+            "bytes": 16098,
+            "characters": 7564,
+            "encoding": "UTF-8",
+            "number": 2,
+            "path": "copy/Lawrence/parts/02-of-13.txt",
+            "payload_bytes": 15567,
+            "payload_characters": 7323,
+            "payload_sha256": "414c042963e8ca90ffb01fe4a377772bd3c43d2d4f41806b753e67928db6feb5",
+            "payload_start_byte_in_full_text": 16688,
+            "payload_start_byte_in_part": 497,
+            "payload_start_character_in_full_text": 7259,
+            "payload_start_character_in_part": 207,
+            "sha256": "26e17e133d5a82c9fa171efd242eee9d7b0c2fb887c98ab8ace8f71c76140cc4"
+          },
+          {
+            "bytes": 16030,
+            "characters": 7636,
+            "encoding": "UTF-8",
+            "number": 3,
+            "path": "copy/Lawrence/parts/03-of-13.txt",
+            "payload_bytes": 15499,
+            "payload_characters": 7395,
+            "payload_sha256": "ff8d72ca0a54459ce1e43163915dfdd91d33abfc90570f22536504a052dade19",
+            "payload_start_byte_in_full_text": 32255,
+            "payload_start_byte_in_part": 497,
+            "payload_start_character_in_full_text": 14582,
+            "payload_start_character_in_part": 207,
+            "sha256": "8b137661fcc1f75c37f439bb9d42187e6b4cbc1ecdede682bac6e9fa7d04b064"
+          },
+          {
+            "bytes": 13860,
+            "characters": 7492,
+            "encoding": "UTF-8",
+            "number": 4,
+            "path": "copy/Lawrence/parts/04-of-13.txt",
+            "payload_bytes": 13329,
+            "payload_characters": 7251,
+            "payload_sha256": "18b312236d3539897919014e1a98a2c8a9f8987969bb88607e4266e818ed43fa",
+            "payload_start_byte_in_full_text": 47754,
+            "payload_start_byte_in_part": 497,
+            "payload_start_character_in_full_text": 21977,
+            "payload_start_character_in_part": 207,
+            "sha256": "a1ea8d3fb2dc70712caf527956ce4e6d8f1e467284d3815fd1253bc66d6df8b3"
+          },
+          {
+            "bytes": 15702,
+            "characters": 7334,
+            "encoding": "UTF-8",
+            "number": 5,
+            "path": "copy/Lawrence/parts/05-of-13.txt",
+            "payload_bytes": 15171,
+            "payload_characters": 7093,
+            "payload_sha256": "eac6a576f2c7c667b2a25516f684ca87f60514933c25b8491fb7a991c5c75510",
+            "payload_start_byte_in_full_text": 61083,
+            "payload_start_byte_in_part": 497,
+            "payload_start_character_in_full_text": 29228,
+            "payload_start_character_in_part": 207,
+            "sha256": "2cc1ec23c62f27a03a21344ce8cd7de53d1281ac3147958d3e74582f30cbce8c"
+          },
+          {
+            "bytes": 15544,
+            "characters": 7030,
+            "encoding": "UTF-8",
+            "number": 6,
+            "path": "copy/Lawrence/parts/06-of-13.txt",
+            "payload_bytes": 15013,
+            "payload_characters": 6789,
+            "payload_sha256": "acdd94fd3c97201756637947dc8a89139c39d5ebd447f583c59a666043ecfefe",
+            "payload_start_byte_in_full_text": 76254,
+            "payload_start_byte_in_part": 497,
+            "payload_start_character_in_full_text": 36321,
+            "payload_start_character_in_part": 207,
+            "sha256": "f757b88e3b34e74b4263ec3ad4be360ec130c68bfaae2f705d9459d391134449"
+          },
+          {
+            "bytes": 16353,
+            "characters": 7165,
+            "encoding": "UTF-8",
+            "number": 7,
+            "path": "copy/Lawrence/parts/07-of-13.txt",
+            "payload_bytes": 15822,
+            "payload_characters": 6924,
+            "payload_sha256": "71f4e2f08cf8aa613d03cc59683053f22d5234b920f907f17088d8ace3c3cad5",
+            "payload_start_byte_in_full_text": 91267,
+            "payload_start_byte_in_part": 497,
+            "payload_start_character_in_full_text": 43110,
+            "payload_start_character_in_part": 207,
+            "sha256": "54807d99c80e9c6814731318f1dec64788956271233e95b5af588bfedd327adc"
+          },
+          {
+            "bytes": 16791,
+            "characters": 7621,
+            "encoding": "UTF-8",
+            "number": 8,
+            "path": "copy/Lawrence/parts/08-of-13.txt",
+            "payload_bytes": 16260,
+            "payload_characters": 7380,
+            "payload_sha256": "ec075c4dc3c4728d93fafbd6d033268307555d1b8cae6cdfc1e1dae2abbd891d",
+            "payload_start_byte_in_full_text": 107089,
+            "payload_start_byte_in_part": 497,
+            "payload_start_character_in_full_text": 50034,
+            "payload_start_character_in_part": 207,
+            "sha256": "5265258d406a485744f519b8f1545ebf46a1b405cf1a9a22c7d2802aae998c98"
+          },
+          {
+            "bytes": 16022,
+            "characters": 7316,
+            "encoding": "UTF-8",
+            "number": 9,
+            "path": "copy/Lawrence/parts/09-of-13.txt",
+            "payload_bytes": 15491,
+            "payload_characters": 7075,
+            "payload_sha256": "6bc0e4e2e21f6644c245443a931f4ebf0219b7b6b087a3f483f46aba7d2a0d41",
+            "payload_start_byte_in_full_text": 123349,
+            "payload_start_byte_in_part": 497,
+            "payload_start_character_in_full_text": 57414,
+            "payload_start_character_in_part": 207,
+            "sha256": "7197a1c1c66540300c3c9a9689eb2e44abef9b7267613e999d479fd23eb613d8"
+          },
+          {
+            "bytes": 15024,
+            "characters": 7096,
+            "encoding": "UTF-8",
+            "number": 10,
+            "path": "copy/Lawrence/parts/10-of-13.txt",
+            "payload_bytes": 14493,
+            "payload_characters": 6855,
+            "payload_sha256": "58d8e5cb844a391475f32a2835e192756b3d0232ce893c60edeb2c26533d4a07",
+            "payload_start_byte_in_full_text": 138840,
+            "payload_start_byte_in_part": 497,
+            "payload_start_character_in_full_text": 64489,
+            "payload_start_character_in_part": 207,
+            "sha256": "defda155448b0281e33296cde402d45d819f04cf6e7effca858f4047ab980a86"
+          },
+          {
+            "bytes": 15225,
+            "characters": 7299,
+            "encoding": "UTF-8",
+            "number": 11,
+            "path": "copy/Lawrence/parts/11-of-13.txt",
+            "payload_bytes": 14694,
+            "payload_characters": 7058,
+            "payload_sha256": "abe97315d3bf49696f4374676552a7f2bedeb45dd7300bb9a5694738ccd404e5",
+            "payload_start_byte_in_full_text": 153333,
+            "payload_start_byte_in_part": 497,
+            "payload_start_character_in_full_text": 71344,
+            "payload_start_character_in_part": 207,
+            "sha256": "5010410fee7e5b5e5d6a8c73b058311aecc9ee2ecdd0c5d41744a6812336fd42"
+          },
+          {
+            "bytes": 14973,
+            "characters": 7065,
+            "encoding": "UTF-8",
+            "number": 12,
+            "path": "copy/Lawrence/parts/12-of-13.txt",
+            "payload_bytes": 14442,
+            "payload_characters": 6824,
+            "payload_sha256": "acfee29240c55aae36fc0d4f749ba2113240bb5ad76bd87a72a862965a3ac8e4",
+            "payload_start_byte_in_full_text": 168027,
+            "payload_start_byte_in_part": 497,
+            "payload_start_character_in_full_text": 78402,
+            "payload_start_character_in_part": 207,
+            "sha256": "5833f136e645df7480f1c796d2bb33f509967ee6be88de55f21b6c395dd1f216"
+          },
+          {
+            "bytes": 1756,
+            "characters": 884,
+            "encoding": "UTF-8",
+            "number": 13,
+            "path": "copy/Lawrence/parts/13-of-13.txt",
+            "payload_bytes": 1225,
+            "payload_characters": 643,
+            "payload_sha256": "e10e2185caee2aac747c997be543aa86de68af2274d1145012592d78345a8a2b",
+            "payload_start_byte_in_full_text": 182469,
+            "payload_start_byte_in_part": 497,
+            "payload_start_character_in_full_text": 85226,
+            "payload_start_character_in_part": 207,
+            "sha256": "c38f08ef4e70bdd3dd5c44e44882bf6834cacaaa4e13de97be04415b07e076c6"
+          }
+        ],
+        "full_copy_fence_characters": 8,
+        "maximum_part_characters": 8000,
+        "maximum_payload_characters": 7400,
+        "readme": {
+          "bytes": 187238,
+          "characters": 87713,
+          "encoding": "UTF-8",
+          "path": "copy/Lawrence/README.md",
+          "sha256": "11dd1659917cd33286a18971069be033cd145989b11dec9155dfd74df4477fe1"
+        },
+        "reconstructed_payload": {
+          "bytes": 183694,
+          "characters": 85869,
+          "encoding": "UTF-8",
+          "sha256": "71b980fa366f0704c2c9344a2481f9908bedc1083eff0b75dac44007d29355c4"
+        },
+        "reconstruction": "In listed order, slice each UTF-8-decoded part at payload_start_character_in_part for payload_characters, then concatenate. Byte offsets provide an equivalent exact extraction.",
+        "start": {
+          "bytes": 521,
+          "characters": 185,
+          "encoding": "UTF-8",
+          "path": "copy/Lawrence/START.txt",
+          "sha256": "3b8a58de1cf6c2b344f8ff5f6793a971b3b6442c2734da5cd7729376a4396ded"
+        },
+        "task": {
+          "bytes": 497,
+          "characters": 177,
+          "encoding": "UTF-8",
+          "path": "copy/Lawrence/TASK.txt",
+          "sha256": "fa2bf1d5cc3a392cd899c8c592f59bd44d6d488318b4cb076dff7a254aa83c26"
+        }
+      },
+      "label": "小鹿 Lawrence",
+      "method_version": "1.3.0",
+      "portable": {
+        "md": {
+          "bytes": 183694,
+          "characters": 85869,
+          "encoding": "UTF-8",
+          "path": "portable/Lawrence-Portable.md",
+          "sha256": "71b980fa366f0704c2c9344a2481f9908bedc1083eff0b75dac44007d29355c4"
+        },
+        "txt": {
+          "bytes": 183694,
+          "characters": 85869,
+          "encoding": "UTF-8",
+          "path": "portable/Lawrence-Portable.txt",
+          "sha256": "71b980fa366f0704c2c9344a2481f9908bedc1083eff0b75dac44007d29355c4"
+        }
+      },
+      "relative_links_rewritten": 18,
+      "source_sections": [
+        {
+          "anchor": "source-skill-md",
+          "links_rewritten": 10,
+          "portable_character_end": 2249,
+          "portable_character_start": 1339,
+          "rendered_characters": 910,
+          "rendered_sha256": "6cfcbb11c36923f9986b9a910fbb9efe981c5e19c863e09739d4908b0625ef9b",
+          "source": "skills/lawrence-creator/SKILL.md",
+          "source_sha256": "1674dc167a67e6575ab1ecaf9d0bba353a65b0b32603a8217832c653a203fc02"
+        },
+        {
+          "anchor": "source-01-portable-instruction-md",
+          "links_rewritten": 0,
+          "portable_character_end": 3399,
+          "portable_character_start": 2471,
+          "rendered_characters": 928,
+          "rendered_sha256": "55a96b96e2845a38b415af039dc6925af3901ac28869ba5e4190e6d8f8950f32",
+          "source": "skills/lawrence-creator/01_portable_instruction.md",
+          "source_sha256": "55a96b96e2845a38b415af039dc6925af3901ac28869ba5e4190e6d8f8950f32"
+        },
+        {
+          "anchor": "source-02-domain-kernel-md",
+          "links_rewritten": 3,
+          "portable_character_end": 7632,
+          "portable_character_start": 3600,
+          "rendered_characters": 4032,
+          "rendered_sha256": "becad35c464ea23d809a200a35061f5abab759843a6e460374d701aec9d3c282",
+          "source": "skills/lawrence-creator/02_domain_kernel.md",
+          "source_sha256": "58a3c214edd43b3d8620e26afa278257f7d119bc5c5344272e50a3e5d83c6977"
+        },
+        {
+          "anchor": "source-03-product-policy-md",
+          "links_rewritten": 0,
+          "portable_character_end": 9869,
+          "portable_character_start": 7836,
+          "rendered_characters": 2033,
+          "rendered_sha256": "d9e6dc54721a79ed82d09b71bdb62edc7b0e73708ca8754d485bee8812a88c36",
+          "source": "skills/lawrence-creator/03_product_policy.md",
+          "source_sha256": "d9e6dc54721a79ed82d09b71bdb62edc7b0e73708ca8754d485bee8812a88c36"
+        },
+        {
+          "anchor": "source-04-runtime-state-md",
+          "links_rewritten": 0,
+          "portable_character_end": 12295,
+          "portable_character_start": 10070,
+          "rendered_characters": 2225,
+          "rendered_sha256": "fbcb8dc401bba0e94ae84fe9aea999ef4ecce1c9ce6b6badd745974ba681f9a5",
+          "source": "skills/lawrence-creator/04_runtime_state.md",
+          "source_sha256": "fbcb8dc401bba0e94ae84fe9aea999ef4ecce1c9ce6b6badd745974ba681f9a5"
+        },
+        {
+          "anchor": "source-05-decision-logic-md",
+          "links_rewritten": 2,
+          "portable_character_end": 16618,
+          "portable_character_start": 12499,
+          "rendered_characters": 4119,
+          "rendered_sha256": "55d9c15b2430949c35ece1ffda11310f19a0c4bbdf0a4f84bb5966485daadf0c",
+          "source": "skills/lawrence-creator/05_decision_logic.md",
+          "source_sha256": "c62d93069286a426dbc9bfd29256444c0a8f2cfb75bce067b4e8ba9f77109844"
+        },
+        {
+          "anchor": "source-06-research-boundary-md",
+          "links_rewritten": 2,
+          "portable_character_end": 18983,
+          "portable_character_start": 16831,
+          "rendered_characters": 2152,
+          "rendered_sha256": "1a15976b1da24d036f86472e373755d00d8214102c0e654aaa05af3572a9e7f1",
+          "source": "skills/lawrence-creator/06_research_boundary.md",
+          "source_sha256": "ed1a0e673543e9ca52ea7008aff089d805d8ee4d2582949b5d945999842b7193"
+        },
+        {
+          "anchor": "source-references-evidence-index-md",
+          "links_rewritten": 0,
+          "portable_character_end": 26771,
+          "portable_character_start": 19211,
+          "rendered_characters": 7560,
+          "rendered_sha256": "fb47c30a3c90cc58dd0438c0bb1703f487b6370f5a634ebbf6febd3989547b8b",
+          "source": "skills/lawrence-creator/references/evidence-index.md",
+          "source_sha256": "fb47c30a3c90cc58dd0438c0bb1703f487b6370f5a634ebbf6febd3989547b8b"
+        },
+        {
+          "anchor": "source-references-method-bridges-md",
+          "links_rewritten": 1,
+          "portable_character_end": 28976,
+          "portable_character_start": 26999,
+          "rendered_characters": 1977,
+          "rendered_sha256": "aa236ac822c4e5e8f6a59f9b61e919378e263626c402c52530adb30eed45599c",
+          "source": "skills/lawrence-creator/references/method-bridges.md",
+          "source_sha256": "a12c578cc51b9c1fffbe41205f183509c8ca9e66fd970a79dfab7ab1dfcbe2cf"
+        },
+        {
+          "anchor": "source-references-work-registry-md",
+          "links_rewritten": 0,
+          "portable_character_end": 85868,
+          "portable_character_start": 29201,
+          "rendered_characters": 56667,
+          "rendered_sha256": "82d80fa0e8a43979988405e7790c0d62521a5ddaae86e128be22e01df1d6875b",
+          "source": "skills/lawrence-creator/references/work-registry.md",
+          "source_sha256": "82d80fa0e8a43979988405e7790c0d62521a5ddaae86e128be22e01df1d6875b"
+        }
+      ]
+    },
+    "media-storm-creator": {
+      "copy": {
+        "chunk_count": 16,
+        "chunks": [
+          {
+            "bytes": 17041,
+            "characters": 7612,
+            "encoding": "UTF-8",
+            "number": 1,
+            "path": "copy/MediaStorm/parts/01-of-16.txt",
+            "payload_bytes": 16513,
+            "payload_characters": 7378,
+            "payload_sha256": "e169c0c629bd2647ae5029bb0c877b1ab7f325459fe132efc2a6ae3636c391c1",
+            "payload_start_byte_in_full_text": 0,
+            "payload_start_byte_in_part": 494,
+            "payload_start_character_in_full_text": 0,
+            "payload_start_character_in_part": 200,
+            "sha256": "7f954d6850b17f25f1184ce841cb194806d6d215e8b6bf8abe80c533336a11bb"
+          },
+          {
+            "bytes": 17972,
+            "characters": 7634,
+            "encoding": "UTF-8",
+            "number": 2,
+            "path": "copy/MediaStorm/parts/02-of-16.txt",
+            "payload_bytes": 17444,
+            "payload_characters": 7400,
+            "payload_sha256": "db3efb7f8db4cc88d6c3fe9e8e7430d7db5f14d68e87f84ced64a232e7676ef1",
+            "payload_start_byte_in_full_text": 16513,
+            "payload_start_byte_in_part": 494,
+            "payload_start_character_in_full_text": 7378,
+            "payload_start_character_in_part": 200,
+            "sha256": "96850aae17499760dde477236c59a35a4ed3b73450b26af30ff0d0c480f74a99"
+          },
+          {
+            "bytes": 17249,
+            "characters": 7621,
+            "encoding": "UTF-8",
+            "number": 3,
+            "path": "copy/MediaStorm/parts/03-of-16.txt",
+            "payload_bytes": 16721,
+            "payload_characters": 7387,
+            "payload_sha256": "6df55fd5c0a8a784af7a23e2f0252de9d78018f429c8051000986d34b77c6861",
+            "payload_start_byte_in_full_text": 33957,
+            "payload_start_byte_in_part": 494,
+            "payload_start_character_in_full_text": 14778,
+            "payload_start_character_in_part": 200,
+            "sha256": "386c5c9facdd8c0175c3a01d35100c41ab9a4b6df8552a384f8bafca3be2eb4f"
+          },
+          {
+            "bytes": 15965,
+            "characters": 7483,
+            "encoding": "UTF-8",
+            "number": 4,
+            "path": "copy/MediaStorm/parts/04-of-16.txt",
+            "payload_bytes": 15437,
+            "payload_characters": 7249,
+            "payload_sha256": "b26ee11ab5bd333ab4a4d13994500547357cc238a1e6f272b403d09415ec5d37",
+            "payload_start_byte_in_full_text": 50678,
+            "payload_start_byte_in_part": 494,
+            "payload_start_character_in_full_text": 22165,
+            "payload_start_character_in_part": 200,
+            "sha256": "bf109f91db47fbbfe654384983903db4f8573b8ff26774a19679023a80d97304"
+          },
+          {
+            "bytes": 12932,
+            "characters": 6086,
+            "encoding": "UTF-8",
+            "number": 5,
+            "path": "copy/MediaStorm/parts/05-of-16.txt",
+            "payload_bytes": 12404,
+            "payload_characters": 5852,
+            "payload_sha256": "50633eafc39e8402dbac3f99c25a4f486ad3803155fe2573a8085fce9921a8e0",
+            "payload_start_byte_in_full_text": 66115,
+            "payload_start_byte_in_part": 494,
+            "payload_start_character_in_full_text": 29414,
+            "payload_start_character_in_part": 200,
+            "sha256": "e89e6e2ef6667adc71bd6f737dbaa3f385f44a3508836a17874f533dffc00b2e"
+          },
+          {
+            "bytes": 14497,
+            "characters": 7605,
+            "encoding": "UTF-8",
+            "number": 6,
+            "path": "copy/MediaStorm/parts/06-of-16.txt",
+            "payload_bytes": 13969,
+            "payload_characters": 7371,
+            "payload_sha256": "dcda87868079560253861da36c43d0a3c049895ab4f4bdf5d59626bc0b4bb0cb",
+            "payload_start_byte_in_full_text": 78519,
+            "payload_start_byte_in_part": 494,
+            "payload_start_character_in_full_text": 35266,
+            "payload_start_character_in_part": 200,
+            "sha256": "156346182e47f2336a687feaf21fe57f64633dd8976ff36a1baed622c98dd1e0"
+          },
+          {
+            "bytes": 14862,
+            "characters": 7618,
+            "encoding": "UTF-8",
+            "number": 7,
+            "path": "copy/MediaStorm/parts/07-of-16.txt",
+            "payload_bytes": 14334,
+            "payload_characters": 7384,
+            "payload_sha256": "45063d1c031cf06e2472bd78dae63026bd7bc58c290eb3979193d36a8d1885e8",
+            "payload_start_byte_in_full_text": 92488,
+            "payload_start_byte_in_part": 494,
+            "payload_start_character_in_full_text": 42637,
+            "payload_start_character_in_part": 200,
+            "sha256": "46abfe839a0f6f8b528f7ddf622936d9dedeee8be90512660e0912ed21091530"
+          },
+          {
+            "bytes": 14456,
+            "characters": 6944,
+            "encoding": "UTF-8",
+            "number": 8,
+            "path": "copy/MediaStorm/parts/08-of-16.txt",
+            "payload_bytes": 13928,
+            "payload_characters": 6710,
+            "payload_sha256": "5dd18d9a99ec5b4b64dc2ecec13e931908c9c63889ca51c246574463b40474c0",
+            "payload_start_byte_in_full_text": 106822,
+            "payload_start_byte_in_part": 494,
+            "payload_start_character_in_full_text": 50021,
+            "payload_start_character_in_part": 200,
+            "sha256": "ba40eb07b60fffb543760c5944a10c1f7f0d577ffd673f97682972d0be96c9d2"
+          },
+          {
+            "bytes": 15510,
+            "characters": 6846,
+            "encoding": "UTF-8",
+            "number": 9,
+            "path": "copy/MediaStorm/parts/09-of-16.txt",
+            "payload_bytes": 14982,
+            "payload_characters": 6612,
+            "payload_sha256": "febef747c49318628a9e5c73fb1b1717be1b72ef8397349bc114e58c77632078",
+            "payload_start_byte_in_full_text": 120750,
+            "payload_start_byte_in_part": 494,
+            "payload_start_character_in_full_text": 56731,
+            "payload_start_character_in_part": 200,
+            "sha256": "6d20a78854cd6086dad879394290fd6047e81b78249f0e95d8dfb57c293d008e"
+          },
+          {
+            "bytes": 16214,
+            "characters": 7027,
+            "encoding": "UTF-8",
+            "number": 10,
+            "path": "copy/MediaStorm/parts/10-of-16.txt",
+            "payload_bytes": 15686,
+            "payload_characters": 6793,
+            "payload_sha256": "b7bc6e70eef8c90a117caa9a870d0b4336bc7f93de2dc837dbce0c790e6a197b",
+            "payload_start_byte_in_full_text": 135732,
+            "payload_start_byte_in_part": 494,
+            "payload_start_character_in_full_text": 63343,
+            "payload_start_character_in_part": 200,
+            "sha256": "3dec9456ee3ef312921e7beee8e430fafe81c213f450d372e93f559cefdf0a9d"
+          },
+          {
+            "bytes": 16246,
+            "characters": 7139,
+            "encoding": "UTF-8",
+            "number": 11,
+            "path": "copy/MediaStorm/parts/11-of-16.txt",
+            "payload_bytes": 15718,
+            "payload_characters": 6905,
+            "payload_sha256": "6b5c61670bb51c12c4f0530d37878ad677455ead19aa33451ec193c64fc7aafa",
+            "payload_start_byte_in_full_text": 151418,
+            "payload_start_byte_in_part": 494,
+            "payload_start_character_in_full_text": 70136,
+            "payload_start_character_in_part": 200,
+            "sha256": "42601cc9dc80ead04bb078915808d47dc92f49c534a90540469ad5a158c879a5"
+          },
+          {
+            "bytes": 16382,
+            "characters": 7151,
+            "encoding": "UTF-8",
+            "number": 12,
+            "path": "copy/MediaStorm/parts/12-of-16.txt",
+            "payload_bytes": 15854,
+            "payload_characters": 6917,
+            "payload_sha256": "9439d5ce5a49b8a32c4b1fd06b767b5e6bdb31b4b266844bd51e717c51d77bc2",
+            "payload_start_byte_in_full_text": 167136,
+            "payload_start_byte_in_part": 494,
+            "payload_start_character_in_full_text": 77041,
+            "payload_start_character_in_part": 200,
+            "sha256": "d7cfe0c560b0de4f0cb072eb10d8af4fb3f0fd274bfb43d9940109a4adc4ce38"
+          },
+          {
+            "bytes": 16076,
+            "characters": 7032,
+            "encoding": "UTF-8",
+            "number": 13,
+            "path": "copy/MediaStorm/parts/13-of-16.txt",
+            "payload_bytes": 15548,
+            "payload_characters": 6798,
+            "payload_sha256": "545516b1839e70811e7ee2d85c80196693220dca89070c5a2d5b3c440317771f",
+            "payload_start_byte_in_full_text": 182990,
+            "payload_start_byte_in_part": 494,
+            "payload_start_character_in_full_text": 83958,
+            "payload_start_character_in_part": 200,
+            "sha256": "005225cdea7beecdfa2b0564b21bc8a50db032ed2d94cd616e473d9c643b9df9"
+          },
+          {
+            "bytes": 15966,
+            "characters": 7090,
+            "encoding": "UTF-8",
+            "number": 14,
+            "path": "copy/MediaStorm/parts/14-of-16.txt",
+            "payload_bytes": 15438,
+            "payload_characters": 6856,
+            "payload_sha256": "8bac2f1fa34b3acb1a2dd672b2da0a7c9ee8d0b85c1aad8524a1b767857877b9",
+            "payload_start_byte_in_full_text": 198538,
+            "payload_start_byte_in_part": 494,
+            "payload_start_character_in_full_text": 90756,
+            "payload_start_character_in_part": 200,
+            "sha256": "f7685d66fc305b57794020714954d8ab9718418f7a62ed538cfdc076d8fccdb8"
+          },
+          {
+            "bytes": 16817,
+            "characters": 7513,
+            "encoding": "UTF-8",
+            "number": 15,
+            "path": "copy/MediaStorm/parts/15-of-16.txt",
+            "payload_bytes": 16289,
+            "payload_characters": 7279,
+            "payload_sha256": "17f26eec0ccef9303128774b69e9af45298044c82421f3badcbc4d7951c5f0d6",
+            "payload_start_byte_in_full_text": 213976,
+            "payload_start_byte_in_part": 494,
+            "payload_start_character_in_full_text": 97612,
+            "payload_start_character_in_part": 200,
+            "sha256": "f8e4222ec614caf2f4d99d61ae2a7ebfadafb5138d55f848c15ab244a3e50a75"
+          },
+          {
+            "bytes": 6702,
+            "characters": 2993,
+            "encoding": "UTF-8",
+            "number": 16,
+            "path": "copy/MediaStorm/parts/16-of-16.txt",
+            "payload_bytes": 6174,
+            "payload_characters": 2759,
+            "payload_sha256": "b7bf55d84236b23bf957a5c1e73b481406df35ac45d2075f23ac618a04922870",
+            "payload_start_byte_in_full_text": 230265,
+            "payload_start_byte_in_part": 494,
+            "payload_start_character_in_full_text": 104891,
+            "payload_start_character_in_part": 200,
+            "sha256": "2e7980313e8c05a71fc50ac11c9c25555b0d4de7edbdb8becc546066d0e4bfa7"
+          }
+        ],
+        "full_copy_fence_characters": 8,
+        "maximum_part_characters": 8000,
+        "maximum_payload_characters": 7400,
+        "readme": {
+          "bytes": 240274,
+          "characters": 109691,
+          "encoding": "UTF-8",
+          "path": "copy/MediaStorm/README.md",
+          "sha256": "b457fd1a7606969e31109082a08a84c63709bad5710f6262aeab0e09cac8b5e7"
+        },
+        "reconstructed_payload": {
+          "bytes": 236439,
+          "characters": 107650,
+          "encoding": "UTF-8",
+          "sha256": "14b288e21b6a0316c32945ff3716c669564d71e24ecc3c1d72e854949bd3e285"
+        },
+        "reconstruction": "In listed order, slice each UTF-8-decoded part at payload_start_character_in_part for payload_characters, then concatenate. Byte offsets provide an equivalent exact extraction.",
+        "start": {
+          "bytes": 519,
+          "characters": 179,
+          "encoding": "UTF-8",
+          "path": "copy/MediaStorm/START.txt",
+          "sha256": "9dc9309f5e52d969f43356d5c28a1138bebab5f5ea2451495e9bdc4799713e42"
+        },
+        "task": {
+          "bytes": 497,
+          "characters": 177,
+          "encoding": "UTF-8",
+          "path": "copy/MediaStorm/TASK.txt",
+          "sha256": "fa2bf1d5cc3a392cd899c8c592f59bd44d6d488318b4cb076dff7a254aa83c26"
+        }
+      },
+      "label": "影视飓风",
+      "method_version": "1.22.0",
+      "portable": {
+        "md": {
+          "bytes": 236439,
+          "characters": 107650,
+          "encoding": "UTF-8",
+          "path": "portable/MediaStorm-Portable.md",
+          "sha256": "14b288e21b6a0316c32945ff3716c669564d71e24ecc3c1d72e854949bd3e285"
+        },
+        "txt": {
+          "bytes": 236439,
+          "characters": 107650,
+          "encoding": "UTF-8",
+          "path": "portable/MediaStorm-Portable.txt",
+          "sha256": "14b288e21b6a0316c32945ff3716c669564d71e24ecc3c1d72e854949bd3e285"
+        }
+      },
+      "relative_links_rewritten": 18,
+      "source_sections": [
+        {
+          "anchor": "source-skill-md",
+          "links_rewritten": 9,
+          "portable_character_end": 2194,
+          "portable_character_start": 1277,
+          "rendered_characters": 917,
+          "rendered_sha256": "0b2c3e75b906b434615d1075e83c70f9d281dd9d96e0d108153d59764b456dfe",
+          "source": "skills/media-storm-creator/SKILL.md",
+          "source_sha256": "03336a9c4f63faf89024ecbf65543cad459177eb16c12cca7c789893c964b348"
+        },
+        {
+          "anchor": "source-01-portable-instruction-md",
+          "links_rewritten": 5,
+          "portable_character_end": 4191,
+          "portable_character_start": 2419,
+          "rendered_characters": 1772,
+          "rendered_sha256": "692c091114fc07c2f79311847c20589e116c92d24c792c4e1415379328cf03b1",
+          "source": "skills/media-storm-creator/01_portable_instruction.md",
+          "source_sha256": "ecade84ceec05c0d5005411c555c417f3c348477cb6e3470901a2cabba3a7aba"
+        },
+        {
+          "anchor": "source-02-domain-kernel-md",
+          "links_rewritten": 3,
+          "portable_character_end": 9979,
+          "portable_character_start": 4395,
+          "rendered_characters": 5584,
+          "rendered_sha256": "87b95d98a1e9da574acbe64f415e63be034a7945d55b1a6db7e6933148757b31",
+          "source": "skills/media-storm-creator/02_domain_kernel.md",
+          "source_sha256": "7d9010b059d1297bf7d1acda9622649fd25e165d0d68f07a6b54e7eed5e629aa"
+        },
+        {
+          "anchor": "source-03-product-policy-md",
+          "links_rewritten": 0,
+          "portable_character_end": 12843,
+          "portable_character_start": 10186,
+          "rendered_characters": 2657,
+          "rendered_sha256": "ad52d11da56244ff7caa87dcda454b45844fd3fcf96956e52dceb7eda63fcad4",
+          "source": "skills/media-storm-creator/03_product_policy.md",
+          "source_sha256": "ad52d11da56244ff7caa87dcda454b45844fd3fcf96956e52dceb7eda63fcad4"
+        },
+        {
+          "anchor": "source-04-runtime-state-md",
+          "links_rewritten": 0,
+          "portable_character_end": 16227,
+          "portable_character_start": 13047,
+          "rendered_characters": 3180,
+          "rendered_sha256": "8846153593e0b2fa5f8288cfddf6cf4cf3751adab667d250df5c9df9ba601bc4",
+          "source": "skills/media-storm-creator/04_runtime_state.md",
+          "source_sha256": "8846153593e0b2fa5f8288cfddf6cf4cf3751adab667d250df5c9df9ba601bc4"
+        },
+        {
+          "anchor": "source-05-decision-logic-md",
+          "links_rewritten": 0,
+          "portable_character_end": 20341,
+          "portable_character_start": 16434,
+          "rendered_characters": 3907,
+          "rendered_sha256": "87870c99879437fd0cead8461a85a83d04c9d06f6b5d41a280439d8d9c43bdc9",
+          "source": "skills/media-storm-creator/05_decision_logic.md",
+          "source_sha256": "87870c99879437fd0cead8461a85a83d04c9d06f6b5d41a280439d8d9c43bdc9"
+        },
+        {
+          "anchor": "source-06-research-boundary-md",
+          "links_rewritten": 1,
+          "portable_character_end": 22716,
+          "portable_character_start": 20557,
+          "rendered_characters": 2159,
+          "rendered_sha256": "8f4aa8f8f34a1f9482b3b9d9ca38f0c6b561d555013c05456bba14e1a04828ee",
+          "source": "skills/media-storm-creator/06_research_boundary.md",
+          "source_sha256": "df6b0bf8ed629c5585bd51ce7aa87c4cec6b03ac27896a73b16ca9229e8bfa0c"
+        },
+        {
+          "anchor": "source-references-evidence-vnext-md",
+          "links_rewritten": 0,
+          "portable_character_end": 34298,
+          "portable_character_start": 22947,
+          "rendered_characters": 11351,
+          "rendered_sha256": "47cbed9650b772981024e45f2c002b2c9345cf6a91822fb2fe84ce3d2a1c73fa",
+          "source": "skills/media-storm-creator/references/evidence-vnext.md",
+          "source_sha256": "47cbed9650b772981024e45f2c002b2c9345cf6a91822fb2fe84ce3d2a1c73fa"
+        },
+        {
+          "anchor": "source-references-legacy-work-library-md",
+          "links_rewritten": 0,
+          "portable_character_end": 107649,
+          "portable_character_start": 34544,
+          "rendered_characters": 73105,
+          "rendered_sha256": "16b70c14294f49e5d995d6b91f9955cd42440e9b268ccadd723b416fcb8540a1",
+          "source": "skills/media-storm-creator/references/legacy-work-library.md",
+          "source_sha256": "16b70c14294f49e5d995d6b91f9955cd42440e9b268ccadd723b416fcb8540a1"
+        }
+      ]
+    }
+  },
+  "documentation_adaptations": {
+    "CHANGELOG.md": {
+      "policy": "Only relative navigation targets change. Standalone assets link to explicit GitHub reading pages; in the portable ZIP, links to six full method files stay local and other repository paths point to GitHub reading pages.",
+      "portable_archive_links_rewritten": 0,
+      "portable_archive_sha256": "4d657bdfc8c0154ed3271384d65b1dbda7e1c8c9ecec00700ed5915146a4de1a",
+      "source": "CHANGELOG.md",
+      "source_sha256": "4d657bdfc8c0154ed3271384d65b1dbda7e1c8c9ecec00700ed5915146a4de1a",
+      "standalone_links_rewritten": 0,
+      "standalone_sha256": "4d657bdfc8c0154ed3271384d65b1dbda7e1c8c9ecec00700ed5915146a4de1a"
+    },
+    "Cross-Platform-Guide.zh-CN.md": {
+      "policy": "Only relative navigation targets change. Standalone assets link to explicit GitHub reading pages; in the portable ZIP, links to six full method files stay local and other repository paths point to GitHub reading pages.",
+      "portable_archive_links_rewritten": 6,
+      "portable_archive_sha256": "15d76a155de4e6262b7ae64ab0321312a4b9d76e28a53e1a746182114f115181",
+      "source": "docs/使用指南.md",
+      "source_sha256": "216c372d290e9a2c762480f6e4a52fdc352b31b820f467a5d11db99cbd17ba4c",
+      "standalone_links_rewritten": 6,
+      "standalone_sha256": "15d76a155de4e6262b7ae64ab0321312a4b9d76e28a53e1a746182114f115181"
+    },
+    "DISCLAIMER.md": {
+      "policy": "Only relative navigation targets change. Standalone assets link to explicit GitHub reading pages; in the portable ZIP, links to six full method files stay local and other repository paths point to GitHub reading pages.",
+      "portable_archive_links_rewritten": 0,
+      "portable_archive_sha256": "9e3919f60542b1593c8bdb4c6ca98df5ee9d32afe909215c87ce8c71935bf979",
+      "source": "DISCLAIMER.md",
+      "source_sha256": "9e3919f60542b1593c8bdb4c6ca98df5ee9d32afe909215c87ce8c71935bf979",
+      "standalone_links_rewritten": 0,
+      "standalone_sha256": "9e3919f60542b1593c8bdb4c6ca98df5ee9d32afe909215c87ce8c71935bf979"
+    },
+    "KNOWN_LIMITS.md": {
+      "policy": "Only relative navigation targets change. Standalone assets link to explicit GitHub reading pages; in the portable ZIP, links to six full method files stay local and other repository paths point to GitHub reading pages.",
+      "portable_archive_links_rewritten": 0,
+      "portable_archive_sha256": "567f242822ef297751818cfc8e8f5128b641401d7026e63707d538f0671a861f",
+      "source": "KNOWN_LIMITS.md",
+      "source_sha256": "567f242822ef297751818cfc8e8f5128b641401d7026e63707d538f0671a861f",
+      "standalone_links_rewritten": 0,
+      "standalone_sha256": "567f242822ef297751818cfc8e8f5128b641401d7026e63707d538f0671a861f"
+    },
+    "README.md": {
+      "policy": "Only relative navigation targets change. Standalone assets link to explicit GitHub reading pages; in the portable ZIP, links to six full method files stay local and other repository paths point to GitHub reading pages.",
+      "portable_archive_links_rewritten": 16,
+      "portable_archive_sha256": "299212ce582b53cb88db2a0712934b8d47058bf52cb8636e37e751612ef7c76e",
+      "source": "README.md",
+      "source_sha256": "9e2aefd130f3ba163a9d69c3d238fe83184ef9439c85a785984fffdd0897db3b",
+      "standalone_links_rewritten": 16,
+      "standalone_sha256": "299212ce582b53cb88db2a0712934b8d47058bf52cb8636e37e751612ef7c76e"
+    }
+  },
+  "maintainer": "BANANAAAYEE",
+  "portable_policy": "The .md and .txt variants contain identical UTF-8 bytes. Source bodies are retained in full; only relative Markdown file links are rewritten to explicit internal anchors.",
+  "release_assets": {
+    "CHANGELOG.md": {
+      "bytes": 1522,
+      "characters": 708,
+      "encoding": "UTF-8",
+      "sha256": "4d657bdfc8c0154ed3271384d65b1dbda7e1c8c9ecec00700ed5915146a4de1a"
+    },
+    "Cross-Platform-Guide.zh-CN.md": {
+      "bytes": 8381,
+      "characters": 4001,
+      "encoding": "UTF-8",
+      "sha256": "15d76a155de4e6262b7ae64ab0321312a4b9d76e28a53e1a746182114f115181"
+    },
+    "DISCLAIMER.md": {
+      "bytes": 1662,
+      "characters": 612,
+      "encoding": "UTF-8",
+      "sha256": "9e3919f60542b1593c8bdb4c6ca98df5ee9d32afe909215c87ce8c71935bf979"
+    },
+    "Hetongxue-Portable.md": {
+      "bytes": 162326,
+      "characters": 75983,
+      "encoding": "UTF-8",
+      "sha256": "f2365c2db6f7503c735d834acc02f71a8f79fbe431312721d9ea7eb81f168981"
+    },
+    "Hetongxue-Portable.txt": {
+      "bytes": 162326,
+      "characters": 75983,
+      "encoding": "UTF-8",
+      "sha256": "f2365c2db6f7503c735d834acc02f71a8f79fbe431312721d9ea7eb81f168981"
+    },
+    "KNOWN_LIMITS.md": {
+      "bytes": 1658,
+      "characters": 592,
+      "encoding": "UTF-8",
+      "sha256": "567f242822ef297751818cfc8e8f5128b641401d7026e63707d538f0671a861f"
+    },
+    "Lawrence-Portable.md": {
+      "bytes": 183694,
+      "characters": 85869,
+      "encoding": "UTF-8",
+      "sha256": "71b980fa366f0704c2c9344a2481f9908bedc1083eff0b75dac44007d29355c4"
+    },
+    "Lawrence-Portable.txt": {
+      "bytes": 183694,
+      "characters": 85869,
+      "encoding": "UTF-8",
+      "sha256": "71b980fa366f0704c2c9344a2481f9908bedc1083eff0b75dac44007d29355c4"
+    },
+    "MediaStorm-Portable.md": {
+      "bytes": 236439,
+      "characters": 107650,
+      "encoding": "UTF-8",
+      "sha256": "14b288e21b6a0316c32945ff3716c669564d71e24ecc3c1d72e854949bd3e285"
+    },
+    "MediaStorm-Portable.txt": {
+      "bytes": 236439,
+      "characters": 107650,
+      "encoding": "UTF-8",
+      "sha256": "14b288e21b6a0316c32945ff3716c669564d71e24ecc3c1d72e854949bd3e285"
+    },
+    "README.md": {
+      "bytes": 6842,
+      "characters": 4029,
+      "encoding": "UTF-8",
+      "sha256": "299212ce582b53cb88db2a0712934b8d47058bf52cb8636e37e751612ef7c76e"
+    }
+  },
+  "release_assets_self_reference": "distribution-manifest.json and SHA256SUMS are omitted from this manifest's asset inventory to avoid cyclic hashes. SHA256SUMS includes the manifest, every named release asset and every archive, and excludes itself.",
+  "release_tag": "atlas-v3-2026.10.25",
+  "runtime_source_file_count": 29,
+  "runtime_sources": {
+    "he-tongxue-creator": {
+      "01_portable_instruction.md": {
+        "bytes": 2653,
+        "characters": 969,
+        "encoding": "UTF-8",
+        "sha256": "9d978acc3d8acc8502594808a325137b6ba572381746ebc162f9a5c651015daa"
+      },
+      "02_domain_kernel.md": {
+        "bytes": 8858,
+        "characters": 3538,
+        "encoding": "UTF-8",
+        "sha256": "5b98456d77222be035ee4a0eebfb34096f83d8ada73fa0417c69a2d2c420248f"
+      },
+      "03_product_policy.md": {
+        "bytes": 3958,
+        "characters": 1598,
+        "encoding": "UTF-8",
+        "sha256": "16aca488b2936379e4e150d73d54701c1227d23dfbc0f77827d052a464dc7d01"
+      },
+      "04_runtime_state.md": {
+        "bytes": 4222,
+        "characters": 2248,
+        "encoding": "UTF-8",
+        "sha256": "f3e2c9da399657d41f4165f34af6c99c3d2582dcfd92c5216180ead6069db49f"
+      },
+      "05_decision_logic.md": {
+        "bytes": 6573,
+        "characters": 2997,
+        "encoding": "UTF-8",
+        "sha256": "3c8c5399e5c27792b5d28f105105a473222fcae61e5bd033529d6899376b8f8b"
+      },
+      "06_research_boundary.md": {
+        "bytes": 5412,
+        "characters": 2394,
+        "encoding": "UTF-8",
+        "sha256": "c75c0a614bb2f21ea543b42c50e3790bc9114ef9263d707b293785b1e25ec829"
+      },
+      "SKILL.md": {
+        "bytes": 1856,
+        "characters": 1010,
+        "encoding": "UTF-8",
+        "sha256": "9773c8a9f7858a12ad33f88b8847e552d5770ed09103bda929e522c0637c3200"
+      },
+      "references/decision-tools.md": {
+        "bytes": 6271,
+        "characters": 2261,
+        "encoding": "UTF-8",
+        "sha256": "a51ce78ed7ed849e5a970fd4ebad2addfb99a9e1d002755b60fe94358417cb94"
+      },
+      "references/evidence-index.md": {
+        "bytes": 14842,
+        "characters": 7520,
+        "encoding": "UTF-8",
+        "sha256": "4e1afecac5317543ba338680e0bb6bd8fdd0078e7c728472ca95e14610cc8617"
+      },
+      "references/work-registry.md": {
+        "bytes": 103067,
+        "characters": 48039,
+        "encoding": "UTF-8",
+        "sha256": "38f0ce2f3e820e140e4f7ec41bac9a900a52abe400a9f4d86c7f21fb2fdc608d"
+      }
+    },
+    "lawrence-creator": {
+      "01_portable_instruction.md": {
+        "bytes": 2606,
+        "characters": 928,
+        "encoding": "UTF-8",
+        "sha256": "55a96b96e2845a38b415af039dc6925af3901ac28869ba5e4190e6d8f8950f32"
+      },
+      "02_domain_kernel.md": {
+        "bytes": 10478,
+        "characters": 4008,
+        "encoding": "UTF-8",
+        "sha256": "58a3c214edd43b3d8620e26afa278257f7d119bc5c5344272e50a3e5d83c6977"
+      },
+      "03_product_policy.md": {
+        "bytes": 5107,
+        "characters": 2033,
+        "encoding": "UTF-8",
+        "sha256": "d9e6dc54721a79ed82d09b71bdb62edc7b0e73708ca8754d485bee8812a88c36"
+      },
+      "04_runtime_state.md": {
+        "bytes": 4121,
+        "characters": 2225,
+        "encoding": "UTF-8",
+        "sha256": "fbcb8dc401bba0e94ae84fe9aea999ef4ecce1c9ce6b6badd745974ba681f9a5"
+      },
+      "05_decision_logic.md": {
+        "bytes": 9441,
+        "characters": 4103,
+        "encoding": "UTF-8",
+        "sha256": "c62d93069286a426dbc9bfd29256444c0a8f2cfb75bce067b4e8ba9f77109844"
+      },
+      "06_research_boundary.md": {
+        "bytes": 4796,
+        "characters": 2136,
+        "encoding": "UTF-8",
+        "sha256": "ed1a0e673543e9ca52ea7008aff089d805d8ee4d2582949b5d945999842b7193"
+      },
+      "SKILL.md": {
+        "bytes": 1638,
+        "characters": 830,
+        "encoding": "UTF-8",
+        "sha256": "1674dc167a67e6575ab1ecaf9d0bba353a65b0b32603a8217832c653a203fc02"
+      },
+      "references/evidence-index.md": {
+        "bytes": 12926,
+        "characters": 7560,
+        "encoding": "UTF-8",
+        "sha256": "fb47c30a3c90cc58dd0438c0bb1703f487b6370f5a634ebbf6febd3989547b8b"
+      },
+      "references/method-bridges.md": {
+        "bytes": 5300,
+        "characters": 1958,
+        "encoding": "UTF-8",
+        "sha256": "a12c578cc51b9c1fffbe41205f183509c8ca9e66fd970a79dfab7ab1dfcbe2cf"
+      },
+      "references/work-registry.md": {
+        "bytes": 122657,
+        "characters": 56667,
+        "encoding": "UTF-8",
+        "sha256": "82d80fa0e8a43979988405e7790c0d62521a5ddaae86e128be22e01df1d6875b"
+      }
+    },
+    "media-storm-creator": {
+      "01_portable_instruction.md": {
+        "bytes": 4462,
+        "characters": 1732,
+        "encoding": "UTF-8",
+        "sha256": "ecade84ceec05c0d5005411c555c417f3c348477cb6e3470901a2cabba3a7aba"
+      },
+      "02_domain_kernel.md": {
+        "bytes": 14190,
+        "characters": 5560,
+        "encoding": "UTF-8",
+        "sha256": "7d9010b059d1297bf7d1acda9622649fd25e165d0d68f07a6b54e7eed5e629aa"
+      },
+      "03_product_policy.md": {
+        "bytes": 6609,
+        "characters": 2657,
+        "encoding": "UTF-8",
+        "sha256": "ad52d11da56244ff7caa87dcda454b45844fd3fcf96956e52dceb7eda63fcad4"
+      },
+      "04_runtime_state.md": {
+        "bytes": 7026,
+        "characters": 3180,
+        "encoding": "UTF-8",
+        "sha256": "8846153593e0b2fa5f8288cfddf6cf4cf3751adab667d250df5c9df9ba601bc4"
+      },
+      "05_decision_logic.md": {
+        "bytes": 9197,
+        "characters": 3907,
+        "encoding": "UTF-8",
+        "sha256": "87870c99879437fd0cead8461a85a83d04c9d06f6b5d41a280439d8d9c43bdc9"
+      },
+      "06_research_boundary.md": {
+        "bytes": 5017,
+        "characters": 2151,
+        "encoding": "UTF-8",
+        "sha256": "df6b0bf8ed629c5585bd51ce7aa87c4cec6b03ac27896a73b16ca9229e8bfa0c"
+      },
+      "SKILL.md": {
+        "bytes": 1737,
+        "characters": 845,
+        "encoding": "UTF-8",
+        "sha256": "03336a9c4f63faf89024ecbf65543cad459177eb16c12cca7c789893c964b348"
+      },
+      "references/evidence-vnext.md": {
+        "bytes": 24367,
+        "characters": 11351,
+        "encoding": "UTF-8",
+        "sha256": "47cbed9650b772981024e45f2c002b2c9345cf6a91822fb2fe84ce3d2a1c73fa"
+      },
+      "references/legacy-work-library.md": {
+        "bytes": 159493,
+        "characters": 73105,
+        "encoding": "UTF-8",
+        "sha256": "16b70c14294f49e5d995d6b91f9955cd42440e9b268ccadd723b416fcb8540a1"
+      }
+    }
+  },
+  "schema_version": 1,
+  "source_policy": "Only skills/<name>/ runtime files are method sources; they are read-only and verified against 29 embedded SHA-256 baselines."
+}
