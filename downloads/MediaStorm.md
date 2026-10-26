@@ -1,23 +1,52 @@
 # 影视飓风｜下载与使用
 
-维护者：BANANAAAYEE。方法版本1.22.0，发行V3，2026-10-25。
+技术或产品问题怎样用影像回答，展示与测试怎样支持结论。
 
-**普通聊天用户：[下载完整TXT](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/MediaStorm-Portable.txt) · [下载完整Markdown](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/MediaStorm-Portable.md)**
+**[下载完整TXT](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/MediaStorm-Portable.txt)** · [在线阅读完整方法](../portable/MediaStorm-Portable.md) · [完整复制](../copy/MediaStorm/README.md)
 
-这是真实Release附件地址。维护者已授权现有仓库公开；现可匿名读取，无需本项目的GitHub访问授权。实际公开状态与下载验收以[发行状态](../docs/发行状态.md)和GitHub页面为准。
+## 普通聊天用户：选TXT即可
 
-此前本次Chrome客户端曾拦截GitHub附件下载（ERR_BLOCKED_BY_CLIENT），当时未通过端到端下载测试。公开后的下载结果以[实际测试记录](../docs/发行状态.md)为准；遇到客户端限制可阅读仓库全文复制或使用本地交付ZIP。
+1. 下载上方完整TXT，在你常用的AI聊天中上传。
+2. 让AI先读取完整内容，说明未能读取或缺失的部分。
+3. 告诉它你的创作任务、已有素材和不能改的地方。
 
-只想先看内容：[阅读完整TXT](../portable/MediaStorm-Portable.txt) · [阅读完整Markdown](../portable/MediaStorm-Portable.md)。也可从仓库文件页使用Raw/下载按钮保存。
+```text
+请先读取这份完整创作方法，说明未能读取或缺失的部分。
+我的任务：……
+已有素材：……
+不能改的地方：……
+请先给出结构，不写全文。
+```
 
-**上传不了：[直接复制完整方法](../copy/MediaStorm/README.md)**，或[打开编号分段目录](../copy/MediaStorm/parts/)。先发启动说明与全部方法，收齐后再发任务；启动短句不是完整方法，上下文不足必须说明有限加载。
+适用于当前客户端确实允许上传TXT的ChatGPT、Claude、Gemini、豆包、DeepSeek等聊天工具；各平台本轮均未登录实测。上传是提供方法资料，不等于本机安装或永久记忆。[跨平台指南](../docs/使用指南.md)
 
-**标准Skill用户：[下载单Skill安装包](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/media-storm-creator.zip) · [查看完整目录](../skills/media-storm-creator/README.md) · [安装方法](../docs/安装Skill.md)**。ZIP需完整解压；不要只拿SKILL.md。
+## 手机下载不方便，或上传不了
 
-下载TXT后添加到你常用的AI聊天，再发送：“请先读取这份完整方法，标明缺失或未读部分。我的任务是……；已有素材是……；不能改的是……。”
+直接打开[完整复制页](../copy/MediaStorm/README.md)：先发短启动说明，再发完整方法，最后发任务。正文太长就按[编号分段](../copy/MediaStorm/parts/)顺序发送。
 
-无需安装Python或再上传完整原始语料。平台能否接受附件与总上下文，以当前客户端为准。[跨平台指南](../docs/使用指南.md)
+**短启动词不是完整Skill。** 漏段、附件未读全或上下文不足时，应说明当前只能使用有限上下文版本。
 
-[三套便携文件合集ZIP](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/Creator-Methods-Atlas-Portable.zip) · [实际Release页面](https://github.com/Bananaaayee/creator-methods-skills/releases/tag/atlas-v3-2026.10.25)
+<details>
+<summary>其他格式与标准Skill安装</summary>
+
+- [下载完整Markdown](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/MediaStorm-Portable.md)：与TXT字节相同，当前客户端接受MD时可用。
+- [在线阅读完整TXT](../portable/MediaStorm-Portable.txt) · [在线阅读完整Markdown](../portable/MediaStorm-Portable.md)：仓库文件页也可使用Raw/下载入口保存。
+- [下载单Skill安装包](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/media-storm-creator.zip) · [查看完整目录](../skills/media-storm-creator/README.md) · [安装方法](../docs/安装Skill.md)。ZIP用于支持Skill的工具；完整解压后保留同名目录及全部配套文件，不要只拿SKILL.md。
+- [三套便携文件合集ZIP](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/Creator-Methods-Atlas-Portable.zip) · [正式Release页面](https://github.com/Bananaaayee/creator-methods-skills/releases/tag/atlas-v3-2026.10.25)。只用一套时，无需下载合集或整个仓库。
+
+</details>
+
+<details>
+<summary>版本、下载状态与验证记录</summary>
+
+维护者：BANANAAAYEE。方法版本1.22.0，发行V3，2026-10-25；本轮只优化说明，方法文件和现有Release附件保持不变。
+
+仓库现已公开，以上是真实Release附件地址，可匿名读取，无需本项目的GitHub访问授权。实际公开状态和下载验收见[发行状态](../docs/发行状态.md)。
+
+此前Chrome客户端曾拦截GitHub附件下载（ERR_BLOCKED_BY_CLIENT），当时未通过端到端下载测试。下载遇到客户端限制时，使用上方在线阅读或完整复制入口；此前参与交付者也可使用已提供的本地交付ZIP。公开后的下载结果以[实际测试记录](../docs/发行状态.md)为准。
+
+</details>
+
+[返回三套下载入口](README.md) · [完整使用指南](../docs/使用指南.md)
 
 第三方独立研究，与创作者及团队无已确认官方合作、授权或背书。第三方作品权利归其权利人。[完整声明](../DISCLAIMER.md)
