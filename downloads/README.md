@@ -50,18 +50,18 @@
 
 ## TXT、Markdown和Skill ZIP，选哪个
 
-- **完整TXT：**普通聊天用户的优先选择，上传后让AI读取。
-- **完整Markdown（MD）：**和TXT内容完全相同；你当前客户端接受MD时可选。
-- **单Skill ZIP：**供具有Skill导入入口或文件操作能力的工具安装，包含完整目录。普通聊天用户不必选它。[安装说明](../docs/安装Skill.md)
+- **完整TXT：** 普通聊天用户的优先选择，上传后让AI读取。
+- **完整Markdown（MD）：** 和TXT内容完全相同；你当前客户端接受MD时可选。
+- **单Skill ZIP：** 供具有Skill导入入口或文件操作能力的工具安装，包含完整目录。普通聊天用户不必选它。[安装说明](../docs/安装Skill.md)
 
 <details>
 <summary>其他格式、安装包与合集</summary>
 
 ### 单个文件与安装包
 
-- **影视飓风：**[完整Markdown](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/MediaStorm-Portable.md) · [单Skill ZIP](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/media-storm-creator.zip)
-- **何同学：**[完整Markdown](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/Hetongxue-Portable.md) · [单Skill ZIP](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/he-tongxue-creator.zip)
-- **小鹿 Lawrence：**[完整Markdown](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/Lawrence-Portable.md) · [单Skill ZIP](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/lawrence-creator.zip)
+- **影视飓风：** [完整Markdown](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/MediaStorm-Portable.md) · [单Skill ZIP](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/media-storm-creator.zip)
+- **何同学：** [完整Markdown](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/Hetongxue-Portable.md) · [单Skill ZIP](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/he-tongxue-creator.zip)
+- **小鹿 Lawrence：** [完整Markdown](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/Lawrence-Portable.md) · [单Skill ZIP](https://github.com/Bananaaayee/creator-methods-skills/releases/download/atlas-v3-2026.10.25/lawrence-creator.zip)
 
 ### 想一次保存三套
 
