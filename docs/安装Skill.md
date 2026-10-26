@@ -1,8 +1,8 @@
 # 安装标准Agent Skill
 
-**想让AI代办：**复制[交给AI的安装指令](交给AI安装.md)。成功需要当前环境能联网、写入文件并支持技能发现；使用Work、Claude Code或Codex的名称本身不保证这些条件。
+**想让AI代办：** 复制[交给AI的安装指令](交给AI安装.md)。成功需要当前环境能联网、写入文件并支持技能发现；使用Work、Claude Code或Codex的名称本身不保证这些条件。
 
-**只用聊天窗口：**直接[下载完整TXT](../downloads/README.md)或[复制全文](../copy/README.md)，不用运行下面命令。TXT是聊天资料，Skill ZIP是完整安装目录，两种用途不同。
+**只用聊天窗口：** 直接[下载完整TXT](../downloads/README.md)或[复制全文](../copy/README.md)，不用运行下面命令。TXT是聊天资料，Skill ZIP是完整安装目录，两种用途不同。
 
 <a id="使用通用skills安装器"></a>
 
@@ -32,10 +32,10 @@ npx skills add Bananaaayee/creator-methods-skills --skill media-storm-creator
 
 用你实际安装的名称替换下列影视飓风示例：
 
-- **Codex CLI／IDE：**`$media-storm-creator 请根据我的真实素材设计90秒结构。已有素材：……。不能改的地方：……。` 也可从技能选择器选中名称；未出现时按当前宿主说明刷新或重启。
-- **Claude Code：**`/media-storm-creator 请根据我的真实素材设计90秒结构。已有素材：……。`
-- **Gemini CLI：**“请使用 media-storm-creator，先读取对应规则，再根据我的真实素材设计90秒结构。已有素材：……。” 必要时`/skills reload`，保留技能激活与工作区信任确认。
-- **Work及其他Agent：**先确认当前会话中能发现该技能，再按该宿主的选择器或自然语言调用；不要假定本机安装自动同步到云端或其他项目。
+- **Codex CLI／IDE：** `$media-storm-creator 请根据我的真实素材设计90秒结构。已有素材：……。不能改的地方：……。` 也可从技能选择器选中名称；未出现时按当前宿主说明刷新或重启。
+- **Claude Code：** `/media-storm-creator 请根据我的真实素材设计90秒结构。已有素材：……。`
+- **Gemini CLI：** “请使用 media-storm-creator，先读取对应规则，再根据我的真实素材设计90秒结构。已有素材：……。” 必要时`/skills reload`，保留技能激活与工作区信任确认。
+- **Work及其他Agent：** 先确认当前会话中能发现该技能，再按该宿主的选择器或自然语言调用；不要假定本机安装自动同步到云端或其他项目。
 
 另外两套对应名称为`he-tongxue-creator`、`lawrence-creator`。普通聊天窗口若只是上传了TXT，发送“请根据我提供的完整方法……”即可，不使用不属于该产品的斜杠命令。
 
