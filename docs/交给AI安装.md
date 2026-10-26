@@ -1,5 +1,7 @@
 # 让AI帮我安装
 
+**想用复制按钮：** 打开[仓库首页的安装指令](https://github.com/Bananaaayee/creator-methods-skills#交给ai的安装指令)，展开后复制整块。部分GitHub文件预览没有复制按钮；在本页也可手动选中下方完整指令。
+
 把下面整段发给**能联网并操作文件**的AI Agent。它会先检查环境与目标，在你确认位置、范围及同名文件处理方式后安装你选择的一套。把链接交给Work、Claude Code或Codex也遵循这些条件；仅有模型名称或网页阅读能力并不够。
 
 普通ChatGPT、Claude、Gemini、豆包和DeepSeek聊天窗口若没有这类工具，直接用[完整TXT](../downloads/README.md)或[全文复制](../copy/README.md)。本轮未实测这些聊天平台的导入或模型调用。
